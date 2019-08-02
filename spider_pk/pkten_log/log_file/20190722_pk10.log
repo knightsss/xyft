@@ -1,0 +1,33 @@
+2019-07-22 22:29:35,230 - xyft_purchase.purchase_client_main - INFO - cs11234 not start
+2019-07-22 22:29:35,322 - xyft_purchase.purchase_client_main - INFO - mk168333 not start
+2019-07-22 22:29:47,944 - xyft_purchase_jinsha.purchase_client_main - INFO - cs11234 not start
+2019-07-22 22:29:48,000 - xyft_purchase_jinsha.purchase_client_main - INFO - mk168333 not start
+2019-07-22 22:44:49,180 - xyft_purchase_jinsha.purchase_client_main - INFO - cs11234 not start
+2019-07-22 22:44:49,263 - xyft_purchase_jinsha.purchase_client_main - INFO - mk168333 not start
+2019-07-22 22:44:52,811 - xyft_purchase_jinsha.purchase_client_main - INFO - money:1
+2019-07-22 22:48:55,131 - xyft_purchase_jinsha.purchase_client_main - INFO - cs11234 not start
+2019-07-22 22:48:55,180 - xyft_purchase_jinsha.purchase_client_main - INFO - mk168333 not start
+2019-07-22 22:48:57,217 - xyft_purchase_jinsha.purchase_client_main - INFO - money:1
+2019-07-22 22:50:50,796 - xyft_purchase_jinsha.purchase_client_main - INFO - cs11234 not start
+2019-07-22 22:50:50,852 - xyft_purchase_jinsha.purchase_client_main - INFO - mk168333 not start
+2019-07-22 22:50:53,042 - xyft_purchase_jinsha.purchase_client_main - INFO - money:1
+2019-07-22 22:52:07,966 - xyft_purchase_jinsha.purchase_client_main - INFO - cs11234 not start
+2019-07-22 22:52:08,009 - xyft_purchase_jinsha.purchase_client_main - INFO - mk168333 not start
+2019-07-22 22:52:10,707 - xyft_purchase_jinsha.purchase_client_main - INFO - money:1
+2019-07-22 22:54:37,049 - xyft_purchase_jinsha.purchase_driver - INFO - click notice!
+2019-07-22 22:54:37,061 - xyft_purchase_jinsha.purchase_driver - INFO - not found xubox_setwin notice!
+2019-07-22 22:54:37,068 - xyft_purchase_jinsha.purchase_driver - INFO - not found btn_close_pop notice!
+2019-07-22 22:54:37,076 - xyft_purchase_jinsha.purchase_driver - ERROR - not found PK10 link!
+2019-07-22 22:54:37,082 - xyft_purchase_jinsha.purchase_driver - INFO - current_url:http://888xjs.cc/Member/Index/agreement.html
+2019-07-22 22:54:47,085 - xyft_purchase_jinsha.purchase_client_main - WARNING - thread is not alive start!!!
+2019-07-22 22:54:47,085 - xyft_purchase_jinsha.client_thread - INFO - start purchase
+2019-07-22 22:54:47,086 - xyft_purchase_jinsha.purchase_client_main - INFO - request server interface!
+2019-07-22 22:55:02,539 - xyft_purchase_jinsha.purchase_client_main - INFO - cs11234 not start
+2019-07-22 22:55:02,584 - xyft_purchase_jinsha.purchase_client_main - INFO - mk168333 not start
+2019-07-22 22:55:09,403 - xyft_purchase_jinsha.purchase_client_main - INFO - money:1
+2019-07-22 22:58:02,938 - xyft_purchase_jinsha.purchase_client_main - INFO - cs11234 not start
+2019-07-22 22:58:02,986 - xyft_purchase_jinsha.purchase_client_main - INFO - mk168333 not start
+2019-07-22 22:58:05,368 - xyft_purchase_jinsha.purchase_client_main - INFO - money:1
+2019-07-22 23:00:23,210 - xyft_purchase_jinsha.purchase_client_main - INFO - cs11234 not start
+2019-07-22 23:00:23,292 - xyft_purchase_jinsha.purchase_client_main - INFO - mk168333 not start
+2019-07-22 23:00:25,720 - xyft_purchase_jinsha.purchase_client_main - INFO - money:1

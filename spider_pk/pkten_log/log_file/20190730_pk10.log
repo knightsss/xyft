@@ -1,0 +1,19 @@
+2019-07-30 18:20:57,403 - xyft_purchase_wow.purchase_client_main - INFO - cs11234 not start
+2019-07-30 18:20:57,480 - xyft_purchase_wow.purchase_client_main - INFO - mk168333 not start
+2019-07-30 18:20:57,538 - xyft_purchase_wow.purchase_client_main - INFO - jm8899 not start
+2019-07-30 18:21:02,380 - xyft_purchase_wow.purchase_client_main - INFO - user_name:jm8899
+2019-07-30 18:21:02,381 - xyft_purchase_wow.purchase_client_main - INFO - password:ab123456
+2019-07-30 18:21:02,381 - xyft_purchase_wow.purchase_client_main - INFO - init monry:1
+2019-07-30 18:21:29,400 - xyft_purchase_wow.purchase_driver - INFO - select lines
+2019-07-30 18:21:43,707 - xyft_purchase_wow.purchase_driver - INFO - switch to mem_index
+2019-07-30 18:21:47,951 - xyft_purchase_wow.purchase_driver - INFO - click commit
+2019-07-30 18:21:55,085 - xyft_purchase_wow.purchase_driver - INFO - click agree
+2019-07-30 18:22:33,882 - xyft_purchase_wow.purchase_driver - INFO - return frame
+2019-07-30 18:22:33,888 - xyft_purchase_wow.purchase_driver - INFO - switch mem_index
+2019-07-30 18:22:34,910 - xyft_purchase_wow.purchase_driver - INFO - click caipiao dating
+2019-07-30 18:22:35,911 - xyft_purchase_wow.purchase_driver - INFO - click caipiao dating 2
+2019-07-30 18:22:41,051 - xyft_purchase_wow.purchase_driver - INFO - switch mainFrame 
+2019-07-30 18:22:42,082 - xyft_purchase_wow.purchase_driver - INFO - click xyft 
+2019-07-30 18:22:49,313 - xyft_purchase_wow.purchase_driver - INFO - switch IndexFrame 
+2019-07-30 18:22:52,430 - xyft_purchase_wow.purchase_driver - INFO - click 1-10 
+2019-07-30 18:22:59,690 - xyft_purchase_wow.purchase_client_main - WARNING - thread is not alive start!!!

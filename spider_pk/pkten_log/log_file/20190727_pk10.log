@@ -1,0 +1,402 @@
+2019-07-27 11:19:04,296 - xyft_purchase_jinsha.purchase_client_main - INFO - cs11234 not start
+2019-07-27 11:19:04,358 - xyft_purchase_jinsha.purchase_client_main - INFO - mk168333 not start
+2019-07-27 11:19:04,417 - xyft_purchase_jinsha.purchase_client_main - INFO - jm8899 not start
+2019-07-27 11:19:14,618 - xyft_predict.main - INFO - cs11234 not start
+2019-07-27 11:19:14,678 - xyft_predict.main - INFO - mk168333 not start
+2019-07-27 11:19:14,736 - xyft_predict.main - INFO - jm8899 not start
+2019-07-27 11:19:29,854 - azxy10_predict.main - INFO - cs11234 not start
+2019-07-27 11:19:41,604 - azxy10_predict.main - INFO - [u'1', u'2', u'3', u'4', u'5', u'6', u'7', u'8', u'9', u'10']
+2019-07-27 11:19:41,607 - azxy10_predict.main - DEBUG - thread is not alive start!!!
+2019-07-27 11:19:51,611 - azxy10_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-27&lotCode=10012
+2019-07-27 11:20:08,309 - azxy10_purchase.purchase_client_main - INFO - cs11234 not start
+2019-07-27 11:20:21,415 - azxy10_predict.main - DEBUG - predicts is null
+2019-07-27 11:20:21,417 - azxy10_predict.main - DEBUG - lottery_id: 0
+2019-07-27 11:20:21,417 - azxy10_predict.main - DEBUG - no predict record in history
+2019-07-27 11:20:21,424 - azxy10_predict.main - INFO - save predict_lottery_id : 20608886
+2019-07-27 11:20:21,424 - azxy10_predict.main - INFO - save purchase_number_list : 10|5|6|2|4|9|7,6|8|1|5|10|4|7,1|7|10|2|8|6|5,4|1|9|6|3|8|5,9|3|7|2|1|6|10,7|9|5|10|3|2|8,5|2|10|6|7|3|1,3|4|1|10|7|5|2,2|10|4|3|9|8|1,8|2|4|5|1|6|3
+2019-07-27 11:20:21,424 - azxy10_predict.main - INFO - save_predict_time：2019-07-27 11:20:21
+2019-07-27 11:20:21,424 - azxy10_predict.main - INFO - gain_money_total total : 0
+2019-07-27 11:20:21,424 - azxy10_predict.main - DEBUG - purchase_number_list len: 70
+2019-07-27 11:20:21,426 - azxy10_predict.main - INFO - next_xiazhu_all total : -70
+2019-07-27 11:20:21,426 - azxy10_predict.main - INFO - result xiazhu : 1
+2019-07-27 11:20:22,609 - azxy10_purchase.purchase_client_main - INFO - user_name:cs11234
+2019-07-27 11:20:22,609 - azxy10_purchase.purchase_client_main - INFO - password:Abc123456
+2019-07-27 11:20:22,612 - azxy10_purchase.purchase_client_main - INFO - init monry:1
+2019-07-27 11:22:13,759 - azxy10_purchase.purchase_driver - WARNING - unfound button4
+2019-07-27 11:22:13,763 - azxy10_purchase.purchase_driver - WARNING - unfound button5
+2019-07-27 11:22:16,204 - azxy10_purchase.purchase_client_main - WARNING - thread is not alive start!!!
+2019-07-27 11:24:14,506 - azxy10_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-27&lotCode=10012
+2019-07-27 11:24:25,000 - azxy10_predict.main - DEBUG - lottery_id: 20608886
+2019-07-27 11:24:25,000 - azxy10_predict.main - INFO - lottery_num: 04,09,08,03,10,05,06,07,01,02
+2019-07-27 11:24:25,003 - azxy10_predict.main - DEBUG - mingci [1]: 4
+2019-07-27 11:24:25,003 - azxy10_predict.main - DEBUG - purchase_number_list[i]: [u'10', u'5', u'6', u'2', u'4', u'9', u'7']
+2019-07-27 11:24:25,003 - azxy10_predict.main - DEBUG - mingci [2]: 9
+2019-07-27 11:24:25,005 - azxy10_predict.main - DEBUG - purchase_number_list[i]: [u'6', u'8', u'1', u'5', u'10', u'4', u'7']
+2019-07-27 11:24:25,005 - azxy10_predict.main - DEBUG - mingci [3]: 8
+2019-07-27 11:24:25,005 - azxy10_predict.main - DEBUG - purchase_number_list[i]: [u'1', u'7', u'10', u'2', u'8', u'6', u'5']
+2019-07-27 11:24:25,006 - azxy10_predict.main - DEBUG - mingci [4]: 3
+2019-07-27 11:24:25,006 - azxy10_predict.main - DEBUG - purchase_number_list[i]: [u'4', u'1', u'9', u'6', u'3', u'8', u'5']
+2019-07-27 11:24:25,006 - azxy10_predict.main - DEBUG - mingci [5]: 10
+2019-07-27 11:24:25,006 - azxy10_predict.main - DEBUG - purchase_number_list[i]: [u'9', u'3', u'7', u'2', u'1', u'6', u'10']
+2019-07-27 11:24:25,006 - azxy10_predict.main - DEBUG - mingci [6]: 5
+2019-07-27 11:24:25,006 - azxy10_predict.main - DEBUG - purchase_number_list[i]: [u'7', u'9', u'5', u'10', u'3', u'2', u'8']
+2019-07-27 11:24:25,006 - azxy10_predict.main - DEBUG - mingci [7]: 6
+2019-07-27 11:24:25,006 - azxy10_predict.main - DEBUG - purchase_number_list[i]: [u'5', u'2', u'10', u'6', u'7', u'3', u'1']
+2019-07-27 11:24:25,007 - azxy10_predict.main - DEBUG - mingci [8]: 7
+2019-07-27 11:24:25,007 - azxy10_predict.main - DEBUG - purchase_number_list[i]: [u'3', u'4', u'1', u'10', u'7', u'5', u'2']
+2019-07-27 11:24:25,007 - azxy10_predict.main - DEBUG - mingci [9]: 1
+2019-07-27 11:24:25,007 - azxy10_predict.main - DEBUG - purchase_number_list[i]: [u'2', u'10', u'4', u'3', u'9', u'8', u'1']
+2019-07-27 11:24:25,009 - azxy10_predict.main - DEBUG - mingci [10]: 2
+2019-07-27 11:24:25,009 - azxy10_predict.main - DEBUG - purchase_number_list[i]: [u'8', u'2', u'4', u'5', u'1', u'6', u'3']
+2019-07-27 11:24:25,009 - azxy10_predict.main - DEBUG - ------all_count: 70  ----target_count: 9 
+2019-07-27 11:24:25,009 - azxy10_predict.main - DEBUG - target_count: 0.128571
+2019-07-27 11:24:25,056 - azxy10_predict.main - INFO - last_purchase_hit: True
+2019-07-27 11:24:25,056 - azxy10_predict.main - INFO - xiazhu_nums: 0
+2019-07-27 11:24:25,072 - azxy10_predict.main - INFO - save predict_lottery_id : 20608887
+2019-07-27 11:24:25,072 - azxy10_predict.main - INFO - save purchase_number_list : 4|10|5|6|2|9|7,9|6|8|1|5|10|4,8|1|7|10|2|6|5,3|4|1|9|6|8|5,10|9|3|7|2|1|6,5|7|9|10|3|2|8,6|5|2|10|7|3|1,7|3|4|1|10|5|2,1|2|10|4|3|9|8,2|8|4|5|1|6|3
+2019-07-27 11:24:25,072 - azxy10_predict.main - INFO - save_predict_time：2019-07-27 11:24:25
+2019-07-27 11:24:25,072 - azxy10_predict.main - INFO - gain_money_total total : 0
+2019-07-27 11:24:25,073 - azxy10_predict.main - DEBUG - purchase_number_list len: 70
+2019-07-27 11:24:25,073 - azxy10_predict.main - INFO - next_xiazhu_all total : -70
+2019-07-27 11:24:25,073 - azxy10_predict.main - INFO - result xiazhu : 1
+2019-07-27 11:25:06,216 - azxy10_purchase.client_thread - INFO - 开始购买
+2019-07-27 11:25:21,223 - azxy10_purchase.purchase_client_main - INFO - purchase time is no region!
+2019-07-27 11:25:36,224 - azxy10_purchase.purchase_client_main - INFO - purchase time is no region!
+2019-07-27 11:25:51,224 - azxy10_purchase.purchase_client_main - INFO - purchase time is no region!
+2019-07-27 11:25:51,246 - azxy10_purchase.purchase_client_main - INFO - start purchase, xiazhu money:1
+2019-07-27 11:25:51,249 - azxy10_purchase.purchase_client_main - INFO - calc gain_all_money:19
+2019-07-27 11:25:51,253 - azxy10_purchase.purchase_client_main - INFO - purchase_url:https://5069725987-ccgj.qq168.ws/member/index#
+2019-07-27 11:25:51,267 - azxy10_purchase.purchase_client_main - INFO - purchase_url reload ok
+2019-07-27 11:26:02,782 - azxy10_purchase.purchase_client_main - INFO - web get gain_all_money:0
+2019-07-27 11:26:02,783 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B1_4"]/input
+2019-07-27 11:26:02,788 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:02,803 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B1_10"]/input
+2019-07-27 11:26:02,805 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:02,823 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B1_5"]/input
+2019-07-27 11:26:02,825 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:02,854 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B1_6"]/input
+2019-07-27 11:26:02,855 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:02,871 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B1_2"]/input
+2019-07-27 11:26:02,871 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:02,888 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B1_9"]/input
+2019-07-27 11:26:02,888 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:02,904 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B1_7"]/input
+2019-07-27 11:26:02,904 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:02,924 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B2_9"]/input
+2019-07-27 11:26:02,924 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:02,941 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B2_6"]/input
+2019-07-27 11:26:02,943 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:02,966 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B2_8"]/input
+2019-07-27 11:26:02,966 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:02,984 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B2_1"]/input
+2019-07-27 11:26:02,984 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,006 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B2_5"]/input
+2019-07-27 11:26:03,006 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,023 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B2_10"]/input
+2019-07-27 11:26:03,023 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,042 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B2_4"]/input
+2019-07-27 11:26:03,042 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,072 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B3_8"]/input
+2019-07-27 11:26:03,073 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,107 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B3_1"]/input
+2019-07-27 11:26:03,107 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,125 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B3_7"]/input
+2019-07-27 11:26:03,125 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,151 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B3_10"]/input
+2019-07-27 11:26:03,151 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,174 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B3_2"]/input
+2019-07-27 11:26:03,176 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,190 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B3_6"]/input
+2019-07-27 11:26:03,191 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,220 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B3_5"]/input
+2019-07-27 11:26:03,220 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,242 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B4_3"]/input
+2019-07-27 11:26:03,242 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,266 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B4_4"]/input
+2019-07-27 11:26:03,267 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,286 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B4_1"]/input
+2019-07-27 11:26:03,286 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,302 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B4_9"]/input
+2019-07-27 11:26:03,303 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,321 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B4_6"]/input
+2019-07-27 11:26:03,321 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,336 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B4_8"]/input
+2019-07-27 11:26:03,336 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,357 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B4_5"]/input
+2019-07-27 11:26:03,358 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,374 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B5_10"]/input
+2019-07-27 11:26:03,375 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,400 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B5_9"]/input
+2019-07-27 11:26:03,400 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,417 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B5_3"]/input
+2019-07-27 11:26:03,417 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,434 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B5_7"]/input
+2019-07-27 11:26:03,434 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,450 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B5_2"]/input
+2019-07-27 11:26:03,450 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,467 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B5_1"]/input
+2019-07-27 11:26:03,467 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,483 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B5_6"]/input
+2019-07-27 11:26:03,483 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,493 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B6_5"]/input
+2019-07-27 11:26:03,496 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,509 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B6_7"]/input
+2019-07-27 11:26:03,513 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,526 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B6_9"]/input
+2019-07-27 11:26:03,528 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,540 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B6_10"]/input
+2019-07-27 11:26:03,540 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,555 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B6_3"]/input
+2019-07-27 11:26:03,555 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,572 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B6_2"]/input
+2019-07-27 11:26:03,572 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,586 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B6_8"]/input
+2019-07-27 11:26:03,588 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,602 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B7_6"]/input
+2019-07-27 11:26:03,604 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,618 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B7_5"]/input
+2019-07-27 11:26:03,618 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,631 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B7_2"]/input
+2019-07-27 11:26:03,631 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,644 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B7_10"]/input
+2019-07-27 11:26:03,644 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,655 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B7_7"]/input
+2019-07-27 11:26:03,657 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,680 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B7_3"]/input
+2019-07-27 11:26:03,680 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,690 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B7_1"]/input
+2019-07-27 11:26:03,691 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,710 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B8_7"]/input
+2019-07-27 11:26:03,711 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,726 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B8_3"]/input
+2019-07-27 11:26:03,726 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,742 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B8_4"]/input
+2019-07-27 11:26:03,743 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,757 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B8_1"]/input
+2019-07-27 11:26:03,757 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,775 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B8_10"]/input
+2019-07-27 11:26:03,775 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,789 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B8_5"]/input
+2019-07-27 11:26:03,789 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,806 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B8_2"]/input
+2019-07-27 11:26:03,808 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,822 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B9_1"]/input
+2019-07-27 11:26:03,822 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,841 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B9_2"]/input
+2019-07-27 11:26:03,842 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,861 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B9_10"]/input
+2019-07-27 11:26:03,861 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,871 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B9_4"]/input
+2019-07-27 11:26:03,872 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,885 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B9_3"]/input
+2019-07-27 11:26:03,887 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,901 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B9_9"]/input
+2019-07-27 11:26:03,903 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,918 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B9_8"]/input
+2019-07-27 11:26:03,918 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,934 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B10_2"]/input
+2019-07-27 11:26:03,934 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,950 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B10_8"]/input
+2019-07-27 11:26:03,950 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,960 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B10_4"]/input
+2019-07-27 11:26:03,961 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,974 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B10_5"]/input
+2019-07-27 11:26:03,976 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:03,990 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B10_1"]/input
+2019-07-27 11:26:03,992 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:04,003 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B10_6"]/input
+2019-07-27 11:26:04,003 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:04,019 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B10_3"]/input
+2019-07-27 11:26:04,020 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:26:07,608 - azxy10_purchase.purchase_client_main - INFO - ������
+2019-07-27 11:26:08,615 - azxy10_purchase.purchase_client_main - INFO - current url:https://5069725987-ccgj.qq168.ws/member/index#
+2019-07-27 11:26:08,617 - azxy10_purchase.purchase_client_main - INFO - purchase sucess!, input money:70
+2019-07-27 11:26:08,671 - azxy10_purchase.purchase_client_main - INFO - save xiazhu args sucess!
+2019-07-27 11:29:18,161 - azxy10_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-27&lotCode=10012
+2019-07-27 11:29:28,203 - azxy10_predict.main - DEBUG - lottery_id: 20608887
+2019-07-27 11:29:28,204 - azxy10_predict.main - INFO - lottery_num: 02,06,04,05,03,01,10,08,07,09
+2019-07-27 11:29:28,207 - azxy10_predict.main - DEBUG - mingci [1]: 2
+2019-07-27 11:29:28,207 - azxy10_predict.main - DEBUG - purchase_number_list[i]: [u'4', u'10', u'5', u'6', u'2', u'9', u'7']
+2019-07-27 11:29:28,209 - azxy10_predict.main - DEBUG - mingci [2]: 6
+2019-07-27 11:29:28,209 - azxy10_predict.main - DEBUG - purchase_number_list[i]: [u'9', u'6', u'8', u'1', u'5', u'10', u'4']
+2019-07-27 11:29:28,211 - azxy10_predict.main - DEBUG - mingci [3]: 4
+2019-07-27 11:29:28,211 - azxy10_predict.main - DEBUG - purchase_number_list[i]: [u'8', u'1', u'7', u'10', u'2', u'6', u'5']
+2019-07-27 11:29:28,213 - azxy10_predict.main - DEBUG - mingci [4]: 5
+2019-07-27 11:29:28,213 - azxy10_predict.main - DEBUG - purchase_number_list[i]: [u'3', u'4', u'1', u'9', u'6', u'8', u'5']
+2019-07-27 11:29:28,214 - azxy10_predict.main - DEBUG - mingci [5]: 3
+2019-07-27 11:29:28,214 - azxy10_predict.main - DEBUG - purchase_number_list[i]: [u'10', u'9', u'3', u'7', u'2', u'1', u'6']
+2019-07-27 11:29:28,216 - azxy10_predict.main - DEBUG - mingci [6]: 1
+2019-07-27 11:29:28,216 - azxy10_predict.main - DEBUG - purchase_number_list[i]: [u'5', u'7', u'9', u'10', u'3', u'2', u'8']
+2019-07-27 11:29:28,217 - azxy10_predict.main - DEBUG - mingci [7]: 10
+2019-07-27 11:29:28,219 - azxy10_predict.main - DEBUG - purchase_number_list[i]: [u'6', u'5', u'2', u'10', u'7', u'3', u'1']
+2019-07-27 11:29:28,220 - azxy10_predict.main - DEBUG - mingci [8]: 8
+2019-07-27 11:29:28,220 - azxy10_predict.main - DEBUG - purchase_number_list[i]: [u'7', u'3', u'4', u'1', u'10', u'5', u'2']
+2019-07-27 11:29:28,220 - azxy10_predict.main - DEBUG - mingci [9]: 7
+2019-07-27 11:29:28,220 - azxy10_predict.main - DEBUG - purchase_number_list[i]: [u'1', u'2', u'10', u'4', u'3', u'9', u'8']
+2019-07-27 11:29:28,220 - azxy10_predict.main - DEBUG - mingci [10]: 9
+2019-07-27 11:29:28,220 - azxy10_predict.main - DEBUG - purchase_number_list[i]: [u'2', u'8', u'4', u'5', u'1', u'6', u'3']
+2019-07-27 11:29:28,221 - azxy10_predict.main - DEBUG - ------all_count: 70  ----target_count: 5 
+2019-07-27 11:29:28,221 - azxy10_predict.main - DEBUG - target_count: 0.071429
+2019-07-27 11:29:28,278 - azxy10_predict.main - INFO - last_purchase_hit: False
+2019-07-27 11:29:28,279 - azxy10_predict.main - INFO - xiazhu_nums: 0
+2019-07-27 11:29:28,292 - azxy10_predict.main - INFO - save predict_lottery_id : 20608888
+2019-07-27 11:29:28,292 - azxy10_predict.main - INFO - save purchase_number_list : 2|4|10|5|6|9|7,6|9|8|1|5|10|4,4|8|1|7|10|2|6,5|3|4|1|9|6|8,3|10|9|7|2|1|6,1|5|7|9|10|3|2,10|6|5|2|7|3|1,8|7|3|4|1|10|5,7|1|2|10|4|3|9,9|2|8|4|5|1|6
+2019-07-27 11:29:28,292 - azxy10_predict.main - INFO - save_predict_time：2019-07-27 11:29:28
+2019-07-27 11:29:28,293 - azxy10_predict.main - INFO - gain_money_total total : -20
+2019-07-27 11:29:28,296 - azxy10_predict.main - DEBUG - purchase_number_list len: 70
+2019-07-27 11:29:28,302 - azxy10_predict.main - INFO - calc_xainzhu:1, last_xiazhu increase:1
+2019-07-27 11:29:28,302 - azxy10_predict.main - INFO - next_xiazhu_all total : -160
+2019-07-27 11:29:28,302 - azxy10_predict.main - INFO - result xiazhu : 1
+2019-07-27 11:30:06,687 - azxy10_purchase.client_thread - INFO - 开始购买
+2019-07-27 11:30:21,690 - azxy10_purchase.purchase_client_main - INFO - purchase time is no region!
+2019-07-27 11:30:36,691 - azxy10_purchase.purchase_client_main - INFO - purchase time is no region!
+2019-07-27 11:30:51,694 - azxy10_purchase.purchase_client_main - INFO - purchase time is no region!
+2019-07-27 11:30:51,707 - azxy10_purchase.purchase_client_main - INFO - start purchase, xiazhu money:1
+2019-07-27 11:30:51,709 - azxy10_purchase.purchase_client_main - INFO - calc gain_all_money:-1
+2019-07-27 11:30:51,711 - azxy10_purchase.purchase_client_main - INFO - purchase_url:https://5069725987-ccgj.qq168.ws/member/index#
+2019-07-27 11:30:51,724 - azxy10_purchase.purchase_client_main - INFO - purchase_url reload ok
+2019-07-27 11:31:03,229 - azxy10_purchase.purchase_client_main - INFO - web get gain_all_money:-20
+2019-07-27 11:31:03,230 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B1_2"]/input
+2019-07-27 11:31:03,230 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,253 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B1_4"]/input
+2019-07-27 11:31:03,255 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,272 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B1_10"]/input
+2019-07-27 11:31:03,273 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,295 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B1_5"]/input
+2019-07-27 11:31:03,296 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,322 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B1_6"]/input
+2019-07-27 11:31:03,323 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,338 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B1_9"]/input
+2019-07-27 11:31:03,339 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,358 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B1_7"]/input
+2019-07-27 11:31:03,358 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,384 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B2_6"]/input
+2019-07-27 11:31:03,384 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,404 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B2_9"]/input
+2019-07-27 11:31:03,404 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,427 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B2_8"]/input
+2019-07-27 11:31:03,430 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,456 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B2_1"]/input
+2019-07-27 11:31:03,456 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,482 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B2_5"]/input
+2019-07-27 11:31:03,483 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,505 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B2_10"]/input
+2019-07-27 11:31:03,506 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,522 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B2_4"]/input
+2019-07-27 11:31:03,523 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,548 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B3_4"]/input
+2019-07-27 11:31:03,549 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,571 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B3_8"]/input
+2019-07-27 11:31:03,572 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,585 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B3_1"]/input
+2019-07-27 11:31:03,585 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,604 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B3_7"]/input
+2019-07-27 11:31:03,604 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,624 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B3_10"]/input
+2019-07-27 11:31:03,625 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,647 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B3_2"]/input
+2019-07-27 11:31:03,648 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,667 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B3_6"]/input
+2019-07-27 11:31:03,667 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,683 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B4_5"]/input
+2019-07-27 11:31:03,683 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,700 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B4_3"]/input
+2019-07-27 11:31:03,700 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,717 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B4_4"]/input
+2019-07-27 11:31:03,717 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,736 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B4_1"]/input
+2019-07-27 11:31:03,736 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,752 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B4_9"]/input
+2019-07-27 11:31:03,752 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,769 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B4_6"]/input
+2019-07-27 11:31:03,769 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,780 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B4_8"]/input
+2019-07-27 11:31:03,782 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,798 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B5_3"]/input
+2019-07-27 11:31:03,798 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,809 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B5_10"]/input
+2019-07-27 11:31:03,809 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,834 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B5_9"]/input
+2019-07-27 11:31:03,835 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,855 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B5_7"]/input
+2019-07-27 11:31:03,855 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,871 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B5_2"]/input
+2019-07-27 11:31:03,872 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,892 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B5_1"]/input
+2019-07-27 11:31:03,894 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,920 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B5_6"]/input
+2019-07-27 11:31:03,920 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,934 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B6_1"]/input
+2019-07-27 11:31:03,934 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,951 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B6_5"]/input
+2019-07-27 11:31:03,953 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,973 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B6_7"]/input
+2019-07-27 11:31:03,973 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:03,990 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B6_9"]/input
+2019-07-27 11:31:03,990 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:04,019 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B6_10"]/input
+2019-07-27 11:31:04,019 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:04,033 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B6_3"]/input
+2019-07-27 11:31:04,035 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:04,069 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B6_2"]/input
+2019-07-27 11:31:04,071 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:04,085 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B7_10"]/input
+2019-07-27 11:31:04,086 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:04,105 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B7_6"]/input
+2019-07-27 11:31:04,107 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:04,118 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B7_5"]/input
+2019-07-27 11:31:04,119 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:04,135 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B7_2"]/input
+2019-07-27 11:31:04,135 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:04,151 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B7_7"]/input
+2019-07-27 11:31:04,153 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:04,168 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B7_3"]/input
+2019-07-27 11:31:04,170 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:04,183 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B7_1"]/input
+2019-07-27 11:31:04,183 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:04,200 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B8_8"]/input
+2019-07-27 11:31:04,200 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:04,223 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B8_7"]/input
+2019-07-27 11:31:04,223 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:04,239 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B8_3"]/input
+2019-07-27 11:31:04,240 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:04,259 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B8_4"]/input
+2019-07-27 11:31:04,259 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:04,286 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B8_1"]/input
+2019-07-27 11:31:04,288 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:04,302 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B8_10"]/input
+2019-07-27 11:31:04,302 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:04,321 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B8_5"]/input
+2019-07-27 11:31:04,322 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:04,341 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B9_7"]/input
+2019-07-27 11:31:04,342 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:04,365 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B9_1"]/input
+2019-07-27 11:31:04,365 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:04,384 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B9_2"]/input
+2019-07-27 11:31:04,384 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:04,400 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B9_10"]/input
+2019-07-27 11:31:04,401 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:04,417 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B9_4"]/input
+2019-07-27 11:31:04,417 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:04,431 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B9_3"]/input
+2019-07-27 11:31:04,433 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:04,450 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B9_9"]/input
+2019-07-27 11:31:04,450 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:04,467 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B10_9"]/input
+2019-07-27 11:31:04,467 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:04,486 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B10_2"]/input
+2019-07-27 11:31:04,486 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:04,503 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B10_8"]/input
+2019-07-27 11:31:04,503 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:04,523 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B10_4"]/input
+2019-07-27 11:31:04,525 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:04,552 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B10_5"]/input
+2019-07-27 11:31:04,552 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:04,571 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B10_1"]/input
+2019-07-27 11:31:04,571 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:04,588 - azxy10_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B10_6"]/input
+2019-07-27 11:31:04,588 - azxy10_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-27 11:31:08,154 - azxy10_purchase.purchase_client_main - INFO - ������
+2019-07-27 11:31:09,157 - azxy10_purchase.purchase_client_main - INFO - current url:https://5069725987-ccgj.qq168.ws/member/index#
+2019-07-27 11:31:09,158 - azxy10_purchase.purchase_client_main - INFO - purchase sucess!, input money:70
+2019-07-27 11:31:09,209 - azxy10_purchase.purchase_client_main - INFO - save xiazhu args sucess!

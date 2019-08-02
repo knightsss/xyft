@@ -1,0 +1,49 @@
+2019-07-25 19:28:42,023 - xyft_purchase_jinsha.purchase_client_main - INFO - cs11234 not start
+2019-07-25 19:28:42,112 - xyft_purchase_jinsha.purchase_client_main - INFO - mk168333 not start
+2019-07-25 19:28:42,163 - xyft_purchase_jinsha.purchase_client_main - INFO - jm8899 not start
+2019-07-25 19:29:39,930 - xyft_purchase_jinsha.purchase_client_main - INFO - cs11234 not start
+2019-07-25 19:29:39,994 - xyft_purchase_jinsha.purchase_client_main - INFO - mk168333 not start
+2019-07-25 19:29:40,045 - xyft_purchase_jinsha.purchase_client_main - INFO - jm8899 not start
+2019-07-25 19:29:46,872 - xyft_purchase_jinsha.purchase_client_main - INFO - money:1
+2019-07-25 19:30:23,023 - xyft_purchase_jinsha.purchase_driver - INFO - click agree
+2019-07-25 19:30:29,094 - xyft_purchase_jinsha.purchase_driver - INFO - click notice!
+2019-07-25 19:30:35,118 - xyft_purchase_jinsha.purchase_driver - INFO - current_url:http://888xjs.cc/Member/Index/play/lottery_id/320.html
+2019-07-25 19:30:45,118 - xyft_purchase_jinsha.purchase_client_main - WARNING - thread is not alive start!!!
+2019-07-25 19:33:05,128 - xyft_purchase_jinsha.client_thread - INFO - start purchase
+2019-07-25 19:33:25,128 - xyft_purchase_jinsha.purchase_client_main - INFO - purchase time is no region!
+2019-07-25 19:33:45,131 - xyft_purchase_jinsha.purchase_client_main - INFO - purchase time is no region!
+2019-07-25 19:34:05,134 - xyft_purchase_jinsha.purchase_client_main - INFO - purchase time is no region!
+2019-07-25 19:34:25,134 - xyft_purchase_jinsha.purchase_client_main - INFO - purchase time is no region!
+2019-07-25 19:34:45,138 - xyft_purchase_jinsha.purchase_client_main - INFO - purchase time is no region!
+2019-07-25 19:35:05,141 - xyft_purchase_jinsha.purchase_client_main - INFO - purchase time is no region!
+2019-07-25 19:35:25,141 - xyft_purchase_jinsha.purchase_client_main - INFO - purchase time is no region!
+2019-07-25 19:35:45,142 - xyft_purchase_jinsha.purchase_client_main - INFO - purchase time is no region!
+2019-07-25 19:36:05,142 - xyft_purchase_jinsha.purchase_client_main - INFO - purchase time is no region!
+2019-07-25 19:36:05,142 - xyft_purchase_jinsha.purchase_client_main - INFO - request server interface!
+2019-07-25 19:44:56,454 - xyft_purchase_jinsha.purchase_client_main - INFO - cs11234 not start
+2019-07-25 19:44:56,513 - xyft_purchase_jinsha.purchase_client_main - INFO - mk168333 not start
+2019-07-25 19:44:56,569 - xyft_purchase_jinsha.purchase_client_main - INFO - jm8899 not start
+2019-07-25 19:45:08,176 - xyft_predict.main - INFO - cs11234 not start
+2019-07-25 19:45:08,236 - xyft_predict.main - INFO - mk168333 not start
+2019-07-25 19:45:08,286 - xyft_predict.main - INFO - jm8899 not start
+2019-07-25 19:45:14,207 - xyft_predict.main - INFO - [u'1', u'2', u'3', u'4', u'5']
+2019-07-25 19:45:14,210 - xyft_predict.main - DEBUG - thread is not alive start!!!
+2019-07-25 19:45:24,219 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-25&lotCode=10057
+2019-07-25 19:45:29,201 - xyft_purchase_jinsha.purchase_client_main - INFO - money:2
+2019-07-25 19:45:29,463 - xyft_predict.main - DEBUG - predicts is null
+2019-07-25 19:45:29,464 - xyft_predict.main - DEBUG - lottery_id: 0
+2019-07-25 19:45:29,464 - xyft_predict.main - DEBUG - no predict record in history
+2019-07-25 19:45:29,473 - xyft_predict.main - INFO - save predict_lottery_id : 20190725081
+2019-07-25 19:45:29,473 - xyft_predict.main - INFO - save purchase_number_list : 5|4|2|6|7|3|8,3|5|1|8|7|2|10,10|8|7|5|2|6|4,9|10|2|1|3|4|6,6|5|7|3|9|1|4,0,0,0,0,0
+2019-07-25 19:45:29,473 - xyft_predict.main - INFO - save_predict_time：2019-07-25 19:45:29
+2019-07-25 19:45:29,474 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-25 19:45:29,474 - xyft_predict.main - DEBUG - purchase_number_list len: 35
+2019-07-25 19:45:29,474 - xyft_predict.main - INFO - next_xiazhu_all total : -35
+2019-07-25 19:45:29,474 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-25 19:46:07,960 - xyft_purchase_jinsha.purchase_driver - INFO - click agree
+2019-07-25 19:46:21,052 - xyft_purchase_jinsha.purchase_driver - INFO - click notice!
+2019-07-25 19:46:38,290 - xyft_purchase_jinsha.purchase_driver - INFO - current_url:http://888xjs.cc/Member/Index/play/lottery_id/320.html
+2019-07-25 19:46:48,292 - xyft_purchase_jinsha.purchase_client_main - WARNING - thread is not alive start!!!
+2019-07-25 19:48:08,302 - xyft_purchase_jinsha.client_thread - INFO - start purchase
+2019-07-25 19:48:28,309 - xyft_purchase_jinsha.purchase_client_main - INFO - purchase time is no region!
+2019-07-25 19:48:48,309 - xyft_purchase_jinsha.purchase_client_main - INFO - purchase time is no region!

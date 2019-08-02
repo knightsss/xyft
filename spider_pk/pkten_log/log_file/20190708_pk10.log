@@ -1,0 +1,209 @@
+2019-07-08 15:50:33,924 - xyft_predict.main - INFO - cs11234 not start
+2019-07-08 18:41:08,900 - xyft_predict.main - INFO - cs11234 not start
+2019-07-08 18:41:15,365 - xyft_predict.main - DEBUG - thread is not alive start!!!
+2019-07-08 18:41:25,367 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-08&lotCode=10057
+2019-07-08 18:41:30,963 - xyft_predict.main - DEBUG - predicts is null
+2019-07-08 18:41:30,963 - xyft_predict.main - DEBUG - lottery_id: 0
+2019-07-08 18:41:30,963 - xyft_predict.main - DEBUG - no predict record in history
+2019-07-08 18:45:24,779 - xyft_predict.main - INFO - cs11234 not start
+2019-07-08 18:45:28,750 - xyft_predict.main - INFO - [u'1', u'2', u'3']
+2019-07-08 18:45:28,802 - xyft_predict.main - DEBUG - thread is not alive start!!!
+2019-07-08 18:45:38,805 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-08&lotCode=10057
+2019-07-08 18:45:44,555 - xyft_predict.main - DEBUG - predicts is null
+2019-07-08 18:45:44,556 - xyft_predict.main - DEBUG - lottery_id: 0
+2019-07-08 18:45:44,556 - xyft_predict.main - DEBUG - no predict record in history
+2019-07-08 18:46:21,730 - xyft_predict.main - INFO - cs11234 not start
+2019-07-08 18:46:25,670 - xyft_predict.main - INFO - [u'1', u'2', u'3']
+2019-07-08 18:46:25,674 - xyft_predict.main - DEBUG - thread is not alive start!!!
+2019-07-08 18:46:35,677 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-08&lotCode=10057
+2019-07-08 18:46:41,289 - xyft_predict.main - DEBUG - predicts is null
+2019-07-08 18:46:41,289 - xyft_predict.main - DEBUG - lottery_id: 0
+2019-07-08 18:46:41,290 - xyft_predict.main - DEBUG - no predict record in history
+2019-07-08 18:46:41,296 - xyft_predict.main - INFO - save predict_lottery_id : 20190708069
+2019-07-08 18:46:41,296 - xyft_predict.main - INFO - save purchase_number_list : 7|2|3|4|9|5|1,2|9|1|5|4|6|3,8|1|6|10|7|5|2,9|7|10|2|5|3|6,5|1|4|7|6|2|3,1|3|4|5|8|7|2,4|8|2|1|3|9|10,3|10|5|8|9|6|7,6|2|7|3|10|1|8,10|8|3|6|1|2|4
+2019-07-08 18:46:41,299 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-08 18:46:41,299 - xyft_predict.main - DEBUG - purchase_number_list len: 70
+2019-07-08 18:46:41,299 - xyft_predict.main - INFO - next_xiazhu_all total : -70
+2019-07-08 18:46:41,299 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-08 18:49:27,569 - xyft_predict.main - INFO - cs11234 not start
+2019-07-08 18:49:31,487 - xyft_predict.main - INFO - [u'1', u'2', u'3']
+2019-07-08 18:49:31,493 - xyft_predict.main - DEBUG - thread is not alive start!!!
+2019-07-08 18:50:11,499 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-08&lotCode=10057
+2019-07-08 18:50:17,960 - xyft_predict.main - DEBUG - lottery_id: 20190708069
+2019-07-08 18:50:17,960 - xyft_predict.main - INFO - lottery_num: 06,05,03,01,04,09,07,08,02,10
+2019-07-08 18:50:17,960 - xyft_predict.main - DEBUG - mingci [1]: 6
+2019-07-08 18:50:17,961 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'7', u'2', u'3', u'4', u'9', u'5', u'1']
+2019-07-08 18:50:17,961 - xyft_predict.main - DEBUG - mingci [2]: 5
+2019-07-08 18:50:17,961 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'2', u'9', u'1', u'5', u'4', u'6', u'3']
+2019-07-08 18:50:17,961 - xyft_predict.main - DEBUG - mingci [3]: 3
+2019-07-08 18:50:17,963 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'8', u'1', u'6', u'10', u'7', u'5', u'2']
+2019-07-08 18:50:17,963 - xyft_predict.main - DEBUG - mingci [4]: 1
+2019-07-08 18:50:17,963 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'9', u'7', u'10', u'2', u'5', u'3', u'6']
+2019-07-08 18:50:17,963 - xyft_predict.main - DEBUG - mingci [5]: 4
+2019-07-08 18:50:17,964 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'5', u'1', u'4', u'7', u'6', u'2', u'3']
+2019-07-08 18:50:17,966 - xyft_predict.main - DEBUG - mingci [6]: 9
+2019-07-08 18:50:17,966 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'1', u'3', u'4', u'5', u'8', u'7', u'2']
+2019-07-08 18:50:17,966 - xyft_predict.main - DEBUG - mingci [7]: 7
+2019-07-08 18:50:17,967 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'4', u'8', u'2', u'1', u'3', u'9', u'10']
+2019-07-08 18:50:17,967 - xyft_predict.main - DEBUG - mingci [8]: 8
+2019-07-08 18:50:17,967 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'3', u'10', u'5', u'8', u'9', u'6', u'7']
+2019-07-08 18:50:17,967 - xyft_predict.main - DEBUG - mingci [9]: 2
+2019-07-08 18:50:17,967 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'6', u'2', u'7', u'3', u'10', u'1', u'8']
+2019-07-08 18:50:17,967 - xyft_predict.main - DEBUG - mingci [10]: 10
+2019-07-08 18:50:17,967 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'10', u'8', u'3', u'6', u'1', u'2', u'4']
+2019-07-08 18:50:17,967 - xyft_predict.main - DEBUG - ------all_count: 70  ----target_count: 5 
+2019-07-08 18:50:17,969 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-08 18:50:18,030 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-08 18:50:18,032 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-08 18:50:18,036 - xyft_predict.main - INFO - save predict_lottery_id : 20190708070
+2019-07-08 18:50:18,036 - xyft_predict.main - INFO - save purchase_number_list : 6|7|2|3|4|9|5,5|2|9|1|4|6|3,3|8|1|6|10|7|5,0,0,0,0,0,0,0
+2019-07-08 18:50:18,036 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-08 18:50:18,036 - xyft_predict.main - DEBUG - purchase_number_list len: 21
+2019-07-08 18:50:18,036 - xyft_predict.main - INFO - next_xiazhu_all total : -21
+2019-07-08 18:50:18,038 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-08 18:50:58,131 - xyft_purchase.purchase_client_main - INFO - cs11234 not start
+2019-07-08 18:51:07,552 - xyft_purchase.purchase_client_main - INFO - user_name:cs11234
+2019-07-08 18:51:07,552 - xyft_purchase.purchase_client_main - INFO - password:Abc123456
+2019-07-08 18:51:07,555 - xyft_purchase.purchase_client_main - INFO - init monry:1
+2019-07-08 18:51:45,299 - xyft_purchase.purchase_driver - WARNING - unfound button3
+2019-07-08 18:51:45,309 - xyft_purchase.purchase_driver - WARNING - unfound button4
+2019-07-08 18:51:45,318 - xyft_purchase.purchase_driver - WARNING - unfound button5
+2019-07-08 18:51:47,790 - xyft_purchase.purchase_client_main - WARNING - thread is not alive start!!!
+2019-07-08 18:51:47,790 - xyft_purchase.client_thread - INFO - 开始购买
+2019-07-08 18:51:47,822 - xyft_purchase.purchase_client_main - INFO - start purchase, xiazhu money:1
+2019-07-08 18:51:47,826 - xyft_purchase.purchase_client_main - INFO - calc gain_all_money:-20
+2019-07-08 18:51:47,831 - xyft_purchase.purchase_client_main - INFO - purchase_url:https://5069725987-ccgj.qq168.ws/member/index#
+2019-07-08 18:51:47,851 - xyft_purchase.purchase_client_main - INFO - purchase_url reload ok
+2019-07-08 18:51:59,453 - xyft_purchase.purchase_client_main - ERROR - web get gain_all_money error!
+2019-07-08 18:51:59,454 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B1_6"]/input
+2019-07-08 18:51:59,454 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:51:59,480 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B1_7"]/input
+2019-07-08 18:51:59,480 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:51:59,507 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B1_2"]/input
+2019-07-08 18:51:59,509 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:51:59,536 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B1_3"]/input
+2019-07-08 18:51:59,536 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:51:59,562 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B1_4"]/input
+2019-07-08 18:51:59,562 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:51:59,585 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B1_9"]/input
+2019-07-08 18:51:59,594 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:51:59,615 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B1_5"]/input
+2019-07-08 18:51:59,615 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:51:59,641 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B2_5"]/input
+2019-07-08 18:51:59,641 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:51:59,664 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B2_2"]/input
+2019-07-08 18:51:59,665 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:51:59,686 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B2_9"]/input
+2019-07-08 18:51:59,686 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:51:59,707 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B2_1"]/input
+2019-07-08 18:51:59,707 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:51:59,733 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B2_4"]/input
+2019-07-08 18:51:59,733 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:51:59,765 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B2_6"]/input
+2019-07-08 18:51:59,766 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:51:59,786 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B2_3"]/input
+2019-07-08 18:51:59,786 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:51:59,812 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B3_3"]/input
+2019-07-08 18:51:59,812 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:51:59,831 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B3_8"]/input
+2019-07-08 18:51:59,831 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:51:59,851 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B3_1"]/input
+2019-07-08 18:51:59,851 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:51:59,874 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B3_6"]/input
+2019-07-08 18:51:59,874 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:51:59,897 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B3_10"]/input
+2019-07-08 18:51:59,898 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:51:59,921 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B3_7"]/input
+2019-07-08 18:51:59,921 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:51:59,950 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B3_5"]/input
+2019-07-08 18:51:59,951 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:52:03,608 - xyft_purchase.purchase_client_main - INFO - ������
+2019-07-08 18:52:04,622 - xyft_purchase.purchase_client_main - INFO - current url:https://5069725987-ccgj.qq168.ws/member/index#
+2019-07-08 18:52:04,624 - xyft_purchase.purchase_client_main - INFO - purchase sucess!, input money:21
+2019-07-08 18:52:04,684 - xyft_purchase.purchase_client_main - INFO - save xiazhu args sucess!
+2019-07-08 18:55:02,690 - xyft_purchase.client_thread - INFO - 开始购买
+2019-07-08 18:55:11,137 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-08&lotCode=10057
+2019-07-08 18:55:15,755 - xyft_predict.main - DEBUG - lottery_id: 20190708070
+2019-07-08 18:55:15,756 - xyft_predict.main - INFO - lottery_num: 04,05,02,06,09,07,03,01,10,08
+2019-07-08 18:55:15,756 - xyft_predict.main - DEBUG - mingci [1]: 4
+2019-07-08 18:55:15,759 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'6', u'7', u'2', u'3', u'4', u'9', u'5']
+2019-07-08 18:55:15,759 - xyft_predict.main - DEBUG - mingci [2]: 5
+2019-07-08 18:55:15,759 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'5', u'2', u'9', u'1', u'4', u'6', u'3']
+2019-07-08 18:55:15,759 - xyft_predict.main - DEBUG - mingci [3]: 2
+2019-07-08 18:55:15,760 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'3', u'8', u'1', u'6', u'10', u'7', u'5']
+2019-07-08 18:55:15,760 - xyft_predict.main - DEBUG - ------all_count: 21  ----target_count: 2 
+2019-07-08 18:55:15,760 - xyft_predict.main - DEBUG - target_count: 0.095238
+2019-07-08 18:55:15,822 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-08 18:55:15,822 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-08 18:55:15,828 - xyft_predict.main - INFO - save predict_lottery_id : 20190708071
+2019-07-08 18:55:15,828 - xyft_predict.main - INFO - save purchase_number_list : 4|6|7|2|3|9|5,5|2|9|1|4|6|3,2|3|8|1|6|10|7,0,0,0,0,0,0,0
+2019-07-08 18:55:15,829 - xyft_predict.main - INFO - gain_money_total total : -1
+2019-07-08 18:55:15,831 - xyft_predict.main - DEBUG - purchase_number_list len: 21
+2019-07-08 18:55:15,831 - xyft_predict.main - INFO - calc_xainzhu:1, last_xiazhu increase:1
+2019-07-08 18:55:15,832 - xyft_predict.main - INFO - next_xiazhu_all total : -43
+2019-07-08 18:55:15,832 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-08 18:55:17,691 - xyft_purchase.purchase_client_main - INFO - purchase time is no region!
+2019-07-08 18:55:32,693 - xyft_purchase.purchase_client_main - INFO - purchase time is no region!
+2019-07-08 18:55:47,694 - xyft_purchase.purchase_client_main - INFO - purchase time is no region!
+2019-07-08 18:55:47,706 - xyft_purchase.purchase_client_main - INFO - start purchase, xiazhu money:1
+2019-07-08 18:55:47,710 - xyft_purchase.purchase_client_main - INFO - calc gain_all_money:-21
+2019-07-08 18:55:47,714 - xyft_purchase.purchase_client_main - INFO - purchase_url:https://5069725987-ccgj.qq168.ws/member/index#
+2019-07-08 18:55:47,736 - xyft_purchase.purchase_client_main - INFO - purchase_url reload ok
+2019-07-08 18:55:59,272 - xyft_purchase.purchase_client_main - ERROR - web get gain_all_money error!
+2019-07-08 18:55:59,273 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B1_4"]/input
+2019-07-08 18:55:59,273 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:55:59,301 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B1_6"]/input
+2019-07-08 18:55:59,301 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:55:59,328 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B1_7"]/input
+2019-07-08 18:55:59,328 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:55:59,355 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B1_2"]/input
+2019-07-08 18:55:59,355 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:55:59,375 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B1_3"]/input
+2019-07-08 18:55:59,377 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:55:59,398 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B1_9"]/input
+2019-07-08 18:55:59,398 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:55:59,420 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B1_5"]/input
+2019-07-08 18:55:59,420 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:55:59,437 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B2_5"]/input
+2019-07-08 18:55:59,437 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:55:59,460 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B2_2"]/input
+2019-07-08 18:55:59,461 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:55:59,483 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B2_9"]/input
+2019-07-08 18:55:59,483 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:55:59,502 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B2_1"]/input
+2019-07-08 18:55:59,502 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:55:59,522 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B2_4"]/input
+2019-07-08 18:55:59,522 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:55:59,546 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B2_6"]/input
+2019-07-08 18:55:59,548 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:55:59,569 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B2_3"]/input
+2019-07-08 18:55:59,571 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:55:59,601 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B3_2"]/input
+2019-07-08 18:55:59,601 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:55:59,618 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B3_3"]/input
+2019-07-08 18:55:59,618 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:55:59,641 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B3_8"]/input
+2019-07-08 18:55:59,641 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:55:59,660 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B3_1"]/input
+2019-07-08 18:55:59,661 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:55:59,680 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B3_6"]/input
+2019-07-08 18:55:59,680 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:55:59,697 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B3_10"]/input
+2019-07-08 18:55:59,697 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:55:59,714 - xyft_purchase.purchase_client_main - INFO - start purchase purchase_element://*[@id="a_B3_7"]/input
+2019-07-08 18:55:59,714 - xyft_purchase.purchase_client_main - INFO - current xaizhu money:1
+2019-07-08 18:56:03,301 - xyft_purchase.purchase_client_main - INFO - ������
+2019-07-08 18:56:04,306 - xyft_purchase.purchase_client_main - INFO - current url:https://5069725987-ccgj.qq168.ws/member/index#
+2019-07-08 18:56:04,306 - xyft_purchase.purchase_client_main - INFO - purchase sucess!, input money:21
+2019-07-08 18:56:04,369 - xyft_purchase.purchase_client_main - INFO - save xiazhu args sucess!
+2019-07-08 19:00:05,028 - xyft_predict.main - INFO - cs11234 not start
+2019-07-08 19:00:08,813 - xyft_predict.main - INFO - [u'1', u'2', u'3']
+2019-07-08 19:00:08,816 - xyft_predict.main - DEBUG - thread is not alive start!!!
+2019-07-08 19:00:12,684 - xyft_purchase.purchase_client_main - INFO - cs11234 not start
+2019-07-08 19:00:22,421 - xyft_purchase.purchase_client_main - INFO - user_name:cs11234
+2019-07-08 19:00:22,423 - xyft_purchase.purchase_client_main - INFO - password:Abc123456
+2019-07-08 19:00:22,423 - xyft_purchase.purchase_client_main - INFO - init monry:1
+2019-07-08 19:01:03,634 - xyft_purchase.purchase_driver - WARNING - unfound button3
+2019-07-08 19:01:03,641 - xyft_purchase.purchase_driver - WARNING - unfound button4
+2019-07-08 19:01:03,645 - xyft_purchase.purchase_driver - WARNING - unfound button5
+2019-07-08 19:01:06,851 - xyft_purchase.purchase_client_main - WARNING - thread is not alive start!!!

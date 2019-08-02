@@ -1,0 +1,5 @@
+2019-07-10 17:42:31,290 - xyft_purchase.purchase_client_main - INFO - cs11234 not start
+2019-07-10 17:42:38,276 - xyft_purchase.purchase_client_main - INFO - user_name:cs11234
+2019-07-10 17:42:38,276 - xyft_purchase.purchase_client_main - INFO - password:Abc123456
+2019-07-10 17:42:38,276 - xyft_purchase.purchase_client_main - INFO - init monry:1
+2019-07-10 17:43:09,927 - xyft_purchase.purchase_driver - WARNING - 请输入验证码

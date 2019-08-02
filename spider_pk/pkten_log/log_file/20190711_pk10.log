@@ -1,0 +1,1109 @@
+2019-07-11 17:32:09,907 - xyft_predict.main - INFO - cs11234 not start
+2019-07-11 17:32:13,868 - xyft_predict.main - INFO - [u'1', u'2']
+2019-07-11 17:32:13,871 - xyft_predict.main - DEBUG - thread is not alive start!!!
+2019-07-11 17:35:13,891 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 17:35:18,075 - xyft_predict.main - DEBUG - predicts is null
+2019-07-11 17:35:18,075 - xyft_predict.main - DEBUG - lottery_id: 0
+2019-07-11 17:35:18,075 - xyft_predict.main - DEBUG - no predict record in history
+2019-07-11 17:35:18,079 - xyft_predict.main - INFO - save predict_lottery_id : 20190711055
+2019-07-11 17:35:18,079 - xyft_predict.main - INFO - save purchase_number_list : 4|1|10|7|8|5|9,2|5|6|10|7|4|1,0,0,0,0,0,0,0,0
+2019-07-11 17:35:18,081 - xyft_predict.main - INFO - save_predict_time：2019-07-11 17:35:18
+2019-07-11 17:35:18,082 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 17:35:18,082 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 17:35:18,082 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 17:35:18,082 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 17:40:11,157 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 17:40:14,986 - xyft_predict.main - DEBUG - lottery_id: 20190711055
+2019-07-11 17:40:14,989 - xyft_predict.main - INFO - lottery_num: 02,06,09,05,04,10,01,03,07,08
+2019-07-11 17:40:14,989 - xyft_predict.main - DEBUG - mingci [1]: 2
+2019-07-11 17:40:14,989 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'4', u'1', u'10', u'7', u'8', u'5', u'9']
+2019-07-11 17:40:14,989 - xyft_predict.main - DEBUG - mingci [2]: 6
+2019-07-11 17:40:14,990 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'2', u'5', u'6', u'10', u'7', u'4', u'1']
+2019-07-11 17:40:14,990 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 17:40:14,994 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 17:40:15,058 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 17:40:15,059 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 17:40:15,065 - xyft_predict.main - INFO - save predict_lottery_id : 20190711056
+2019-07-11 17:40:15,065 - xyft_predict.main - INFO - save purchase_number_list : 2|4|1|10|7|8|5,6|2|5|10|7|4|1,0,0,0,0,0,0,0,0
+2019-07-11 17:40:15,065 - xyft_predict.main - INFO - save_predict_time：2019-07-11 17:40:15
+2019-07-11 17:40:15,066 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 17:40:15,066 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 17:40:15,068 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 17:40:15,068 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 17:45:18,145 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 17:45:22,036 - xyft_predict.main - DEBUG - lottery_id: 20190711056
+2019-07-11 17:45:22,039 - xyft_predict.main - INFO - lottery_num: 04,08,10,06,05,02,01,07,09,03
+2019-07-11 17:45:22,039 - xyft_predict.main - DEBUG - mingci [1]: 4
+2019-07-11 17:45:22,039 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'2', u'4', u'1', u'10', u'7', u'8', u'5']
+2019-07-11 17:45:22,040 - xyft_predict.main - DEBUG - mingci [2]: 8
+2019-07-11 17:45:22,042 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'6', u'2', u'5', u'10', u'7', u'4', u'1']
+2019-07-11 17:45:22,042 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 17:45:22,042 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 17:45:22,111 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 17:45:22,111 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 17:45:22,117 - xyft_predict.main - INFO - save predict_lottery_id : 20190711057
+2019-07-11 17:45:22,118 - xyft_predict.main - INFO - save purchase_number_list : 4|2|1|10|7|8|5,8|6|2|5|10|7|4,0,0,0,0,0,0,0,0
+2019-07-11 17:45:22,118 - xyft_predict.main - INFO - save_predict_time：2019-07-11 17:45:22
+2019-07-11 17:45:22,118 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 17:45:22,118 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 17:45:22,118 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 17:45:22,118 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 17:50:15,227 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 17:50:19,068 - xyft_predict.main - DEBUG - lottery_id: 20190711057
+2019-07-11 17:50:19,069 - xyft_predict.main - INFO - lottery_num: 10,06,08,01,07,09,05,02,03,04
+2019-07-11 17:50:19,071 - xyft_predict.main - DEBUG - mingci [1]: 10
+2019-07-11 17:50:19,072 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'4', u'2', u'1', u'10', u'7', u'8', u'5']
+2019-07-11 17:50:19,072 - xyft_predict.main - DEBUG - mingci [2]: 6
+2019-07-11 17:50:19,072 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'8', u'6', u'2', u'5', u'10', u'7', u'4']
+2019-07-11 17:50:19,073 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 2 
+2019-07-11 17:50:19,073 - xyft_predict.main - DEBUG - target_count: 0.142857
+2019-07-11 17:50:19,151 - xyft_predict.main - INFO - last_purchase_hit: True
+2019-07-11 17:50:19,151 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 17:50:19,157 - xyft_predict.main - INFO - save predict_lottery_id : 20190711058
+2019-07-11 17:50:19,157 - xyft_predict.main - INFO - save purchase_number_list : 10|4|2|1|7|8|5,6|8|2|5|10|7|4,0,0,0,0,0,0,0,0
+2019-07-11 17:50:19,157 - xyft_predict.main - INFO - save_predict_time：2019-07-11 17:50:19
+2019-07-11 17:50:19,157 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 17:50:19,158 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 17:50:19,158 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 17:50:19,158 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 17:55:12,246 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 17:55:16,164 - xyft_predict.main - DEBUG - lottery_id: 20190711058
+2019-07-11 17:55:16,167 - xyft_predict.main - INFO - lottery_num: 05,10,04,07,09,06,08,02,01,03
+2019-07-11 17:55:16,167 - xyft_predict.main - DEBUG - mingci [1]: 5
+2019-07-11 17:55:16,167 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'10', u'4', u'2', u'1', u'7', u'8', u'5']
+2019-07-11 17:55:16,168 - xyft_predict.main - DEBUG - mingci [2]: 10
+2019-07-11 17:55:16,168 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'6', u'8', u'2', u'5', u'10', u'7', u'4']
+2019-07-11 17:55:16,170 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 2 
+2019-07-11 17:55:16,170 - xyft_predict.main - DEBUG - target_count: 0.142857
+2019-07-11 17:55:16,236 - xyft_predict.main - INFO - last_purchase_hit: True
+2019-07-11 17:55:16,237 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 17:55:16,243 - xyft_predict.main - INFO - save predict_lottery_id : 20190711059
+2019-07-11 17:55:16,243 - xyft_predict.main - INFO - save purchase_number_list : 5|10|4|2|1|7|8,10|6|8|2|5|7|4,0,0,0,0,0,0,0,0
+2019-07-11 17:55:16,243 - xyft_predict.main - INFO - save_predict_time：2019-07-11 17:55:16
+2019-07-11 17:55:16,246 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 17:55:16,246 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 17:55:16,246 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 17:55:16,246 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 18:05:19,358 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 18:05:24,138 - xyft_predict.main - DEBUG - lottery_id: 20190711059
+2019-07-11 18:05:24,140 - xyft_predict.main - INFO - lottery_num: 10,08,05,02,06,01,03,09,04,07
+2019-07-11 18:05:24,140 - xyft_predict.main - DEBUG - mingci [1]: 10
+2019-07-11 18:05:24,140 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'5', u'10', u'4', u'2', u'1', u'7', u'8']
+2019-07-11 18:05:24,141 - xyft_predict.main - DEBUG - mingci [2]: 8
+2019-07-11 18:05:24,141 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'10', u'6', u'8', u'2', u'5', u'7', u'4']
+2019-07-11 18:05:24,141 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 2 
+2019-07-11 18:05:24,141 - xyft_predict.main - DEBUG - target_count: 0.142857
+2019-07-11 18:05:24,213 - xyft_predict.main - INFO - last_purchase_hit: True
+2019-07-11 18:05:24,213 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 18:05:24,220 - xyft_predict.main - INFO - save predict_lottery_id : 20190711061
+2019-07-11 18:05:24,220 - xyft_predict.main - INFO - save purchase_number_list : 3|10|5|4|2|1|7,10|8|6|2|5|7|4,0,0,0,0,0,0,0,0
+2019-07-11 18:05:24,220 - xyft_predict.main - INFO - save_predict_time：2019-07-11 18:05:24
+2019-07-11 18:05:24,220 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 18:05:24,221 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 18:05:24,221 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 18:05:24,221 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 18:10:17,303 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 18:10:21,558 - xyft_predict.main - DEBUG - lottery_id: 20190711061
+2019-07-11 18:10:21,559 - xyft_predict.main - INFO - lottery_num: 07,01,06,02,04,03,05,09,10,08
+2019-07-11 18:10:21,559 - xyft_predict.main - DEBUG - mingci [1]: 7
+2019-07-11 18:10:21,559 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'3', u'10', u'5', u'4', u'2', u'1', u'7']
+2019-07-11 18:10:21,559 - xyft_predict.main - DEBUG - mingci [2]: 1
+2019-07-11 18:10:21,559 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'10', u'8', u'6', u'2', u'5', u'7', u'4']
+2019-07-11 18:10:21,559 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 18:10:21,561 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 18:10:21,641 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 18:10:21,641 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 18:10:21,645 - xyft_predict.main - INFO - save predict_lottery_id : 20190711062
+2019-07-11 18:10:21,645 - xyft_predict.main - INFO - save purchase_number_list : 7|3|10|5|4|2|1,1|10|8|6|2|5|7,0,0,0,0,0,0,0,0
+2019-07-11 18:10:21,645 - xyft_predict.main - INFO - save_predict_time：2019-07-11 18:10:21
+2019-07-11 18:10:21,648 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 18:10:21,648 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 18:10:21,648 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 18:10:21,648 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 18:15:14,733 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 18:15:18,868 - xyft_predict.main - DEBUG - lottery_id: 20190711062
+2019-07-11 18:15:18,869 - xyft_predict.main - INFO - lottery_num: 03,04,09,06,07,08,05,01,10,02
+2019-07-11 18:15:18,871 - xyft_predict.main - DEBUG - mingci [1]: 3
+2019-07-11 18:15:18,871 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'7', u'3', u'10', u'5', u'4', u'2', u'1']
+2019-07-11 18:15:18,871 - xyft_predict.main - DEBUG - mingci [2]: 4
+2019-07-11 18:15:18,874 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'1', u'10', u'8', u'6', u'2', u'5', u'7']
+2019-07-11 18:15:18,875 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 18:15:18,875 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 18:15:18,944 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 18:15:18,947 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 18:15:18,954 - xyft_predict.main - INFO - save predict_lottery_id : 20190711063
+2019-07-11 18:15:18,954 - xyft_predict.main - INFO - save purchase_number_list : 3|7|10|5|4|2|1,4|1|10|8|6|2|5,0,0,0,0,0,0,0,0
+2019-07-11 18:15:18,954 - xyft_predict.main - INFO - save_predict_time：2019-07-11 18:15:18
+2019-07-11 18:15:18,957 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 18:15:18,957 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 18:15:18,957 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 18:15:18,957 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 18:20:12,036 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 18:20:16,236 - xyft_predict.main - DEBUG - lottery_id: 20190711063
+2019-07-11 18:20:16,237 - xyft_predict.main - INFO - lottery_num: 05,03,07,08,06,10,02,01,04,09
+2019-07-11 18:20:16,237 - xyft_predict.main - DEBUG - mingci [1]: 5
+2019-07-11 18:20:16,239 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'3', u'7', u'10', u'5', u'4', u'2', u'1']
+2019-07-11 18:20:16,239 - xyft_predict.main - DEBUG - mingci [2]: 3
+2019-07-11 18:20:16,239 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'4', u'1', u'10', u'8', u'6', u'2', u'5']
+2019-07-11 18:20:16,239 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 18:20:16,239 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 18:20:16,308 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 18:20:16,308 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 18:20:16,315 - xyft_predict.main - INFO - save predict_lottery_id : 20190711064
+2019-07-11 18:20:16,315 - xyft_predict.main - INFO - save purchase_number_list : 5|3|7|10|4|2|1,3|4|1|10|8|6|2,0,0,0,0,0,0,0,0
+2019-07-11 18:20:16,315 - xyft_predict.main - INFO - save_predict_time：2019-07-11 18:20:16
+2019-07-11 18:20:16,316 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 18:20:16,316 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 18:20:16,316 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 18:20:16,316 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 18:25:19,387 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 18:25:23,736 - xyft_predict.main - DEBUG - lottery_id: 20190711064
+2019-07-11 18:25:23,737 - xyft_predict.main - INFO - lottery_num: 07,10,09,05,06,04,01,02,03,08
+2019-07-11 18:25:23,737 - xyft_predict.main - DEBUG - mingci [1]: 7
+2019-07-11 18:25:23,737 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'5', u'3', u'7', u'10', u'4', u'2', u'1']
+2019-07-11 18:25:23,739 - xyft_predict.main - DEBUG - mingci [2]: 10
+2019-07-11 18:25:23,739 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'3', u'4', u'1', u'10', u'8', u'6', u'2']
+2019-07-11 18:25:23,739 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 2 
+2019-07-11 18:25:23,739 - xyft_predict.main - DEBUG - target_count: 0.142857
+2019-07-11 18:25:23,803 - xyft_predict.main - INFO - last_purchase_hit: True
+2019-07-11 18:25:23,803 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 18:25:23,813 - xyft_predict.main - INFO - save predict_lottery_id : 20190711065
+2019-07-11 18:25:23,813 - xyft_predict.main - INFO - save purchase_number_list : 7|5|3|10|4|2|1,10|3|4|1|8|6|2,0,0,0,0,0,0,0,0
+2019-07-11 18:25:23,813 - xyft_predict.main - INFO - save_predict_time：2019-07-11 18:25:23
+2019-07-11 18:25:23,815 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 18:25:23,816 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 18:25:23,818 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 18:25:23,818 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 18:30:16,894 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 18:30:21,441 - xyft_predict.main - DEBUG - lottery_id: 20190711065
+2019-07-11 18:30:21,443 - xyft_predict.main - INFO - lottery_num: 10,07,06,04,05,02,01,08,09,03
+2019-07-11 18:30:21,443 - xyft_predict.main - DEBUG - mingci [1]: 10
+2019-07-11 18:30:21,443 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'7', u'5', u'3', u'10', u'4', u'2', u'1']
+2019-07-11 18:30:21,443 - xyft_predict.main - DEBUG - mingci [2]: 7
+2019-07-11 18:30:21,444 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'10', u'3', u'4', u'1', u'8', u'6', u'2']
+2019-07-11 18:30:21,444 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 18:30:21,444 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 18:30:21,512 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 18:30:21,512 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 18:30:21,516 - xyft_predict.main - INFO - save predict_lottery_id : 20190711066
+2019-07-11 18:30:21,516 - xyft_predict.main - INFO - save purchase_number_list : 10|7|5|3|4|2|1,7|10|3|4|1|8|6,0,0,0,0,0,0,0,0
+2019-07-11 18:30:21,516 - xyft_predict.main - INFO - save_predict_time：2019-07-11 18:30:21
+2019-07-11 18:30:21,517 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 18:30:21,519 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 18:30:21,519 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 18:30:21,519 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 18:35:14,595 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 18:35:19,076 - xyft_predict.main - DEBUG - lottery_id: 20190711066
+2019-07-11 18:35:19,078 - xyft_predict.main - INFO - lottery_num: 06,04,07,01,09,03,02,05,08,10
+2019-07-11 18:35:19,078 - xyft_predict.main - DEBUG - mingci [1]: 6
+2019-07-11 18:35:19,078 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'10', u'7', u'5', u'3', u'4', u'2', u'1']
+2019-07-11 18:35:19,078 - xyft_predict.main - DEBUG - mingci [2]: 4
+2019-07-11 18:35:19,078 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'7', u'10', u'3', u'4', u'1', u'8', u'6']
+2019-07-11 18:35:19,078 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 18:35:19,078 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 18:35:19,153 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 18:35:19,153 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 18:35:19,161 - xyft_predict.main - INFO - save predict_lottery_id : 20190711067
+2019-07-11 18:35:19,161 - xyft_predict.main - INFO - save purchase_number_list : 6|10|7|5|3|4|2,4|7|10|3|1|8|6,0,0,0,0,0,0,0,0
+2019-07-11 18:35:19,161 - xyft_predict.main - INFO - save_predict_time：2019-07-11 18:35:19
+2019-07-11 18:35:19,163 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 18:35:19,163 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 18:35:19,163 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 18:35:19,163 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 18:40:12,252 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 18:40:16,816 - xyft_predict.main - DEBUG - lottery_id: 20190711067
+2019-07-11 18:40:16,819 - xyft_predict.main - INFO - lottery_num: 09,08,06,02,01,03,10,07,05,04
+2019-07-11 18:40:16,819 - xyft_predict.main - DEBUG - mingci [1]: 9
+2019-07-11 18:40:16,819 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'6', u'10', u'7', u'5', u'3', u'4', u'2']
+2019-07-11 18:40:16,819 - xyft_predict.main - DEBUG - mingci [2]: 8
+2019-07-11 18:40:16,819 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'4', u'7', u'10', u'3', u'1', u'8', u'6']
+2019-07-11 18:40:16,819 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 18:40:16,819 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 18:40:16,890 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 18:40:16,890 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 18:40:16,895 - xyft_predict.main - INFO - save predict_lottery_id : 20190711068
+2019-07-11 18:40:16,895 - xyft_predict.main - INFO - save purchase_number_list : 9|6|10|7|5|3|4,8|4|7|10|3|1|6,0,0,0,0,0,0,0,0
+2019-07-11 18:40:16,895 - xyft_predict.main - INFO - save_predict_time：2019-07-11 18:40:16
+2019-07-11 18:40:16,897 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 18:40:16,898 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 18:40:16,898 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 18:40:16,898 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 18:45:19,963 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 18:45:24,770 - xyft_predict.main - DEBUG - lottery_id: 20190711068
+2019-07-11 18:45:24,772 - xyft_predict.main - INFO - lottery_num: 09,10,01,08,07,03,05,02,06,04
+2019-07-11 18:45:24,773 - xyft_predict.main - DEBUG - mingci [1]: 9
+2019-07-11 18:45:24,773 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'9', u'6', u'10', u'7', u'5', u'3', u'4']
+2019-07-11 18:45:24,773 - xyft_predict.main - DEBUG - mingci [2]: 10
+2019-07-11 18:45:24,773 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'8', u'4', u'7', u'10', u'3', u'1', u'6']
+2019-07-11 18:45:24,776 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 2 
+2019-07-11 18:45:24,778 - xyft_predict.main - DEBUG - target_count: 0.142857
+2019-07-11 18:45:24,844 - xyft_predict.main - INFO - last_purchase_hit: True
+2019-07-11 18:45:24,845 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 18:45:24,857 - xyft_predict.main - INFO - save predict_lottery_id : 20190711069
+2019-07-11 18:45:24,857 - xyft_predict.main - INFO - save purchase_number_list : 9|6|10|7|5|3|4,10|8|4|7|3|1|6,0,0,0,0,0,0,0,0
+2019-07-11 18:45:24,857 - xyft_predict.main - INFO - save_predict_time：2019-07-11 18:45:24
+2019-07-11 18:45:24,858 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 18:45:24,859 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 18:45:24,859 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 18:45:24,861 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 18:50:17,940 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 18:50:22,809 - xyft_predict.main - DEBUG - lottery_id: 20190711069
+2019-07-11 18:50:22,809 - xyft_predict.main - INFO - lottery_num: 06,09,04,08,01,05,07,03,02,10
+2019-07-11 18:50:22,811 - xyft_predict.main - DEBUG - mingci [1]: 6
+2019-07-11 18:50:22,811 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'9', u'6', u'10', u'7', u'5', u'3', u'4']
+2019-07-11 18:50:22,811 - xyft_predict.main - DEBUG - mingci [2]: 9
+2019-07-11 18:50:22,812 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'10', u'8', u'4', u'7', u'3', u'1', u'6']
+2019-07-11 18:50:22,812 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 18:50:22,812 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 18:50:22,891 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 18:50:22,891 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 18:50:22,900 - xyft_predict.main - INFO - save predict_lottery_id : 20190711070
+2019-07-11 18:50:22,900 - xyft_predict.main - INFO - save purchase_number_list : 6|9|10|7|5|3|4,9|10|8|4|7|3|1,0,0,0,0,0,0,0,0
+2019-07-11 18:50:22,901 - xyft_predict.main - INFO - save_predict_time：2019-07-11 18:50:22
+2019-07-11 18:50:22,901 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 18:50:22,903 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 18:50:22,903 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 18:50:22,903 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 18:55:15,980 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 18:55:21,003 - xyft_predict.main - DEBUG - lottery_id: 20190711070
+2019-07-11 18:55:21,006 - xyft_predict.main - INFO - lottery_num: 02,09,04,07,10,01,05,06,08,03
+2019-07-11 18:55:21,006 - xyft_predict.main - DEBUG - mingci [1]: 2
+2019-07-11 18:55:21,006 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'6', u'9', u'10', u'7', u'5', u'3', u'4']
+2019-07-11 18:55:21,006 - xyft_predict.main - DEBUG - mingci [2]: 9
+2019-07-11 18:55:21,006 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'9', u'10', u'8', u'4', u'7', u'3', u'1']
+2019-07-11 18:55:21,006 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 18:55:21,006 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 18:55:21,088 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 18:55:21,088 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 18:55:21,095 - xyft_predict.main - INFO - save predict_lottery_id : 20190711071
+2019-07-11 18:55:21,095 - xyft_predict.main - INFO - save purchase_number_list : 2|6|9|10|7|5|3,9|10|8|4|7|3|1,0,0,0,0,0,0,0,0
+2019-07-11 18:55:21,095 - xyft_predict.main - INFO - save_predict_time：2019-07-11 18:55:21
+2019-07-11 18:55:21,096 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 18:55:21,098 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 18:55:21,098 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 18:55:21,098 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 19:05:14,207 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 19:05:19,220 - xyft_predict.main - DEBUG - lottery_id: 20190711071
+2019-07-11 19:05:19,221 - xyft_predict.main - INFO - lottery_num: 01,10,03,06,07,05,09,04,08,02
+2019-07-11 19:05:19,221 - xyft_predict.main - DEBUG - mingci [1]: 1
+2019-07-11 19:05:19,221 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'2', u'6', u'9', u'10', u'7', u'5', u'3']
+2019-07-11 19:05:19,223 - xyft_predict.main - DEBUG - mingci [2]: 10
+2019-07-11 19:05:19,223 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'9', u'10', u'8', u'4', u'7', u'3', u'1']
+2019-07-11 19:05:19,223 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 19:05:19,223 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 19:05:19,290 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 19:05:19,292 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 19:05:19,296 - xyft_predict.main - INFO - save predict_lottery_id : 20190711073
+2019-07-11 19:05:19,296 - xyft_predict.main - INFO - save purchase_number_list : 9|1|2|6|10|7|5,7|10|9|8|4|3|1,0,0,0,0,0,0,0,0
+2019-07-11 19:05:19,296 - xyft_predict.main - INFO - save_predict_time：2019-07-11 19:05:19
+2019-07-11 19:05:19,298 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 19:05:19,298 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 19:05:19,298 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 19:05:19,298 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 19:10:12,384 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 19:10:17,474 - xyft_predict.main - DEBUG - lottery_id: 20190711073
+2019-07-11 19:10:17,476 - xyft_predict.main - INFO - lottery_num: 01,05,04,02,07,10,03,08,09,06
+2019-07-11 19:10:17,476 - xyft_predict.main - DEBUG - mingci [1]: 1
+2019-07-11 19:10:17,476 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'9', u'1', u'2', u'6', u'10', u'7', u'5']
+2019-07-11 19:10:17,476 - xyft_predict.main - DEBUG - mingci [2]: 5
+2019-07-11 19:10:17,476 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'7', u'10', u'9', u'8', u'4', u'3', u'1']
+2019-07-11 19:10:17,476 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 19:10:17,477 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 19:10:17,545 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 19:10:17,545 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 19:10:17,549 - xyft_predict.main - INFO - save predict_lottery_id : 20190711074
+2019-07-11 19:10:17,551 - xyft_predict.main - INFO - save purchase_number_list : 1|9|2|6|10|7|5,5|7|10|9|8|4|3,0,0,0,0,0,0,0,0
+2019-07-11 19:10:17,551 - xyft_predict.main - INFO - save_predict_time：2019-07-11 19:10:17
+2019-07-11 19:10:17,552 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 19:10:17,553 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 19:10:17,553 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 19:10:17,553 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 19:15:10,632 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 19:15:15,796 - xyft_predict.main - DEBUG - lottery_id: 20190711074
+2019-07-11 19:15:15,796 - xyft_predict.main - INFO - lottery_num: 05,08,04,01,09,07,02,06,10,03
+2019-07-11 19:15:15,798 - xyft_predict.main - DEBUG - mingci [1]: 5
+2019-07-11 19:15:15,798 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'1', u'9', u'2', u'6', u'10', u'7', u'5']
+2019-07-11 19:15:15,799 - xyft_predict.main - DEBUG - mingci [2]: 8
+2019-07-11 19:15:15,799 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'5', u'7', u'10', u'9', u'8', u'4', u'3']
+2019-07-11 19:15:15,799 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 2 
+2019-07-11 19:15:15,799 - xyft_predict.main - DEBUG - target_count: 0.142857
+2019-07-11 19:15:15,869 - xyft_predict.main - INFO - last_purchase_hit: True
+2019-07-11 19:15:15,869 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 19:15:15,875 - xyft_predict.main - INFO - save predict_lottery_id : 20190711075
+2019-07-11 19:15:15,875 - xyft_predict.main - INFO - save purchase_number_list : 5|1|9|2|6|10|7,8|5|7|10|9|4|3,0,0,0,0,0,0,0,0
+2019-07-11 19:15:15,875 - xyft_predict.main - INFO - save_predict_time：2019-07-11 19:15:15
+2019-07-11 19:15:15,877 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 19:15:15,878 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 19:15:15,878 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 19:15:15,878 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 19:20:18,960 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 19:20:24,346 - xyft_predict.main - DEBUG - lottery_id: 20190711075
+2019-07-11 19:20:24,348 - xyft_predict.main - INFO - lottery_num: 08,06,02,03,10,09,05,07,01,04
+2019-07-11 19:20:24,348 - xyft_predict.main - DEBUG - mingci [1]: 8
+2019-07-11 19:20:24,348 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'5', u'1', u'9', u'2', u'6', u'10', u'7']
+2019-07-11 19:20:24,349 - xyft_predict.main - DEBUG - mingci [2]: 6
+2019-07-11 19:20:24,349 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'8', u'5', u'7', u'10', u'9', u'4', u'3']
+2019-07-11 19:20:24,349 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 0 
+2019-07-11 19:20:24,351 - xyft_predict.main - DEBUG - target_count: 0.000000
+2019-07-11 19:20:24,424 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 19:20:24,424 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 19:20:24,428 - xyft_predict.main - INFO - save predict_lottery_id : 20190711076
+2019-07-11 19:20:24,428 - xyft_predict.main - INFO - save purchase_number_list : 8|5|1|9|2|6|10,6|8|5|7|10|9|4,0,0,0,0,0,0,0,0
+2019-07-11 19:20:24,430 - xyft_predict.main - INFO - save_predict_time：2019-07-11 19:20:24
+2019-07-11 19:20:24,430 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 19:20:24,430 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 19:20:24,430 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 19:20:24,431 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 19:25:17,515 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 19:25:22,957 - xyft_predict.main - DEBUG - lottery_id: 20190711076
+2019-07-11 19:25:22,959 - xyft_predict.main - INFO - lottery_num: 08,09,10,07,03,05,02,04,01,06
+2019-07-11 19:25:22,960 - xyft_predict.main - DEBUG - mingci [1]: 8
+2019-07-11 19:25:22,963 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'8', u'5', u'1', u'9', u'2', u'6', u'10']
+2019-07-11 19:25:22,963 - xyft_predict.main - DEBUG - mingci [2]: 9
+2019-07-11 19:25:22,963 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'6', u'8', u'5', u'7', u'10', u'9', u'4']
+2019-07-11 19:25:22,963 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 2 
+2019-07-11 19:25:22,963 - xyft_predict.main - DEBUG - target_count: 0.142857
+2019-07-11 19:25:23,029 - xyft_predict.main - INFO - last_purchase_hit: True
+2019-07-11 19:25:23,029 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 19:25:23,035 - xyft_predict.main - INFO - save predict_lottery_id : 20190711077
+2019-07-11 19:25:23,035 - xyft_predict.main - INFO - save purchase_number_list : 8|5|1|9|2|6|10,9|6|8|5|7|10|4,0,0,0,0,0,0,0,0
+2019-07-11 19:25:23,036 - xyft_predict.main - INFO - save_predict_time：2019-07-11 19:25:23
+2019-07-11 19:25:23,036 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 19:25:23,038 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 19:25:23,038 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 19:25:23,038 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 19:30:16,118 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 19:30:22,864 - xyft_predict.main - DEBUG - lottery_id: 20190711077
+2019-07-11 19:30:22,865 - xyft_predict.main - INFO - lottery_num: 10,09,05,01,08,06,02,07,04,03
+2019-07-11 19:30:22,865 - xyft_predict.main - DEBUG - mingci [1]: 10
+2019-07-11 19:30:22,865 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'8', u'5', u'1', u'9', u'2', u'6', u'10']
+2019-07-11 19:30:22,867 - xyft_predict.main - DEBUG - mingci [2]: 9
+2019-07-11 19:30:22,867 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'9', u'6', u'8', u'5', u'7', u'10', u'4']
+2019-07-11 19:30:22,867 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 2 
+2019-07-11 19:30:22,867 - xyft_predict.main - DEBUG - target_count: 0.142857
+2019-07-11 19:30:22,933 - xyft_predict.main - INFO - last_purchase_hit: True
+2019-07-11 19:30:22,933 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 19:30:22,938 - xyft_predict.main - INFO - save predict_lottery_id : 20190711078
+2019-07-11 19:30:22,940 - xyft_predict.main - INFO - save purchase_number_list : 10|8|5|1|9|2|6,9|6|8|5|7|10|4,0,0,0,0,0,0,0,0
+2019-07-11 19:30:22,940 - xyft_predict.main - INFO - save_predict_time：2019-07-11 19:30:22
+2019-07-11 19:30:22,941 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 19:30:22,941 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 19:30:22,941 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 19:30:22,941 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 19:35:16,032 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 19:35:21,470 - xyft_predict.main - DEBUG - lottery_id: 20190711078
+2019-07-11 19:35:21,471 - xyft_predict.main - INFO - lottery_num: 06,05,09,03,10,01,04,08,02,07
+2019-07-11 19:35:21,471 - xyft_predict.main - DEBUG - mingci [1]: 6
+2019-07-11 19:35:21,473 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'10', u'8', u'5', u'1', u'9', u'2', u'6']
+2019-07-11 19:35:21,473 - xyft_predict.main - DEBUG - mingci [2]: 5
+2019-07-11 19:35:21,473 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'9', u'6', u'8', u'5', u'7', u'10', u'4']
+2019-07-11 19:35:21,473 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 2 
+2019-07-11 19:35:21,473 - xyft_predict.main - DEBUG - target_count: 0.142857
+2019-07-11 19:35:21,545 - xyft_predict.main - INFO - last_purchase_hit: True
+2019-07-11 19:35:21,546 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 19:35:21,551 - xyft_predict.main - INFO - save predict_lottery_id : 20190711079
+2019-07-11 19:35:21,551 - xyft_predict.main - INFO - save purchase_number_list : 6|10|8|5|1|9|2,5|9|6|8|7|10|4,0,0,0,0,0,0,0,0
+2019-07-11 19:35:21,551 - xyft_predict.main - INFO - save_predict_time：2019-07-11 19:35:21
+2019-07-11 19:35:21,552 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 19:35:21,552 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 19:35:21,552 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 19:35:21,552 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 19:40:14,637 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 19:40:20,039 - xyft_predict.main - DEBUG - lottery_id: 20190711079
+2019-07-11 19:40:20,043 - xyft_predict.main - INFO - lottery_num: 03,02,10,05,09,01,07,08,04,06
+2019-07-11 19:40:20,043 - xyft_predict.main - DEBUG - mingci [1]: 3
+2019-07-11 19:40:20,045 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'6', u'10', u'8', u'5', u'1', u'9', u'2']
+2019-07-11 19:40:20,045 - xyft_predict.main - DEBUG - mingci [2]: 2
+2019-07-11 19:40:20,045 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'5', u'9', u'6', u'8', u'7', u'10', u'4']
+2019-07-11 19:40:20,045 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 0 
+2019-07-11 19:40:20,046 - xyft_predict.main - DEBUG - target_count: 0.000000
+2019-07-11 19:40:20,117 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 19:40:20,117 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 19:40:20,125 - xyft_predict.main - INFO - save predict_lottery_id : 20190711080
+2019-07-11 19:40:20,125 - xyft_predict.main - INFO - save purchase_number_list : 3|6|10|8|5|1|9,2|5|9|6|8|7|10,0,0,0,0,0,0,0,0
+2019-07-11 19:40:20,125 - xyft_predict.main - INFO - save_predict_time：2019-07-11 19:40:20
+2019-07-11 19:40:20,127 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 19:40:20,128 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 19:40:20,128 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 19:40:20,128 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 19:45:13,207 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 19:45:18,721 - xyft_predict.main - DEBUG - lottery_id: 20190711080
+2019-07-11 19:45:18,723 - xyft_predict.main - INFO - lottery_num: 01,06,10,04,05,03,07,08,02,09
+2019-07-11 19:45:18,723 - xyft_predict.main - DEBUG - mingci [1]: 1
+2019-07-11 19:45:18,723 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'3', u'6', u'10', u'8', u'5', u'1', u'9']
+2019-07-11 19:45:18,723 - xyft_predict.main - DEBUG - mingci [2]: 6
+2019-07-11 19:45:18,723 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'2', u'5', u'9', u'6', u'8', u'7', u'10']
+2019-07-11 19:45:18,723 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 2 
+2019-07-11 19:45:18,723 - xyft_predict.main - DEBUG - target_count: 0.142857
+2019-07-11 19:45:18,796 - xyft_predict.main - INFO - last_purchase_hit: True
+2019-07-11 19:45:18,796 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 19:45:18,801 - xyft_predict.main - INFO - save predict_lottery_id : 20190711081
+2019-07-11 19:45:18,801 - xyft_predict.main - INFO - save purchase_number_list : 1|3|6|10|8|5|9,6|2|5|9|8|7|10,0,0,0,0,0,0,0,0
+2019-07-11 19:45:18,801 - xyft_predict.main - INFO - save_predict_time：2019-07-11 19:45:18
+2019-07-11 19:45:18,802 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 19:45:18,803 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 19:45:18,805 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 19:45:18,805 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 19:50:11,887 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 19:50:17,767 - xyft_predict.main - DEBUG - lottery_id: 20190711081
+2019-07-11 19:50:17,769 - xyft_predict.main - INFO - lottery_num: 10,05,09,01,06,07,08,03,04,02
+2019-07-11 19:50:17,769 - xyft_predict.main - DEBUG - mingci [1]: 10
+2019-07-11 19:50:17,769 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'1', u'3', u'6', u'10', u'8', u'5', u'9']
+2019-07-11 19:50:17,769 - xyft_predict.main - DEBUG - mingci [2]: 5
+2019-07-11 19:50:17,770 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'6', u'2', u'5', u'9', u'8', u'7', u'10']
+2019-07-11 19:50:17,770 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 2 
+2019-07-11 19:50:17,770 - xyft_predict.main - DEBUG - target_count: 0.142857
+2019-07-11 19:50:17,841 - xyft_predict.main - INFO - last_purchase_hit: True
+2019-07-11 19:50:17,842 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 19:50:17,845 - xyft_predict.main - INFO - save predict_lottery_id : 20190711082
+2019-07-11 19:50:17,845 - xyft_predict.main - INFO - save purchase_number_list : 10|1|3|6|8|5|9,5|6|2|9|8|7|10,0,0,0,0,0,0,0,0
+2019-07-11 19:50:17,845 - xyft_predict.main - INFO - save_predict_time：2019-07-11 19:50:17
+2019-07-11 19:50:17,848 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 19:50:17,848 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 19:50:17,848 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 19:50:17,848 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 19:55:10,930 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 19:55:16,956 - xyft_predict.main - DEBUG - lottery_id: 20190711082
+2019-07-11 19:55:16,957 - xyft_predict.main - INFO - lottery_num: 04,10,09,08,01,05,07,02,03,06
+2019-07-11 19:55:16,957 - xyft_predict.main - DEBUG - mingci [1]: 4
+2019-07-11 19:55:16,957 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'10', u'1', u'3', u'6', u'8', u'5', u'9']
+2019-07-11 19:55:16,957 - xyft_predict.main - DEBUG - mingci [2]: 10
+2019-07-11 19:55:16,959 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'5', u'6', u'2', u'9', u'8', u'7', u'10']
+2019-07-11 19:55:16,959 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 19:55:16,959 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 19:55:17,029 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 19:55:17,029 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 19:55:17,036 - xyft_predict.main - INFO - save predict_lottery_id : 20190711083
+2019-07-11 19:55:17,036 - xyft_predict.main - INFO - save purchase_number_list : 4|10|1|3|6|8|5,10|5|6|2|9|8|7,0,0,0,0,0,0,0,0
+2019-07-11 19:55:17,036 - xyft_predict.main - INFO - save_predict_time：2019-07-11 19:55:17
+2019-07-11 19:55:17,038 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 19:55:17,038 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 19:55:17,039 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 19:55:17,039 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 20:05:10,130 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 20:05:15,930 - xyft_predict.main - DEBUG - lottery_id: 20190711083
+2019-07-11 20:05:15,930 - xyft_predict.main - INFO - lottery_num: 05,07,09,03,10,01,02,08,06,04
+2019-07-11 20:05:15,931 - xyft_predict.main - DEBUG - mingci [1]: 5
+2019-07-11 20:05:15,931 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'4', u'10', u'1', u'3', u'6', u'8', u'5']
+2019-07-11 20:05:15,931 - xyft_predict.main - DEBUG - mingci [2]: 7
+2019-07-11 20:05:15,933 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'10', u'5', u'6', u'2', u'9', u'8', u'7']
+2019-07-11 20:05:15,933 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 2 
+2019-07-11 20:05:15,933 - xyft_predict.main - DEBUG - target_count: 0.142857
+2019-07-11 20:05:15,996 - xyft_predict.main - INFO - last_purchase_hit: True
+2019-07-11 20:05:15,996 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 20:05:16,005 - xyft_predict.main - INFO - save predict_lottery_id : 20190711085
+2019-07-11 20:05:16,006 - xyft_predict.main - INFO - save purchase_number_list : 5|4|10|1|3|6|8,9|7|10|5|6|2|8,0,0,0,0,0,0,0,0
+2019-07-11 20:05:16,006 - xyft_predict.main - INFO - save_predict_time：2019-07-11 20:05:16
+2019-07-11 20:05:16,007 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 20:05:16,007 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 20:05:16,007 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 20:05:16,007 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 20:10:19,088 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 20:10:24,859 - xyft_predict.main - DEBUG - lottery_id: 20190711085
+2019-07-11 20:10:24,861 - xyft_predict.main - INFO - lottery_num: 06,02,08,07,04,09,03,01,05,10
+2019-07-11 20:10:24,861 - xyft_predict.main - DEBUG - mingci [1]: 6
+2019-07-11 20:10:24,861 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'5', u'4', u'10', u'1', u'3', u'6', u'8']
+2019-07-11 20:10:24,861 - xyft_predict.main - DEBUG - mingci [2]: 2
+2019-07-11 20:10:24,861 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'9', u'7', u'10', u'5', u'6', u'2', u'8']
+2019-07-11 20:10:24,861 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 2 
+2019-07-11 20:10:24,862 - xyft_predict.main - DEBUG - target_count: 0.142857
+2019-07-11 20:10:24,924 - xyft_predict.main - INFO - last_purchase_hit: True
+2019-07-11 20:10:24,924 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 20:10:24,930 - xyft_predict.main - INFO - save predict_lottery_id : 20190711086
+2019-07-11 20:10:24,930 - xyft_predict.main - INFO - save purchase_number_list : 6|5|4|10|1|3|8,2|9|7|10|5|6|8,0,0,0,0,0,0,0,0
+2019-07-11 20:10:24,930 - xyft_predict.main - INFO - save_predict_time：2019-07-11 20:10:24
+2019-07-11 20:10:24,931 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 20:10:24,931 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 20:10:24,933 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 20:10:24,938 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 20:15:18,012 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 20:15:23,845 - xyft_predict.main - DEBUG - lottery_id: 20190711086
+2019-07-11 20:15:23,845 - xyft_predict.main - INFO - lottery_num: 01,07,05,02,08,03,10,09,06,04
+2019-07-11 20:15:23,845 - xyft_predict.main - DEBUG - mingci [1]: 1
+2019-07-11 20:15:23,845 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'6', u'5', u'4', u'10', u'1', u'3', u'8']
+2019-07-11 20:15:23,846 - xyft_predict.main - DEBUG - mingci [2]: 7
+2019-07-11 20:15:23,846 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'2', u'9', u'7', u'10', u'5', u'6', u'8']
+2019-07-11 20:15:23,846 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 2 
+2019-07-11 20:15:23,846 - xyft_predict.main - DEBUG - target_count: 0.142857
+2019-07-11 20:15:23,907 - xyft_predict.main - INFO - last_purchase_hit: True
+2019-07-11 20:15:23,907 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 20:15:23,913 - xyft_predict.main - INFO - save predict_lottery_id : 20190711087
+2019-07-11 20:15:23,913 - xyft_predict.main - INFO - save purchase_number_list : 1|6|5|4|10|3|8,7|2|9|10|5|6|8,0,0,0,0,0,0,0,0
+2019-07-11 20:15:23,913 - xyft_predict.main - INFO - save_predict_time：2019-07-11 20:15:23
+2019-07-11 20:15:23,914 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 20:15:23,915 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 20:15:23,917 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 20:15:23,917 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 20:20:16,989 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 20:20:23,118 - xyft_predict.main - DEBUG - lottery_id: 20190711087
+2019-07-11 20:20:23,119 - xyft_predict.main - INFO - lottery_num: 03,06,09,02,10,01,07,04,08,05
+2019-07-11 20:20:23,119 - xyft_predict.main - DEBUG - mingci [1]: 3
+2019-07-11 20:20:23,121 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'1', u'6', u'5', u'4', u'10', u'3', u'8']
+2019-07-11 20:20:23,121 - xyft_predict.main - DEBUG - mingci [2]: 6
+2019-07-11 20:20:23,121 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'7', u'2', u'9', u'10', u'5', u'6', u'8']
+2019-07-11 20:20:23,121 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 2 
+2019-07-11 20:20:23,121 - xyft_predict.main - DEBUG - target_count: 0.142857
+2019-07-11 20:20:23,184 - xyft_predict.main - INFO - last_purchase_hit: True
+2019-07-11 20:20:23,184 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 20:20:23,188 - xyft_predict.main - INFO - save predict_lottery_id : 20190711088
+2019-07-11 20:20:23,190 - xyft_predict.main - INFO - save purchase_number_list : 3|1|6|5|4|10|8,6|7|2|9|10|5|8,0,0,0,0,0,0,0,0
+2019-07-11 20:20:23,190 - xyft_predict.main - INFO - save_predict_time：2019-07-11 20:20:23
+2019-07-11 20:20:23,190 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 20:20:23,191 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 20:20:23,191 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 20:20:23,191 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 20:25:16,273 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 20:25:22,223 - xyft_predict.main - DEBUG - lottery_id: 20190711088
+2019-07-11 20:25:22,223 - xyft_predict.main - INFO - lottery_num: 07,06,02,10,01,04,03,09,05,08
+2019-07-11 20:25:22,223 - xyft_predict.main - DEBUG - mingci [1]: 7
+2019-07-11 20:25:22,224 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'3', u'1', u'6', u'5', u'4', u'10', u'8']
+2019-07-11 20:25:22,224 - xyft_predict.main - DEBUG - mingci [2]: 6
+2019-07-11 20:25:22,224 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'6', u'7', u'2', u'9', u'10', u'5', u'8']
+2019-07-11 20:25:22,224 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 20:25:22,226 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 20:25:22,303 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 20:25:22,305 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 20:25:22,309 - xyft_predict.main - INFO - save predict_lottery_id : 20190711089
+2019-07-11 20:25:22,309 - xyft_predict.main - INFO - save purchase_number_list : 7|3|1|6|5|4|10,6|7|2|9|10|5|8,0,0,0,0,0,0,0,0
+2019-07-11 20:25:22,309 - xyft_predict.main - INFO - save_predict_time：2019-07-11 20:25:22
+2019-07-11 20:25:22,312 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 20:25:22,312 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 20:25:22,312 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 20:25:22,312 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 20:30:15,388 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 20:30:21,539 - xyft_predict.main - DEBUG - lottery_id: 20190711089
+2019-07-11 20:30:21,542 - xyft_predict.main - INFO - lottery_num: 09,06,07,05,02,10,01,03,08,04
+2019-07-11 20:30:21,542 - xyft_predict.main - DEBUG - mingci [1]: 9
+2019-07-11 20:30:21,542 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'7', u'3', u'1', u'6', u'5', u'4', u'10']
+2019-07-11 20:30:21,542 - xyft_predict.main - DEBUG - mingci [2]: 6
+2019-07-11 20:30:21,542 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'6', u'7', u'2', u'9', u'10', u'5', u'8']
+2019-07-11 20:30:21,542 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 20:30:21,543 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 20:30:21,618 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 20:30:21,618 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 20:30:21,630 - xyft_predict.main - INFO - save predict_lottery_id : 20190711090
+2019-07-11 20:30:21,630 - xyft_predict.main - INFO - save purchase_number_list : 9|7|3|1|6|5|4,6|7|2|9|10|5|8,0,0,0,0,0,0,0,0
+2019-07-11 20:30:21,630 - xyft_predict.main - INFO - save_predict_time：2019-07-11 20:30:21
+2019-07-11 20:30:21,632 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 20:30:21,634 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 20:30:21,634 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 20:30:21,634 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 20:35:14,724 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 20:35:20,901 - xyft_predict.main - DEBUG - lottery_id: 20190711090
+2019-07-11 20:35:20,904 - xyft_predict.main - INFO - lottery_num: 09,03,06,10,01,04,08,07,02,05
+2019-07-11 20:35:20,904 - xyft_predict.main - DEBUG - mingci [1]: 9
+2019-07-11 20:35:20,904 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'9', u'7', u'3', u'1', u'6', u'5', u'4']
+2019-07-11 20:35:20,904 - xyft_predict.main - DEBUG - mingci [2]: 3
+2019-07-11 20:35:20,905 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'6', u'7', u'2', u'9', u'10', u'5', u'8']
+2019-07-11 20:35:20,905 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 20:35:20,905 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 20:35:20,987 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 20:35:20,989 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 20:35:20,996 - xyft_predict.main - INFO - save predict_lottery_id : 20190711091
+2019-07-11 20:35:20,997 - xyft_predict.main - INFO - save purchase_number_list : 9|7|3|1|6|5|4,3|6|7|2|9|10|5,0,0,0,0,0,0,0,0
+2019-07-11 20:35:20,999 - xyft_predict.main - INFO - save_predict_time：2019-07-11 20:35:20
+2019-07-11 20:35:21,000 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 20:35:21,003 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 20:35:21,003 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 20:35:21,006 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 20:40:14,092 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 20:40:20,420 - xyft_predict.main - DEBUG - lottery_id: 20190711091
+2019-07-11 20:40:20,421 - xyft_predict.main - INFO - lottery_num: 02,08,06,03,05,10,07,09,04,01
+2019-07-11 20:40:20,421 - xyft_predict.main - DEBUG - mingci [1]: 2
+2019-07-11 20:40:20,421 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'9', u'7', u'3', u'1', u'6', u'5', u'4']
+2019-07-11 20:40:20,421 - xyft_predict.main - DEBUG - mingci [2]: 8
+2019-07-11 20:40:20,421 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'3', u'6', u'7', u'2', u'9', u'10', u'5']
+2019-07-11 20:40:20,423 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 0 
+2019-07-11 20:40:20,423 - xyft_predict.main - DEBUG - target_count: 0.000000
+2019-07-11 20:40:20,492 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 20:40:20,493 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 20:40:20,506 - xyft_predict.main - INFO - save predict_lottery_id : 20190711092
+2019-07-11 20:40:20,506 - xyft_predict.main - INFO - save purchase_number_list : 2|9|7|3|1|6|5,8|3|6|7|2|9|10,0,0,0,0,0,0,0,0
+2019-07-11 20:40:20,506 - xyft_predict.main - INFO - save_predict_time：2019-07-11 20:40:20
+2019-07-11 20:40:20,509 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 20:40:20,510 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 20:40:20,510 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 20:40:20,510 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 20:45:13,591 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 20:45:20,015 - xyft_predict.main - DEBUG - lottery_id: 20190711092
+2019-07-11 20:45:20,016 - xyft_predict.main - INFO - lottery_num: 07,05,04,08,06,09,03,02,01,10
+2019-07-11 20:45:20,016 - xyft_predict.main - DEBUG - mingci [1]: 7
+2019-07-11 20:45:20,017 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'2', u'9', u'7', u'3', u'1', u'6', u'5']
+2019-07-11 20:45:20,017 - xyft_predict.main - DEBUG - mingci [2]: 5
+2019-07-11 20:45:20,017 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'8', u'3', u'6', u'7', u'2', u'9', u'10']
+2019-07-11 20:45:20,017 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 20:45:20,019 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 20:45:20,088 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 20:45:20,088 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 20:45:20,094 - xyft_predict.main - INFO - save predict_lottery_id : 20190711093
+2019-07-11 20:45:20,095 - xyft_predict.main - INFO - save purchase_number_list : 7|2|9|3|1|6|5,5|8|3|6|7|2|9,0,0,0,0,0,0,0,0
+2019-07-11 20:45:20,095 - xyft_predict.main - INFO - save_predict_time：2019-07-11 20:45:20
+2019-07-11 20:45:20,105 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 20:45:20,105 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 20:45:20,105 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 20:45:20,105 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 20:50:13,186 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 20:50:19,706 - xyft_predict.main - DEBUG - lottery_id: 20190711093
+2019-07-11 20:50:19,707 - xyft_predict.main - INFO - lottery_num: 06,01,02,09,05,04,10,03,08,07
+2019-07-11 20:50:19,707 - xyft_predict.main - DEBUG - mingci [1]: 6
+2019-07-11 20:50:19,707 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'7', u'2', u'9', u'3', u'1', u'6', u'5']
+2019-07-11 20:50:19,707 - xyft_predict.main - DEBUG - mingci [2]: 1
+2019-07-11 20:50:19,707 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'5', u'8', u'3', u'6', u'7', u'2', u'9']
+2019-07-11 20:50:19,707 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 20:50:19,707 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 20:50:19,776 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 20:50:19,776 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 20:50:19,780 - xyft_predict.main - INFO - save predict_lottery_id : 20190711094
+2019-07-11 20:50:19,780 - xyft_predict.main - INFO - save purchase_number_list : 6|7|2|9|3|1|5,1|5|8|3|6|7|2,0,0,0,0,0,0,0,0
+2019-07-11 20:50:19,780 - xyft_predict.main - INFO - save_predict_time：2019-07-11 20:50:19
+2019-07-11 20:50:19,782 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 20:50:19,782 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 20:50:19,782 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 20:50:19,782 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 20:55:12,867 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 20:55:19,890 - xyft_predict.main - DEBUG - lottery_id: 20190711094
+2019-07-11 20:55:19,891 - xyft_predict.main - INFO - lottery_num: 03,10,06,01,04,08,07,09,05,02
+2019-07-11 20:55:19,891 - xyft_predict.main - DEBUG - mingci [1]: 3
+2019-07-11 20:55:19,891 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'6', u'7', u'2', u'9', u'3', u'1', u'5']
+2019-07-11 20:55:19,891 - xyft_predict.main - DEBUG - mingci [2]: 10
+2019-07-11 20:55:19,891 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'1', u'5', u'8', u'3', u'6', u'7', u'2']
+2019-07-11 20:55:19,891 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 20:55:19,892 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 20:55:19,954 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 20:55:19,956 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 20:55:19,963 - xyft_predict.main - INFO - save predict_lottery_id : 20190711095
+2019-07-11 20:55:19,963 - xyft_predict.main - INFO - save purchase_number_list : 3|6|7|2|9|1|5,10|1|5|8|3|6|7,0,0,0,0,0,0,0,0
+2019-07-11 20:55:19,963 - xyft_predict.main - INFO - save_predict_time：2019-07-11 20:55:19
+2019-07-11 20:55:19,964 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 20:55:19,964 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 20:55:19,964 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 20:55:19,964 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 21:05:13,065 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 21:05:19,888 - xyft_predict.main - DEBUG - lottery_id: 20190711095
+2019-07-11 21:05:19,890 - xyft_predict.main - INFO - lottery_num: 03,10,05,09,08,01,04,02,07,06
+2019-07-11 21:05:19,891 - xyft_predict.main - DEBUG - mingci [1]: 3
+2019-07-11 21:05:19,891 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'3', u'6', u'7', u'2', u'9', u'1', u'5']
+2019-07-11 21:05:19,891 - xyft_predict.main - DEBUG - mingci [2]: 10
+2019-07-11 21:05:19,891 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'10', u'1', u'5', u'8', u'3', u'6', u'7']
+2019-07-11 21:05:19,891 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 2 
+2019-07-11 21:05:19,891 - xyft_predict.main - DEBUG - target_count: 0.142857
+2019-07-11 21:05:19,963 - xyft_predict.main - INFO - last_purchase_hit: True
+2019-07-11 21:05:19,963 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 21:05:19,967 - xyft_predict.main - INFO - save predict_lottery_id : 20190711097
+2019-07-11 21:05:19,967 - xyft_predict.main - INFO - save purchase_number_list : 10|3|6|7|2|9|1,9|10|1|5|8|3|6,0,0,0,0,0,0,0,0
+2019-07-11 21:05:19,967 - xyft_predict.main - INFO - save_predict_time：2019-07-11 21:05:19
+2019-07-11 21:05:19,969 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 21:05:19,969 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 21:05:19,970 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 21:05:19,970 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 21:10:13,052 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 21:10:19,749 - xyft_predict.main - DEBUG - lottery_id: 20190711097
+2019-07-11 21:10:19,750 - xyft_predict.main - INFO - lottery_num: 03,04,10,02,08,09,01,07,06,05
+2019-07-11 21:10:19,750 - xyft_predict.main - DEBUG - mingci [1]: 3
+2019-07-11 21:10:19,750 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'10', u'3', u'6', u'7', u'2', u'9', u'1']
+2019-07-11 21:10:19,750 - xyft_predict.main - DEBUG - mingci [2]: 4
+2019-07-11 21:10:19,750 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'9', u'10', u'1', u'5', u'8', u'3', u'6']
+2019-07-11 21:10:19,752 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 21:10:19,752 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 21:10:19,818 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 21:10:19,819 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 21:10:19,825 - xyft_predict.main - INFO - save predict_lottery_id : 20190711098
+2019-07-11 21:10:19,825 - xyft_predict.main - INFO - save purchase_number_list : 3|10|6|7|2|9|1,4|9|10|1|5|8|3,0,0,0,0,0,0,0,0
+2019-07-11 21:10:19,825 - xyft_predict.main - INFO - save_predict_time：2019-07-11 21:10:19
+2019-07-11 21:10:19,826 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 21:10:19,826 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 21:10:19,826 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 21:10:19,832 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 21:15:12,904 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 21:15:20,049 - xyft_predict.main - DEBUG - lottery_id: 20190711098
+2019-07-11 21:15:20,051 - xyft_predict.main - INFO - lottery_num: 05,01,02,10,08,07,04,09,06,03
+2019-07-11 21:15:20,051 - xyft_predict.main - DEBUG - mingci [1]: 5
+2019-07-11 21:15:20,051 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'3', u'10', u'6', u'7', u'2', u'9', u'1']
+2019-07-11 21:15:20,052 - xyft_predict.main - DEBUG - mingci [2]: 1
+2019-07-11 21:15:20,052 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'4', u'9', u'10', u'1', u'5', u'8', u'3']
+2019-07-11 21:15:20,052 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 21:15:20,052 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 21:15:20,114 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 21:15:20,115 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 21:15:20,119 - xyft_predict.main - INFO - save predict_lottery_id : 20190711099
+2019-07-11 21:15:20,119 - xyft_predict.main - INFO - save purchase_number_list : 5|3|10|6|7|2|9,1|4|9|10|5|8|3,0,0,0,0,0,0,0,0
+2019-07-11 21:15:20,121 - xyft_predict.main - INFO - save_predict_time：2019-07-11 21:15:20
+2019-07-11 21:15:20,124 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 21:15:20,124 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 21:15:20,124 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 21:15:20,124 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 21:20:13,201 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 21:20:20,292 - xyft_predict.main - DEBUG - lottery_id: 20190711099
+2019-07-11 21:20:20,295 - xyft_predict.main - INFO - lottery_num: 05,08,09,06,01,03,02,07,04,10
+2019-07-11 21:20:20,296 - xyft_predict.main - DEBUG - mingci [1]: 5
+2019-07-11 21:20:20,296 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'5', u'3', u'10', u'6', u'7', u'2', u'9']
+2019-07-11 21:20:20,302 - xyft_predict.main - DEBUG - mingci [2]: 8
+2019-07-11 21:20:20,302 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'1', u'4', u'9', u'10', u'5', u'8', u'3']
+2019-07-11 21:20:20,302 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 2 
+2019-07-11 21:20:20,302 - xyft_predict.main - DEBUG - target_count: 0.142857
+2019-07-11 21:20:20,375 - xyft_predict.main - INFO - last_purchase_hit: True
+2019-07-11 21:20:20,375 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 21:20:20,381 - xyft_predict.main - INFO - save predict_lottery_id : 20190711100
+2019-07-11 21:20:20,381 - xyft_predict.main - INFO - save purchase_number_list : 5|3|10|6|7|2|9,8|1|4|9|10|5|3,0,0,0,0,0,0,0,0
+2019-07-11 21:20:20,381 - xyft_predict.main - INFO - save_predict_time：2019-07-11 21:20:20
+2019-07-11 21:20:20,388 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 21:20:20,388 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 21:20:20,390 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 21:20:20,390 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 21:25:13,463 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 21:25:20,092 - xyft_predict.main - DEBUG - lottery_id: 20190711100
+2019-07-11 21:25:20,094 - xyft_predict.main - INFO - lottery_num: 05,07,03,06,04,09,10,01,02,08
+2019-07-11 21:25:20,094 - xyft_predict.main - DEBUG - mingci [1]: 5
+2019-07-11 21:25:20,095 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'5', u'3', u'10', u'6', u'7', u'2', u'9']
+2019-07-11 21:25:20,095 - xyft_predict.main - DEBUG - mingci [2]: 7
+2019-07-11 21:25:20,095 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'8', u'1', u'4', u'9', u'10', u'5', u'3']
+2019-07-11 21:25:20,095 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 21:25:20,095 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 21:25:20,163 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 21:25:20,164 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 21:25:20,177 - xyft_predict.main - INFO - save predict_lottery_id : 20190711101
+2019-07-11 21:25:20,177 - xyft_predict.main - INFO - save purchase_number_list : 5|3|10|6|7|2|9,7|8|1|4|9|10|5,0,0,0,0,0,0,0,0
+2019-07-11 21:25:20,177 - xyft_predict.main - INFO - save_predict_time：2019-07-11 21:25:20
+2019-07-11 21:25:20,180 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 21:25:20,180 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 21:25:20,180 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 21:25:20,180 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 21:30:13,260 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 21:30:20,128 - xyft_predict.main - DEBUG - lottery_id: 20190711101
+2019-07-11 21:30:20,128 - xyft_predict.main - INFO - lottery_num: 08,10,01,02,04,03,06,09,07,05
+2019-07-11 21:30:20,128 - xyft_predict.main - DEBUG - mingci [1]: 8
+2019-07-11 21:30:20,130 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'5', u'3', u'10', u'6', u'7', u'2', u'9']
+2019-07-11 21:30:20,130 - xyft_predict.main - DEBUG - mingci [2]: 10
+2019-07-11 21:30:20,130 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'7', u'8', u'1', u'4', u'9', u'10', u'5']
+2019-07-11 21:30:20,130 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 21:30:20,131 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 21:30:20,201 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 21:30:20,201 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 21:30:20,207 - xyft_predict.main - INFO - save predict_lottery_id : 20190711102
+2019-07-11 21:30:20,207 - xyft_predict.main - INFO - save purchase_number_list : 8|5|3|10|6|7|2,10|7|8|1|4|9|5,0,0,0,0,0,0,0,0
+2019-07-11 21:30:20,207 - xyft_predict.main - INFO - save_predict_time：2019-07-11 21:30:20
+2019-07-11 21:30:20,209 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 21:30:20,210 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 21:30:20,211 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 21:30:20,211 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 21:35:13,292 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 21:35:20,542 - xyft_predict.main - DEBUG - lottery_id: 20190711102
+2019-07-11 21:35:20,542 - xyft_predict.main - INFO - lottery_num: 02,10,01,03,06,08,09,04,07,05
+2019-07-11 21:35:20,543 - xyft_predict.main - DEBUG - mingci [1]: 2
+2019-07-11 21:35:20,543 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'8', u'5', u'3', u'10', u'6', u'7', u'2']
+2019-07-11 21:35:20,543 - xyft_predict.main - DEBUG - mingci [2]: 10
+2019-07-11 21:35:20,543 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'10', u'7', u'8', u'1', u'4', u'9', u'5']
+2019-07-11 21:35:20,545 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 2 
+2019-07-11 21:35:20,545 - xyft_predict.main - DEBUG - target_count: 0.142857
+2019-07-11 21:35:20,621 - xyft_predict.main - INFO - last_purchase_hit: True
+2019-07-11 21:35:20,621 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 21:35:20,628 - xyft_predict.main - INFO - save predict_lottery_id : 20190711103
+2019-07-11 21:35:20,628 - xyft_predict.main - INFO - save purchase_number_list : 2|8|5|3|10|6|7,10|7|8|1|4|9|5,0,0,0,0,0,0,0,0
+2019-07-11 21:35:20,628 - xyft_predict.main - INFO - save_predict_time：2019-07-11 21:35:20
+2019-07-11 21:35:20,631 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 21:35:20,631 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 21:35:20,632 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 21:35:20,632 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 21:40:13,719 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 21:40:21,457 - xyft_predict.main - DEBUG - lottery_id: 20190711103
+2019-07-11 21:40:21,459 - xyft_predict.main - INFO - lottery_num: 01,04,05,08,02,06,03,09,07,10
+2019-07-11 21:40:21,460 - xyft_predict.main - DEBUG - mingci [1]: 1
+2019-07-11 21:40:21,460 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'2', u'8', u'5', u'3', u'10', u'6', u'7']
+2019-07-11 21:40:21,460 - xyft_predict.main - DEBUG - mingci [2]: 4
+2019-07-11 21:40:21,461 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'10', u'7', u'8', u'1', u'4', u'9', u'5']
+2019-07-11 21:40:21,461 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 21:40:21,461 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 21:40:21,535 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 21:40:21,535 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 21:40:21,552 - xyft_predict.main - INFO - save predict_lottery_id : 20190711104
+2019-07-11 21:40:21,552 - xyft_predict.main - INFO - save purchase_number_list : 1|2|8|5|3|10|6,4|10|7|8|1|9|5,0,0,0,0,0,0,0,0
+2019-07-11 21:40:21,552 - xyft_predict.main - INFO - save_predict_time：2019-07-11 21:40:21
+2019-07-11 21:40:21,555 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 21:40:21,555 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 21:40:21,555 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 21:40:21,556 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 21:45:14,641 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 21:45:21,914 - xyft_predict.main - DEBUG - lottery_id: 20190711104
+2019-07-11 21:45:21,915 - xyft_predict.main - INFO - lottery_num: 02,07,10,03,01,06,08,05,09,04
+2019-07-11 21:45:21,917 - xyft_predict.main - DEBUG - mingci [1]: 2
+2019-07-11 21:45:21,920 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'1', u'2', u'8', u'5', u'3', u'10', u'6']
+2019-07-11 21:45:21,920 - xyft_predict.main - DEBUG - mingci [2]: 7
+2019-07-11 21:45:21,920 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'4', u'10', u'7', u'8', u'1', u'9', u'5']
+2019-07-11 21:45:21,920 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 2 
+2019-07-11 21:45:21,921 - xyft_predict.main - DEBUG - target_count: 0.142857
+2019-07-11 21:45:21,989 - xyft_predict.main - INFO - last_purchase_hit: True
+2019-07-11 21:45:21,989 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 21:45:21,994 - xyft_predict.main - INFO - save predict_lottery_id : 20190711105
+2019-07-11 21:45:21,994 - xyft_predict.main - INFO - save purchase_number_list : 2|1|8|5|3|10|6,7|4|10|8|1|9|5,0,0,0,0,0,0,0,0
+2019-07-11 21:45:21,996 - xyft_predict.main - INFO - save_predict_time：2019-07-11 21:45:21
+2019-07-11 21:45:21,996 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 21:45:21,997 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 21:45:21,997 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 21:45:22,005 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 21:50:15,084 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 21:50:22,595 - xyft_predict.main - DEBUG - lottery_id: 20190711105
+2019-07-11 21:50:22,595 - xyft_predict.main - INFO - lottery_num: 09,04,10,03,07,01,05,08,06,02
+2019-07-11 21:50:22,595 - xyft_predict.main - DEBUG - mingci [1]: 9
+2019-07-11 21:50:22,596 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'2', u'1', u'8', u'5', u'3', u'10', u'6']
+2019-07-11 21:50:22,596 - xyft_predict.main - DEBUG - mingci [2]: 4
+2019-07-11 21:50:22,596 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'7', u'4', u'10', u'8', u'1', u'9', u'5']
+2019-07-11 21:50:22,596 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 21:50:22,596 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 21:50:22,663 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 21:50:22,663 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 21:50:22,671 - xyft_predict.main - INFO - save predict_lottery_id : 20190711106
+2019-07-11 21:50:22,671 - xyft_predict.main - INFO - save purchase_number_list : 9|2|1|8|5|3|10,4|7|10|8|1|9|5,0,0,0,0,0,0,0,0
+2019-07-11 21:50:22,671 - xyft_predict.main - INFO - save_predict_time：2019-07-11 21:50:22
+2019-07-11 21:50:22,673 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 21:50:22,673 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 21:50:22,673 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 21:50:22,674 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 21:55:15,760 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 21:55:23,091 - xyft_predict.main - DEBUG - lottery_id: 20190711106
+2019-07-11 21:55:23,092 - xyft_predict.main - INFO - lottery_num: 07,08,03,06,02,09,10,01,05,04
+2019-07-11 21:55:23,092 - xyft_predict.main - DEBUG - mingci [1]: 7
+2019-07-11 21:55:23,092 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'9', u'2', u'1', u'8', u'5', u'3', u'10']
+2019-07-11 21:55:23,094 - xyft_predict.main - DEBUG - mingci [2]: 8
+2019-07-11 21:55:23,094 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'4', u'7', u'10', u'8', u'1', u'9', u'5']
+2019-07-11 21:55:23,094 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 21:55:23,094 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 21:55:23,171 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 21:55:23,171 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 21:55:23,180 - xyft_predict.main - INFO - save predict_lottery_id : 20190711107
+2019-07-11 21:55:23,180 - xyft_predict.main - INFO - save purchase_number_list : 7|9|2|1|8|5|3,8|4|7|10|1|9|5,0,0,0,0,0,0,0,0
+2019-07-11 21:55:23,180 - xyft_predict.main - INFO - save_predict_time：2019-07-11 21:55:23
+2019-07-11 21:55:23,183 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 21:55:23,183 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 21:55:23,184 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 21:55:23,184 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 22:05:16,282 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 22:05:23,802 - xyft_predict.main - DEBUG - lottery_id: 20190711107
+2019-07-11 22:05:23,805 - xyft_predict.main - INFO - lottery_num: 03,08,07,02,01,09,10,06,04,05
+2019-07-11 22:05:23,806 - xyft_predict.main - DEBUG - mingci [1]: 3
+2019-07-11 22:05:23,806 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'7', u'9', u'2', u'1', u'8', u'5', u'3']
+2019-07-11 22:05:23,806 - xyft_predict.main - DEBUG - mingci [2]: 8
+2019-07-11 22:05:23,808 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'8', u'4', u'7', u'10', u'1', u'9', u'5']
+2019-07-11 22:05:23,809 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 2 
+2019-07-11 22:05:23,809 - xyft_predict.main - DEBUG - target_count: 0.142857
+2019-07-11 22:05:23,872 - xyft_predict.main - INFO - last_purchase_hit: True
+2019-07-11 22:05:23,872 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 22:05:23,880 - xyft_predict.main - INFO - save predict_lottery_id : 20190711109
+2019-07-11 22:05:23,880 - xyft_predict.main - INFO - save purchase_number_list : 2|3|7|9|1|8|5,7|8|4|10|1|9|5,0,0,0,0,0,0,0,0
+2019-07-11 22:05:23,880 - xyft_predict.main - INFO - save_predict_time：2019-07-11 22:05:23
+2019-07-11 22:05:23,881 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 22:05:23,881 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 22:05:23,881 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 22:05:23,881 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 22:10:16,970 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 22:10:24,894 - xyft_predict.main - DEBUG - lottery_id: 20190711109
+2019-07-11 22:10:24,895 - xyft_predict.main - INFO - lottery_num: 05,02,10,09,01,03,07,06,08,04
+2019-07-11 22:10:24,895 - xyft_predict.main - DEBUG - mingci [1]: 5
+2019-07-11 22:10:24,895 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'2', u'3', u'7', u'9', u'1', u'8', u'5']
+2019-07-11 22:10:24,897 - xyft_predict.main - DEBUG - mingci [2]: 2
+2019-07-11 22:10:24,900 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'7', u'8', u'4', u'10', u'1', u'9', u'5']
+2019-07-11 22:10:24,900 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 22:10:24,900 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 22:10:24,967 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 22:10:24,969 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 22:10:24,973 - xyft_predict.main - INFO - save predict_lottery_id : 20190711110
+2019-07-11 22:10:24,973 - xyft_predict.main - INFO - save purchase_number_list : 5|2|3|7|9|1|8,2|7|8|4|10|1|9,0,0,0,0,0,0,0,0
+2019-07-11 22:10:24,973 - xyft_predict.main - INFO - save_predict_time：2019-07-11 22:10:24
+2019-07-11 22:10:24,976 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 22:10:24,977 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 22:10:24,977 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 22:10:24,977 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 22:15:18,056 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 22:15:26,730 - xyft_predict.main - DEBUG - lottery_id: 20190711110
+2019-07-11 22:15:26,730 - xyft_predict.main - INFO - lottery_num: 03,04,10,01,06,09,05,07,02,08
+2019-07-11 22:15:26,732 - xyft_predict.main - DEBUG - mingci [1]: 3
+2019-07-11 22:15:26,732 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'5', u'2', u'3', u'7', u'9', u'1', u'8']
+2019-07-11 22:15:26,732 - xyft_predict.main - DEBUG - mingci [2]: 4
+2019-07-11 22:15:26,733 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'2', u'7', u'8', u'4', u'10', u'1', u'9']
+2019-07-11 22:15:26,733 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 2 
+2019-07-11 22:15:26,733 - xyft_predict.main - DEBUG - target_count: 0.142857
+2019-07-11 22:15:26,798 - xyft_predict.main - INFO - last_purchase_hit: True
+2019-07-11 22:15:26,799 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 22:15:26,803 - xyft_predict.main - INFO - save predict_lottery_id : 20190711111
+2019-07-11 22:15:26,803 - xyft_predict.main - INFO - save purchase_number_list : 3|5|2|7|9|1|8,4|2|7|8|10|1|9,0,0,0,0,0,0,0,0
+2019-07-11 22:15:26,803 - xyft_predict.main - INFO - save_predict_time：2019-07-11 22:15:26
+2019-07-11 22:15:26,805 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 22:15:26,806 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 22:15:26,806 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 22:15:26,813 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 22:20:19,891 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 22:20:28,088 - xyft_predict.main - DEBUG - lottery_id: 20190711111
+2019-07-11 22:20:28,088 - xyft_predict.main - INFO - lottery_num: 02,05,08,03,01,06,04,10,07,09
+2019-07-11 22:20:28,088 - xyft_predict.main - DEBUG - mingci [1]: 2
+2019-07-11 22:20:28,089 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'3', u'5', u'2', u'7', u'9', u'1', u'8']
+2019-07-11 22:20:28,089 - xyft_predict.main - DEBUG - mingci [2]: 5
+2019-07-11 22:20:28,089 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'4', u'2', u'7', u'8', u'10', u'1', u'9']
+2019-07-11 22:20:28,089 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 22:20:28,091 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 22:20:28,148 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 22:20:28,148 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 22:20:28,160 - xyft_predict.main - INFO - save predict_lottery_id : 20190711112
+2019-07-11 22:20:28,160 - xyft_predict.main - INFO - save purchase_number_list : 2|3|5|7|9|1|8,5|4|2|7|8|10|1,0,0,0,0,0,0,0,0
+2019-07-11 22:20:28,161 - xyft_predict.main - INFO - save_predict_time：2019-07-11 22:20:28
+2019-07-11 22:20:28,163 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 22:20:28,163 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 22:20:28,163 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 22:20:28,163 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 22:25:11,240 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 22:25:29,599 - xyft_predict.main - DEBUG - lottery_id: 20190711112
+2019-07-11 22:25:29,601 - xyft_predict.main - INFO - lottery_num: 07,03,05,09,04,02,10,08,06,01
+2019-07-11 22:25:29,601 - xyft_predict.main - DEBUG - mingci [1]: 7
+2019-07-11 22:25:29,601 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'2', u'3', u'5', u'7', u'9', u'1', u'8']
+2019-07-11 22:25:29,601 - xyft_predict.main - DEBUG - mingci [2]: 3
+2019-07-11 22:25:29,601 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'5', u'4', u'2', u'7', u'8', u'10', u'1']
+2019-07-11 22:25:29,601 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 22:25:29,601 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 22:25:29,674 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 22:25:29,674 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 22:25:29,680 - xyft_predict.main - INFO - save predict_lottery_id : 20190711113
+2019-07-11 22:25:29,680 - xyft_predict.main - INFO - save purchase_number_list : 7|2|3|5|9|1|8,3|5|4|2|7|8|10,0,0,0,0,0,0,0,0
+2019-07-11 22:25:29,680 - xyft_predict.main - INFO - save_predict_time：2019-07-11 22:25:29
+2019-07-11 22:25:29,683 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 22:25:29,684 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 22:25:29,684 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 22:25:29,684 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 22:30:12,759 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 22:30:20,871 - xyft_predict.main - DEBUG - lottery_id: 20190711113
+2019-07-11 22:30:20,874 - xyft_predict.main - INFO - lottery_num: 08,01,04,09,06,07,03,10,05,02
+2019-07-11 22:30:20,880 - xyft_predict.main - DEBUG - mingci [1]: 8
+2019-07-11 22:30:20,881 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'7', u'2', u'3', u'5', u'9', u'1', u'8']
+2019-07-11 22:30:20,882 - xyft_predict.main - DEBUG - mingci [2]: 1
+2019-07-11 22:30:20,884 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'3', u'5', u'4', u'2', u'7', u'8', u'10']
+2019-07-11 22:30:20,884 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 22:30:20,884 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 22:30:20,953 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 22:30:20,953 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 22:30:20,957 - xyft_predict.main - INFO - save predict_lottery_id : 20190711114
+2019-07-11 22:30:20,959 - xyft_predict.main - INFO - save purchase_number_list : 8|7|2|3|5|9|1,1|3|5|4|2|7|8,0,0,0,0,0,0,0,0
+2019-07-11 22:30:20,959 - xyft_predict.main - INFO - save_predict_time：2019-07-11 22:30:20
+2019-07-11 22:30:20,960 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 22:30:20,960 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 22:30:20,960 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 22:30:20,960 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 22:35:14,043 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 22:35:22,546 - xyft_predict.main - DEBUG - lottery_id: 20190711114
+2019-07-11 22:35:22,549 - xyft_predict.main - INFO - lottery_num: 08,09,03,07,06,05,04,02,10,01
+2019-07-11 22:35:22,549 - xyft_predict.main - DEBUG - mingci [1]: 8
+2019-07-11 22:35:22,549 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'8', u'7', u'2', u'3', u'5', u'9', u'1']
+2019-07-11 22:35:22,549 - xyft_predict.main - DEBUG - mingci [2]: 9
+2019-07-11 22:35:22,549 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'1', u'3', u'5', u'4', u'2', u'7', u'8']
+2019-07-11 22:35:22,549 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 22:35:22,549 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 22:35:22,615 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 22:35:22,615 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 22:35:22,622 - xyft_predict.main - INFO - save predict_lottery_id : 20190711115
+2019-07-11 22:35:22,622 - xyft_predict.main - INFO - save purchase_number_list : 8|7|2|3|5|9|1,9|1|3|5|4|2|7,0,0,0,0,0,0,0,0
+2019-07-11 22:35:22,624 - xyft_predict.main - INFO - save_predict_time：2019-07-11 22:35:22
+2019-07-11 22:35:22,625 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 22:35:22,625 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 22:35:22,625 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 22:35:22,627 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 22:40:15,713 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 22:40:23,470 - xyft_predict.main - DEBUG - lottery_id: 20190711115
+2019-07-11 22:40:23,473 - xyft_predict.main - INFO - lottery_num: 08,09,06,10,03,04,01,02,07,05
+2019-07-11 22:40:23,473 - xyft_predict.main - DEBUG - mingci [1]: 8
+2019-07-11 22:40:23,473 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'8', u'7', u'2', u'3', u'5', u'9', u'1']
+2019-07-11 22:40:23,473 - xyft_predict.main - DEBUG - mingci [2]: 9
+2019-07-11 22:40:23,473 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'9', u'1', u'3', u'5', u'4', u'2', u'7']
+2019-07-11 22:40:23,473 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 2 
+2019-07-11 22:40:23,473 - xyft_predict.main - DEBUG - target_count: 0.142857
+2019-07-11 22:40:23,545 - xyft_predict.main - INFO - last_purchase_hit: True
+2019-07-11 22:40:23,545 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 22:40:23,549 - xyft_predict.main - INFO - save predict_lottery_id : 20190711116
+2019-07-11 22:40:23,549 - xyft_predict.main - INFO - save purchase_number_list : 8|7|2|3|5|9|1,9|1|3|5|4|2|7,0,0,0,0,0,0,0,0
+2019-07-11 22:40:23,549 - xyft_predict.main - INFO - save_predict_time：2019-07-11 22:40:23
+2019-07-11 22:40:23,551 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 22:40:23,551 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 22:40:23,551 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 22:40:23,551 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 22:45:16,634 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 22:45:24,736 - xyft_predict.main - DEBUG - lottery_id: 20190711116
+2019-07-11 22:45:24,736 - xyft_predict.main - INFO - lottery_num: 04,02,05,06,10,09,07,03,01,08
+2019-07-11 22:45:24,736 - xyft_predict.main - DEBUG - mingci [1]: 4
+2019-07-11 22:45:24,737 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'8', u'7', u'2', u'3', u'5', u'9', u'1']
+2019-07-11 22:45:24,737 - xyft_predict.main - DEBUG - mingci [2]: 2
+2019-07-11 22:45:24,737 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'9', u'1', u'3', u'5', u'4', u'2', u'7']
+2019-07-11 22:45:24,739 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 22:45:24,739 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 22:45:24,806 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 22:45:24,806 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 22:45:24,812 - xyft_predict.main - INFO - save predict_lottery_id : 20190711117
+2019-07-11 22:45:24,812 - xyft_predict.main - INFO - save purchase_number_list : 4|8|7|2|3|5|9,2|9|1|3|5|4|7,0,0,0,0,0,0,0,0
+2019-07-11 22:45:24,812 - xyft_predict.main - INFO - save_predict_time：2019-07-11 22:45:24
+2019-07-11 22:45:24,813 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 22:45:24,813 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 22:45:24,813 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 22:45:24,815 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 22:50:17,892 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 22:50:27,312 - xyft_predict.main - DEBUG - lottery_id: 20190711117
+2019-07-11 22:50:27,313 - xyft_predict.main - INFO - lottery_num: 01,04,02,10,03,06,09,05,08,07
+2019-07-11 22:50:27,313 - xyft_predict.main - DEBUG - mingci [1]: 1
+2019-07-11 22:50:27,315 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'4', u'8', u'7', u'2', u'3', u'5', u'9']
+2019-07-11 22:50:27,315 - xyft_predict.main - DEBUG - mingci [2]: 4
+2019-07-11 22:50:27,315 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'2', u'9', u'1', u'3', u'5', u'4', u'7']
+2019-07-11 22:50:27,315 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 22:50:27,315 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 22:50:27,377 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 22:50:27,378 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 22:50:27,381 - xyft_predict.main - INFO - save predict_lottery_id : 20190711118
+2019-07-11 22:50:27,382 - xyft_predict.main - INFO - save purchase_number_list : 1|4|8|7|2|3|5,4|2|9|1|3|5|7,0,0,0,0,0,0,0,0
+2019-07-11 22:50:27,382 - xyft_predict.main - INFO - save_predict_time：2019-07-11 22:50:27
+2019-07-11 22:50:27,384 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 22:50:27,384 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 22:50:27,384 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 22:50:27,385 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 22:54:31,836 - xyft_predict.main - INFO - cs11234 not start
+2019-07-11 22:54:36,571 - xyft_predict.main - INFO - [u'1', u'2']
+2019-07-11 22:54:36,573 - xyft_predict.main - DEBUG - thread is not alive start!!!
+2019-07-11 22:55:16,582 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 22:55:27,292 - xyft_predict.main - DEBUG - lottery_id: 20190711118
+2019-07-11 22:55:27,295 - xyft_predict.main - INFO - lottery_num: 09,04,03,08,02,10,06,05,07,01
+2019-07-11 22:55:27,302 - xyft_predict.main - DEBUG - mingci [1]: 9
+2019-07-11 22:55:27,302 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'1', u'4', u'8', u'7', u'2', u'3', u'5']
+2019-07-11 22:55:27,302 - xyft_predict.main - DEBUG - mingci [2]: 4
+2019-07-11 22:55:27,302 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'4', u'2', u'9', u'1', u'3', u'5', u'7']
+2019-07-11 22:55:27,302 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 1 
+2019-07-11 22:55:27,303 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-11 22:55:27,374 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-11 22:55:27,374 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 22:55:27,378 - xyft_predict.main - INFO - save predict_lottery_id : 20190711119
+2019-07-11 22:55:27,378 - xyft_predict.main - INFO - save purchase_number_list : 9|1|4|8|7|2|3,4|2|9|1|3|5|7,0,0,0,0,0,0,0,0
+2019-07-11 22:55:27,378 - xyft_predict.main - INFO - save_predict_time：2019-07-11 22:55:27
+2019-07-11 22:55:27,381 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 22:55:27,381 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 22:55:27,381 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 22:55:27,381 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 23:00:10,473 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 23:00:19,700 - xyft_predict.main - DEBUG - lottery_id: 20190711119
+2019-07-11 23:00:19,701 - xyft_predict.main - INFO - lottery_num: 07,01,06,04,08,03,10,09,02,05
+2019-07-11 23:00:19,703 - xyft_predict.main - DEBUG - mingci [1]: 7
+2019-07-11 23:00:19,703 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'9', u'1', u'4', u'8', u'7', u'2', u'3']
+2019-07-11 23:00:19,703 - xyft_predict.main - DEBUG - mingci [2]: 1
+2019-07-11 23:00:19,703 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'4', u'2', u'9', u'1', u'3', u'5', u'7']
+2019-07-11 23:00:19,703 - xyft_predict.main - DEBUG - ------all_count: 14  ----target_count: 2 
+2019-07-11 23:00:19,703 - xyft_predict.main - DEBUG - target_count: 0.142857
+2019-07-11 23:00:19,769 - xyft_predict.main - INFO - last_purchase_hit: True
+2019-07-11 23:00:19,769 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-11 23:00:19,776 - xyft_predict.main - INFO - save predict_lottery_id : 20190711120
+2019-07-11 23:00:19,778 - xyft_predict.main - INFO - save purchase_number_list : 7|9|1|4|8|2|3,1|4|2|9|3|5|7,0,0,0,0,0,0,0,0
+2019-07-11 23:00:19,778 - xyft_predict.main - INFO - save_predict_time：2019-07-11 23:00:19
+2019-07-11 23:00:19,788 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-11 23:00:19,789 - xyft_predict.main - DEBUG - purchase_number_list len: 14
+2019-07-11 23:00:19,789 - xyft_predict.main - INFO - next_xiazhu_all total : -14
+2019-07-11 23:00:19,789 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-11 23:01:29,842 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 23:01:38,674 - xyft_predict.main - DEBUG - lottery_id: 20190711120
+2019-07-11 23:01:38,674 - xyft_predict.main - INFO - lottery_num: 0
+2019-07-11 23:01:38,674 - xyft_predict.main - ERROR - pay interface lottery id request faild. continue....
+2019-07-11 23:01:58,676 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 23:02:10,230 - xyft_predict.main - DEBUG - lottery_id: 20190711120
+2019-07-11 23:02:10,232 - xyft_predict.main - INFO - lottery_num: 0
+2019-07-11 23:02:10,239 - xyft_predict.main - ERROR - pay interface lottery id request faild. continue....
+2019-07-11 23:02:30,240 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-11&lotCode=10057
+2019-07-11 23:02:38,535 - xyft_predict.main - DEBUG - lottery_id: 20190711120
+2019-07-11 23:02:38,536 - xyft_predict.main - INFO - lottery_num: 0
+2019-07-11 23:02:38,536 - xyft_predict.main - ERROR - pay interface lottery id request faild. continue....

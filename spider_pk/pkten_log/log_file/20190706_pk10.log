@@ -1,0 +1,712 @@
+2019-07-06 01:27:35,088 - xyft_predict.main - INFO - cs11234 not start
+2019-07-06 01:40:56,657 - xyft_predict.main - INFO - cs11234 not start
+2019-07-06 01:42:56,016 - xyft_predict.main - INFO - cs11234 not start
+2019-07-06 01:43:31,174 - xyft_predict.main - DEBUG - thread is not alive start!!!
+2019-07-06 01:47:11,473 - xyft_predict.main - INFO - cs11234 not start
+2019-07-06 01:47:23,000 - xyft_predict.main - DEBUG - thread is not alive start!!!
+2019-07-06 01:48:03,003 - xyft_predict.thread - INFO - current_date:20190706 01:48:03
+2019-07-06 01:48:03,003 - xyft_predict.thread - INFO - start purchase
+2019-07-06 01:48:13,006 - append_predict.spider_pk10 - INFO - url:http://z.apiplus.net/daily.do?token=t3cffb3f43eb3c9b1k&code=bjpk10&format=json&date=2019-07-06
+2019-07-06 01:48:13,006 - append_predict.spider_pk10 - INFO - url:http://z.apiplus.net/daily.do?token=t3cffb3f43eb3c9b1k&code=bjpk10&format=json&date=2019-07-06
+2019-07-06 01:48:13,154 - append_predict.spider_pk10 - ERROR - spider pay interface faild! please exit process......  over purchase!!!
+2019-07-06 01:48:13,154 - append_predict.spider_pk10 - ERROR - spider pay interface faild! please exit process......  over purchase!!!
+2019-07-06 01:48:28,157 - append_predict.spider_pk10 - INFO - url:http://e.apiplus.net/daily.do?token=t3cffb3f43eb3c9b1k&code=bjpk10&format=json&date=2019-07-06
+2019-07-06 01:48:28,157 - append_predict.spider_pk10 - INFO - url:http://e.apiplus.net/daily.do?token=t3cffb3f43eb3c9b1k&code=bjpk10&format=json&date=2019-07-06
+2019-07-06 01:48:28,355 - append_predict.spider_pk10 - ERROR - spider pay interface faild! please exit process......  over purchase!!!
+2019-07-06 01:48:28,355 - append_predict.spider_pk10 - ERROR - spider pay interface faild! please exit process......  over purchase!!!
+2019-07-06 01:52:57,826 - xyft_predict.main - INFO - cs11234 not start
+2019-07-06 01:53:10,000 - xyft_predict.main - DEBUG - thread is not alive start!!!
+2019-07-06 01:53:10,002 - xyft_predict.thread - INFO - current_date:20190706 01:53:10
+2019-07-06 01:53:10,003 - xyft_predict.thread - INFO - start purchase
+2019-07-06 01:53:20,003 - append_predict.spider_pk10 - INFO - url:http://api.api68.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10001
+2019-07-06 01:53:20,003 - append_predict.spider_pk10 - INFO - url:http://api.api68.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10001
+2019-07-06 01:53:35,345 - append_predict.spider_pk10 - ERROR - spider pay interface faild! please exit process......  over purchase!!!
+2019-07-06 01:53:35,345 - append_predict.spider_pk10 - ERROR - spider pay interface faild! please exit process......  over purchase!!!
+2019-07-06 01:56:06,513 - xyft_predict.main - INFO - cs11234 not start
+2019-07-06 01:56:17,782 - xyft_predict.main - DEBUG - thread is not alive start!!!
+2019-07-06 01:58:07,786 - xyft_predict.thread - INFO - current_date:20190706 01:58:07
+2019-07-06 01:58:07,788 - xyft_predict.thread - INFO - start purchase
+2019-07-06 01:58:17,789 - xyft_predict.spider_pk10 - INFO - url:http://api.api68.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10001
+2019-07-06 02:00:38,674 - xyft_predict.main - INFO - cs11234 not start
+2019-07-06 02:00:50,430 - xyft_predict.main - DEBUG - thread is not alive start!!!
+2019-07-06 02:03:00,436 - xyft_predict.thread - INFO - current_date:20190706 02:03:00
+2019-07-06 02:03:00,436 - xyft_predict.thread - INFO - start purchase
+2019-07-06 02:03:10,437 - xyft_predict.spider_pk10 - INFO - url:http://api.api68.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10001
+2019-07-06 02:09:46,226 - xyft_predict.main - INFO - cs11234 not start
+2019-07-06 02:09:57,622 - xyft_predict.main - DEBUG - thread is not alive start!!!
+2019-07-06 02:09:57,624 - xyft_predict.thread - INFO - current_date:20190706 02:09:57
+2019-07-06 02:09:57,625 - xyft_predict.thread - INFO - start purchase
+2019-07-06 02:10:07,628 - xyft_predict.spider_pk10 - INFO - url:http://api.api68.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10001
+2019-07-06 02:10:26,586 - xyft_predict.main - DEBUG - predicts is null
+2019-07-06 02:10:26,586 - xyft_predict.main - DEBUG - lottery_id: 0
+2019-07-06 02:10:26,586 - xyft_predict.main - DEBUG - no predict record in history
+2019-07-06 02:10:51,023 - append_predict.predict_append_rule_100_continue5 - INFO - scroll finish!
+2019-07-06 02:10:51,023 - append_predict.predict_append_rule_100_continue5 - INFO - scroll finish!
+2019-07-06 02:10:51,025 - append_predict.predict_append_rule_100_continue5 - INFO - click select
+2019-07-06 02:10:51,025 - append_predict.predict_append_rule_100_continue5 - INFO - click select
+2019-07-06 02:10:52,085 - append_predict.predict_append_rule_100_continue5 - INFO - click 100
+2019-07-06 02:10:52,085 - append_predict.predict_append_rule_100_continue5 - INFO - click 100
+2019-07-06 02:10:52,098 - append_predict.predict_append_rule_100_continue5 - ERROR - get sub driver time out
+2019-07-06 02:10:52,098 - append_predict.predict_append_rule_100_continue5 - ERROR - get sub driver time out
+2019-07-06 02:10:55,148 - append_predict.predict_append_rule_100_continue5 - ERROR - spider predict faild!
+2019-07-06 02:10:55,148 - append_predict.predict_append_rule_100_continue5 - ERROR - spider predict faild!
+2019-07-06 02:11:10,694 - append_predict.predict_append_rule_100_continue5 - INFO - scroll finish!
+2019-07-06 02:11:10,694 - append_predict.predict_append_rule_100_continue5 - INFO - scroll finish!
+2019-07-06 02:11:10,694 - append_predict.predict_append_rule_100_continue5 - INFO - click select
+2019-07-06 02:11:10,694 - append_predict.predict_append_rule_100_continue5 - INFO - click select
+2019-07-06 02:11:11,746 - append_predict.predict_append_rule_100_continue5 - INFO - click 100
+2019-07-06 02:11:11,746 - append_predict.predict_append_rule_100_continue5 - INFO - click 100
+2019-07-06 02:11:11,766 - append_predict.predict_append_rule_100_continue5 - ERROR - get sub driver time out
+2019-07-06 02:11:11,766 - append_predict.predict_append_rule_100_continue5 - ERROR - get sub driver time out
+2019-07-06 02:11:14,816 - append_predict.predict_append_rule_100_continue5 - ERROR - spider predict faild!
+2019-07-06 02:11:14,816 - append_predict.predict_append_rule_100_continue5 - ERROR - spider predict faild!
+2019-07-06 02:11:50,882 - append_predict.predict_append_rule_100_continue5 - INFO - scroll finish!
+2019-07-06 02:11:50,882 - append_predict.predict_append_rule_100_continue5 - INFO - scroll finish!
+2019-07-06 02:11:50,884 - append_predict.predict_append_rule_100_continue5 - INFO - click select
+2019-07-06 02:11:50,884 - append_predict.predict_append_rule_100_continue5 - INFO - click select
+2019-07-06 02:11:51,947 - append_predict.predict_append_rule_100_continue5 - INFO - click 100
+2019-07-06 02:11:51,947 - append_predict.predict_append_rule_100_continue5 - INFO - click 100
+2019-07-06 02:11:51,960 - append_predict.predict_append_rule_100_continue5 - ERROR - get sub driver time out
+2019-07-06 02:11:51,960 - append_predict.predict_append_rule_100_continue5 - ERROR - get sub driver time out
+2019-07-06 02:11:55,023 - append_predict.predict_append_rule_100_continue5 - ERROR - spider predict faild!
+2019-07-06 02:11:55,023 - append_predict.predict_append_rule_100_continue5 - ERROR - spider predict faild!
+2019-07-06 13:47:41,313 - xyft_predict.main - INFO - cs11234 not start
+2019-07-06 13:49:22,109 - xyft_predict.main - INFO - cs11234 not start
+2019-07-06 13:49:23,953 - xyft_predict.main - DEBUG - thread is not alive start!!!
+2019-07-06 13:49:23,953 - xyft_predict.thread - INFO - current_date:20190706 13:49:23
+2019-07-06 13:49:23,956 - xyft_predict.thread - INFO - start purchase
+2019-07-06 13:49:33,957 - xyft_predict.spider_pk10 - INFO - url:http://api.api68.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10001
+2019-07-06 13:49:35,052 - xyft_predict.main - DEBUG - predicts is null
+2019-07-06 13:49:35,052 - xyft_predict.main - DEBUG - lottery_id: 0
+2019-07-06 13:49:35,052 - xyft_predict.main - DEBUG - no predict record in history
+2019-07-06 13:54:52,177 - xyft_predict.main - INFO - cs11234 not start
+2019-07-06 13:54:54,793 - xyft_predict.main - DEBUG - thread is not alive start!!!
+2019-07-06 13:54:54,795 - xyft_predict.thread - INFO - current_date:20190706 13:54:54
+2019-07-06 13:54:54,796 - xyft_predict.thread - INFO - start purchase
+2019-07-06 13:55:04,798 - xyft_predict.spider_pk10 - INFO - url:http://api.api68.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10001
+2019-07-06 13:55:21,170 - xyft_predict.main - DEBUG - predicts is null
+2019-07-06 13:55:21,170 - xyft_predict.main - DEBUG - lottery_id: 0
+2019-07-06 13:55:21,174 - xyft_predict.main - DEBUG - no predict record in history
+2019-07-06 13:56:55,279 - xyft_predict.main - INFO - cs11234 not start
+2019-07-06 13:56:56,578 - xyft_predict.main - DEBUG - thread is not alive start!!!
+2019-07-06 13:58:06,582 - xyft_predict.thread - INFO - current_date:20190706 13:58:06
+2019-07-06 13:58:06,582 - xyft_predict.thread - INFO - start purchase
+2019-07-06 13:58:16,584 - xyft_predict.spider_pk10 - INFO - url:http://api.api68.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10001
+2019-07-06 13:58:17,951 - xyft_predict.main - DEBUG - predicts is null
+2019-07-06 13:58:17,951 - xyft_predict.main - DEBUG - lottery_id: 0
+2019-07-06 13:58:17,953 - xyft_predict.main - DEBUG - no predict record in history
+2019-07-06 14:00:47,809 - xyft_predict.main - INFO - cs11234 not start
+2019-07-06 14:00:50,361 - xyft_predict.main - DEBUG - thread is not alive start!!!
+2019-07-06 14:03:00,365 - xyft_predict.thread - INFO - current_date:20190706 14:03:00
+2019-07-06 14:03:00,365 - xyft_predict.thread - INFO - start purchase
+2019-07-06 14:03:10,368 - xyft_predict.spider_pk10 - INFO - url:http://api.api68.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10001
+2019-07-06 14:03:26,740 - xyft_predict.main - DEBUG - predicts is null
+2019-07-06 14:03:26,740 - xyft_predict.main - DEBUG - lottery_id: 0
+2019-07-06 14:03:26,742 - xyft_predict.main - DEBUG - no predict record in history
+2019-07-06 14:03:26,756 - xyft_predict.main - INFO - save predict_lottery_id : 735773
+2019-07-06 14:03:26,756 - xyft_predict.main - INFO - save purchase_number_list : ['4|3|5|9|8|1|7|', '9|6|1|5|7|4|10|', '1|10|8|5|7|3|9|', '6|2|1|10|4|7|5|', '5|1|2|8|10|6|3|', '8|6|7|3|10|5|9|', '2|5|7|8|6|10|4|', '7|10|9|6|4|8|2|', '10|4|5|9|2|7|6|', '3|9|4|8|10|2|6|']
+2019-07-06 14:03:26,757 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-06 14:03:26,757 - xyft_predict.main - DEBUG - purchase_number_list len: 80
+2019-07-06 14:03:26,759 - xyft_predict.main - INFO - next_xiazhu_all total : -80
+2019-07-06 14:03:26,759 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-06 14:08:06,835 - xyft_predict.thread - INFO - current_date:20190706 14:08:06
+2019-07-06 14:08:06,835 - xyft_predict.thread - INFO - start purchase
+2019-07-06 14:08:16,836 - xyft_predict.spider_pk10 - INFO - url:http://api.api68.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10001
+2019-07-06 14:18:55,749 - xyft_predict.main - INFO - cs11234 not start
+2019-07-06 14:18:57,401 - xyft_predict.main - DEBUG - thread is not alive start!!!
+2019-07-06 14:18:57,401 - xyft_predict.thread - INFO - current_date:20190706 14:18:57
+2019-07-06 14:18:57,404 - xyft_predict.thread - INFO - start purchase
+2019-07-06 14:19:07,405 - xyft_predict.spider_pk10 - INFO - url:http://api.api68.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10001
+2019-07-06 14:19:08,687 - xyft_predict.main - DEBUG - lottery_id: 735773
+2019-07-06 14:19:08,688 - xyft_predict.main - INFO - lottery_num: 05,07,03,02,04,01,08,10,06,09
+2019-07-06 14:19:08,688 - xyft_predict.main - DEBUG - mingci [1]: 5
+2019-07-06 14:19:08,690 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u"['4", u'3', u'5', u'9', u'8', u'1', u'7', u"'"]
+2019-07-06 14:19:08,690 - xyft_predict.main - DEBUG - mingci [2]: 7
+2019-07-06 14:19:08,690 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u" '9", u'6', u'1', u'5', u'7', u'4', u'10', u"'"]
+2019-07-06 14:19:08,691 - xyft_predict.main - DEBUG - mingci [3]: 3
+2019-07-06 14:19:08,694 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u" '1", u'10', u'8', u'5', u'7', u'3', u'9', u"'"]
+2019-07-06 14:19:08,694 - xyft_predict.main - DEBUG - mingci [4]: 2
+2019-07-06 14:19:08,694 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u" '6", u'2', u'1', u'10', u'4', u'7', u'5', u"'"]
+2019-07-06 14:19:08,697 - xyft_predict.main - DEBUG - mingci [5]: 4
+2019-07-06 14:19:08,697 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u" '5", u'1', u'2', u'8', u'10', u'6', u'3', u"'"]
+2019-07-06 14:19:08,697 - xyft_predict.main - DEBUG - mingci [6]: 1
+2019-07-06 14:19:08,698 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u" '8", u'6', u'7', u'3', u'10', u'5', u'9', u"'"]
+2019-07-06 14:19:08,700 - xyft_predict.main - DEBUG - mingci [7]: 8
+2019-07-06 14:19:08,701 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u" '2", u'5', u'7', u'8', u'6', u'10', u'4', u"'"]
+2019-07-06 14:19:08,703 - xyft_predict.main - DEBUG - mingci [8]: 10
+2019-07-06 14:19:08,703 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u" '7", u'10', u'9', u'6', u'4', u'8', u'2', u"'"]
+2019-07-06 14:19:08,704 - xyft_predict.main - DEBUG - mingci [9]: 6
+2019-07-06 14:19:08,706 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u" '10", u'4', u'5', u'9', u'2', u'7', u'6', u"'"]
+2019-07-06 14:19:08,706 - xyft_predict.main - DEBUG - mingci [10]: 9
+2019-07-06 14:19:08,707 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u" '3", u'9', u'4', u'8', u'10', u'2', u'6', u"']"]
+2019-07-06 14:19:08,707 - xyft_predict.main - DEBUG - ------all_count: 80  ----target_count: 8 
+2019-07-06 14:19:08,709 - xyft_predict.main - DEBUG - target_count: 0.100000
+2019-07-06 14:19:08,769 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-06 14:19:08,769 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-06 14:19:08,785 - xyft_predict.main - INFO - save predict_lottery_id : 735773
+2019-07-06 14:19:08,786 - xyft_predict.main - INFO - save purchase_number_list : ['4|3|5|9|8|1|7|', '9|6|1|5|7|4|10|', '1|10|8|5|7|3|9|', '6|2|1|10|4|7|5|', '5|1|2|8|10|6|3|', '8|6|7|3|10|5|9|', '2|5|7|8|6|10|4|', '7|10|9|6|4|8|2|', '10|4|5|9|2|7|6|', '3|9|4|8|10|2|6|']
+2019-07-06 14:19:08,786 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-06 14:19:08,786 - xyft_predict.main - DEBUG - purchase_number_list len: 80
+2019-07-06 14:19:08,789 - xyft_predict.main - INFO - next_xiazhu_all total : -80
+2019-07-06 14:19:08,789 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-06 14:23:01,858 - xyft_predict.thread - INFO - current_date:20190706 14:23:01
+2019-07-06 14:23:01,858 - xyft_predict.thread - INFO - start purchase
+2019-07-06 14:23:11,864 - xyft_predict.spider_pk10 - INFO - url:http://api.api68.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10001
+2019-07-06 14:23:15,263 - xyft_predict.main - DEBUG - lottery_id: 735773
+2019-07-06 14:23:15,263 - xyft_predict.main - INFO - lottery_num: 05,07,03,02,04,01,08,10,06,09
+2019-07-06 14:23:15,266 - xyft_predict.main - DEBUG - mingci [1]: 5
+2019-07-06 14:23:15,267 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u"['4", u'3', u'5', u'9', u'8', u'1', u'7', u"'"]
+2019-07-06 14:23:15,269 - xyft_predict.main - DEBUG - mingci [2]: 7
+2019-07-06 14:23:15,269 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u" '9", u'6', u'1', u'5', u'7', u'4', u'10', u"'"]
+2019-07-06 14:23:15,269 - xyft_predict.main - DEBUG - mingci [3]: 3
+2019-07-06 14:23:15,270 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u" '1", u'10', u'8', u'5', u'7', u'3', u'9', u"'"]
+2019-07-06 14:23:15,272 - xyft_predict.main - DEBUG - mingci [4]: 2
+2019-07-06 14:23:15,272 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u" '6", u'2', u'1', u'10', u'4', u'7', u'5', u"'"]
+2019-07-06 14:23:15,273 - xyft_predict.main - DEBUG - mingci [5]: 4
+2019-07-06 14:23:15,273 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u" '5", u'1', u'2', u'8', u'10', u'6', u'3', u"'"]
+2019-07-06 14:23:15,276 - xyft_predict.main - DEBUG - mingci [6]: 1
+2019-07-06 14:23:15,276 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u" '8", u'6', u'7', u'3', u'10', u'5', u'9', u"'"]
+2019-07-06 14:23:15,278 - xyft_predict.main - DEBUG - mingci [7]: 8
+2019-07-06 14:23:15,278 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u" '2", u'5', u'7', u'8', u'6', u'10', u'4', u"'"]
+2019-07-06 14:23:15,279 - xyft_predict.main - DEBUG - mingci [8]: 10
+2019-07-06 14:23:15,279 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u" '7", u'10', u'9', u'6', u'4', u'8', u'2', u"'"]
+2019-07-06 14:23:15,279 - xyft_predict.main - DEBUG - mingci [9]: 6
+2019-07-06 14:23:15,282 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u" '10", u'4', u'5', u'9', u'2', u'7', u'6', u"'"]
+2019-07-06 14:23:15,282 - xyft_predict.main - DEBUG - mingci [10]: 9
+2019-07-06 14:23:15,283 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u" '3", u'9', u'4', u'8', u'10', u'2', u'6', u"']"]
+2019-07-06 14:23:15,285 - xyft_predict.main - DEBUG - ------all_count: 80  ----target_count: 8 
+2019-07-06 14:23:15,286 - xyft_predict.main - DEBUG - target_count: 0.100000
+2019-07-06 14:23:15,286 - xyft_predict.main - DEBUG - the 735773 is repeat!!!
+2019-07-06 14:23:15,288 - xyft_predict.main - INFO - last_purchase_hit: True
+2019-07-06 14:23:15,288 - xyft_predict.main - INFO - xiazhu_nums: 1
+2019-07-06 14:23:15,302 - xyft_predict.main - INFO - save predict_lottery_id : 735773
+2019-07-06 14:23:15,302 - xyft_predict.main - INFO - save purchase_number_list : ['4|3|5|9|8|1|7|', '9|6|1|5|7|4|10|', '1|10|8|5|7|3|9|', '6|2|1|10|4|7|5|', '5|1|2|8|10|6|3|', '8|6|7|3|10|5|9|', '2|5|7|8|6|10|4|', '7|10|9|6|4|8|2|', '10|4|5|9|2|7|6|', '3|9|4|8|10|2|6|']
+2019-07-06 14:23:15,305 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-06 14:23:15,305 - xyft_predict.main - DEBUG - purchase_number_list len: 80
+2019-07-06 14:23:15,306 - xyft_predict.main - INFO - next_xiazhu_all total : -80
+2019-07-06 14:23:15,309 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-06 22:36:34,436 - xyft_predict.main - INFO - cs11234 not start
+2019-07-06 22:36:35,986 - xyft_predict.main - DEBUG - thread is not alive start!!!
+2019-07-06 22:38:05,990 - xyft_predict.thread - INFO - current_date:20190706 22:38:05
+2019-07-06 22:38:05,990 - xyft_predict.thread - INFO - start purchase
+2019-07-06 22:38:15,993 - xyft_predict.spider_pk10 - INFO - url:http://api.api68.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10001
+2019-07-06 22:38:19,571 - xyft_predict.main - DEBUG - lottery_id: 735773
+2019-07-06 22:38:19,572 - xyft_predict.main - INFO - lottery_num: 05,07,03,02,04,01,08,10,06,09
+2019-07-06 22:38:19,573 - xyft_predict.main - DEBUG - mingci [1]: 5
+2019-07-06 22:38:19,575 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u"['4", u'3', u'5', u'9', u'8', u'1', u'7', u"'"]
+2019-07-06 22:38:19,575 - xyft_predict.main - DEBUG - mingci [2]: 7
+2019-07-06 22:38:19,578 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u" '9", u'6', u'1', u'5', u'7', u'4', u'10', u"'"]
+2019-07-06 22:38:19,578 - xyft_predict.main - DEBUG - mingci [3]: 3
+2019-07-06 22:38:19,578 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u" '1", u'10', u'8', u'5', u'7', u'3', u'9', u"'"]
+2019-07-06 22:38:19,579 - xyft_predict.main - DEBUG - mingci [4]: 2
+2019-07-06 22:38:19,581 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u" '6", u'2', u'1', u'10', u'4', u'7', u'5', u"'"]
+2019-07-06 22:38:19,582 - xyft_predict.main - DEBUG - mingci [5]: 4
+2019-07-06 22:38:19,582 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u" '5", u'1', u'2', u'8', u'10', u'6', u'3', u"'"]
+2019-07-06 22:38:19,584 - xyft_predict.main - DEBUG - mingci [6]: 1
+2019-07-06 22:38:19,585 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u" '8", u'6', u'7', u'3', u'10', u'5', u'9', u"'"]
+2019-07-06 22:38:19,585 - xyft_predict.main - DEBUG - mingci [7]: 8
+2019-07-06 22:38:19,585 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u" '2", u'5', u'7', u'8', u'6', u'10', u'4', u"'"]
+2019-07-06 22:38:19,586 - xyft_predict.main - DEBUG - mingci [8]: 10
+2019-07-06 22:38:19,588 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u" '7", u'10', u'9', u'6', u'4', u'8', u'2', u"'"]
+2019-07-06 22:38:19,589 - xyft_predict.main - DEBUG - mingci [9]: 6
+2019-07-06 22:38:19,591 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u" '10", u'4', u'5', u'9', u'2', u'7', u'6', u"'"]
+2019-07-06 22:38:19,592 - xyft_predict.main - DEBUG - mingci [10]: 9
+2019-07-06 22:38:19,596 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u" '3", u'9', u'4', u'8', u'10', u'2', u'6', u"']"]
+2019-07-06 22:38:19,601 - xyft_predict.main - DEBUG - ------all_count: 80  ----target_count: 8 
+2019-07-06 22:38:19,602 - xyft_predict.main - DEBUG - target_count: 0.100000
+2019-07-06 22:38:19,604 - xyft_predict.main - DEBUG - the 735773 is repeat!!!
+2019-07-06 22:38:19,605 - xyft_predict.main - INFO - last_purchase_hit: True
+2019-07-06 22:38:19,605 - xyft_predict.main - INFO - xiazhu_nums: 1
+2019-07-06 22:38:19,638 - xyft_predict.main - INFO - save predict_lottery_id : 735773
+2019-07-06 22:38:19,641 - xyft_predict.main - INFO - save purchase_number_list : 4|3|5|9|8|1|7|,9|6|1|5|7|4|10|,1|10|8|5|7|3|9|,6|2|1|10|4|7|5|,5|1|2|8|10|6|3|,8|6|7|3|10|5|9|,2|5|7|8|6|10|4|,7|10|9|6|4|8|2|,10|4|5|9|2|7|6|,3|9|4|8|10|2|6|
+2019-07-06 22:38:19,641 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-06 22:38:19,641 - xyft_predict.main - DEBUG - purchase_number_list len: 80
+2019-07-06 22:38:19,642 - xyft_predict.main - INFO - next_xiazhu_all total : -80
+2019-07-06 22:38:19,644 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-06 22:42:21,474 - xyft_predict.main - INFO - cs11234 not start
+2019-07-06 22:42:23,042 - xyft_predict.main - DEBUG - thread is not alive start!!!
+2019-07-06 22:43:03,046 - xyft_predict.thread - INFO - current_date:20190706 22:43:03
+2019-07-06 22:43:03,046 - xyft_predict.thread - INFO - start purchase
+2019-07-06 22:43:13,048 - xyft_predict.spider_pk10 - INFO - url:http://api.api68.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10001
+2019-07-06 22:48:55,651 - xyft_predict.main - INFO - cs11234 not start
+2019-07-06 22:48:57,252 - xyft_predict.main - DEBUG - thread is not alive start!!!
+2019-07-06 22:48:57,253 - xyft_predict.thread - INFO - current_date:20190706 22:48:57
+2019-07-06 22:48:57,253 - xyft_predict.thread - INFO - start purchase
+2019-07-06 22:49:07,256 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 22:49:20,184 - xyft_predict.main - DEBUG - lottery_id: 735773
+2019-07-06 22:49:20,186 - xyft_predict.main - INFO - lottery_num: 0
+2019-07-06 22:49:20,188 - xyft_predict.main - ERROR - pay interface lottery id request faild. continue....
+2019-07-06 22:49:40,191 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 22:49:48,812 - xyft_predict.main - DEBUG - lottery_id: 735773
+2019-07-06 22:49:48,812 - xyft_predict.main - INFO - lottery_num: 0
+2019-07-06 22:49:48,815 - xyft_predict.main - ERROR - pay interface lottery id request faild. continue....
+2019-07-06 22:50:08,815 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 22:50:17,801 - xyft_predict.main - DEBUG - lottery_id: 735773
+2019-07-06 22:50:17,802 - xyft_predict.main - INFO - lottery_num: 0
+2019-07-06 22:50:17,802 - xyft_predict.main - ERROR - pay interface lottery id request faild. continue....
+2019-07-06 22:50:37,805 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 22:50:45,926 - xyft_predict.main - DEBUG - lottery_id: 735773
+2019-07-06 22:50:45,927 - xyft_predict.main - INFO - lottery_num: 0
+2019-07-06 22:50:45,928 - xyft_predict.main - ERROR - pay interface lottery id request faild. continue....
+2019-07-06 22:51:05,930 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 22:51:17,970 - xyft_predict.main - DEBUG - lottery_id: 735773
+2019-07-06 22:51:17,970 - xyft_predict.main - INFO - lottery_num: 0
+2019-07-06 22:51:17,971 - xyft_predict.main - ERROR - pay interface lottery id request faild. continue....
+2019-07-06 22:51:37,973 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 22:51:47,888 - xyft_predict.main - DEBUG - lottery_id: 735773
+2019-07-06 22:51:47,891 - xyft_predict.main - INFO - lottery_num: 0
+2019-07-06 22:51:47,891 - xyft_predict.main - ERROR - pay interface lottery id request faild. continue....
+2019-07-06 22:52:07,894 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 22:52:15,821 - xyft_predict.main - DEBUG - lottery_id: 735773
+2019-07-06 22:52:15,822 - xyft_predict.main - INFO - lottery_num: 0
+2019-07-06 22:52:15,823 - xyft_predict.main - ERROR - pay interface lottery id request faild. continue....
+2019-07-06 22:52:35,825 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 22:52:43,720 - xyft_predict.main - DEBUG - lottery_id: 735773
+2019-07-06 22:52:43,721 - xyft_predict.main - INFO - lottery_num: 0
+2019-07-06 22:52:43,723 - xyft_predict.main - ERROR - pay interface lottery id request faild. continue....
+2019-07-06 22:53:03,724 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 22:53:13,095 - xyft_predict.main - DEBUG - lottery_id: 735773
+2019-07-06 22:53:13,096 - xyft_predict.main - INFO - lottery_num: 0
+2019-07-06 22:53:13,098 - xyft_predict.main - ERROR - pay interface lottery id request faild. continue....
+2019-07-06 22:54:43,713 - xyft_predict.main - INFO - cs11234 not start
+2019-07-06 22:54:45,164 - xyft_predict.main - DEBUG - thread is not alive start!!!
+2019-07-06 22:54:45,167 - xyft_predict.thread - INFO - current_date:20190706 22:54:45
+2019-07-06 22:54:45,167 - xyft_predict.thread - INFO - start purchase
+2019-07-06 22:54:55,168 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 22:55:09,075 - xyft_predict.main - DEBUG - predicts is null
+2019-07-06 22:55:09,075 - xyft_predict.main - DEBUG - lottery_id: 0
+2019-07-06 22:55:09,075 - xyft_predict.main - DEBUG - no predict record in history
+2019-07-06 22:55:09,171 - xyft_predict.main - INFO - save predict_lottery_id : 20190706119
+2019-07-06 22:55:09,171 - xyft_predict.main - INFO - save purchase_number_list : 7|3|5|9|8|4|1|,8|6|9|1|5|7|4|,5|10|8|7|3|9|2|,9|2|1|10|4|7|5|,1|2|8|10|6|3|4|,3|8|6|7|10|5|9|,10|5|7|2|8|6|4|,6|7|10|9|4|8|2|,2|4|5|9|7|6|3|,4|9|8|10|2|3|6|
+2019-07-06 22:55:09,174 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-06 22:55:09,174 - xyft_predict.main - DEBUG - purchase_number_list len: 80
+2019-07-06 22:55:09,174 - xyft_predict.main - INFO - next_xiazhu_all total : -80
+2019-07-06 22:55:09,174 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-06 22:58:02,247 - xyft_predict.thread - INFO - current_date:20190706 22:58:02
+2019-07-06 22:58:02,247 - xyft_predict.thread - INFO - start purchase
+2019-07-06 22:58:12,252 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 22:58:20,542 - xyft_predict.main - DEBUG - lottery_id: 20190706119
+2019-07-06 22:58:20,542 - xyft_predict.main - INFO - lottery_num: 0
+2019-07-06 22:58:20,543 - xyft_predict.main - ERROR - pay interface lottery id request faild. continue....
+2019-07-06 22:58:40,545 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 22:58:48,073 - xyft_predict.main - DEBUG - lottery_id: 20190706119
+2019-07-06 22:58:48,075 - xyft_predict.main - INFO - lottery_num: 0
+2019-07-06 22:58:48,075 - xyft_predict.main - ERROR - pay interface lottery id request faild. continue....
+2019-07-06 22:59:08,078 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 22:59:16,499 - xyft_predict.main - DEBUG - lottery_id: 20190706119
+2019-07-06 22:59:16,500 - xyft_predict.main - INFO - lottery_num: 0
+2019-07-06 22:59:16,502 - xyft_predict.main - ERROR - pay interface lottery id request faild. continue....
+2019-07-06 22:59:36,505 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 22:59:44,858 - xyft_predict.main - DEBUG - lottery_id: 20190706119
+2019-07-06 22:59:44,858 - xyft_predict.main - INFO - lottery_num: 05,08,03,06,02,01,10,04,07,09
+2019-07-06 22:59:44,859 - xyft_predict.main - DEBUG - mingci [1]: 5
+2019-07-06 22:59:44,861 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'7', u'3', u'5', u'9', u'8', u'4', u'1', u'']
+2019-07-06 22:59:44,861 - xyft_predict.main - DEBUG - mingci [2]: 8
+2019-07-06 22:59:44,862 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'8', u'6', u'9', u'1', u'5', u'7', u'4', u'']
+2019-07-06 22:59:44,862 - xyft_predict.main - DEBUG - mingci [3]: 3
+2019-07-06 22:59:44,864 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'5', u'10', u'8', u'7', u'3', u'9', u'2', u'']
+2019-07-06 22:59:44,865 - xyft_predict.main - DEBUG - mingci [4]: 6
+2019-07-06 22:59:44,865 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'9', u'2', u'1', u'10', u'4', u'7', u'5', u'']
+2019-07-06 22:59:44,865 - xyft_predict.main - DEBUG - mingci [5]: 2
+2019-07-06 22:59:44,867 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'1', u'2', u'8', u'10', u'6', u'3', u'4', u'']
+2019-07-06 22:59:44,868 - xyft_predict.main - DEBUG - mingci [6]: 1
+2019-07-06 22:59:44,869 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'3', u'8', u'6', u'7', u'10', u'5', u'9', u'']
+2019-07-06 22:59:44,871 - xyft_predict.main - DEBUG - mingci [7]: 10
+2019-07-06 22:59:44,871 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'10', u'5', u'7', u'2', u'8', u'6', u'4', u'']
+2019-07-06 22:59:44,871 - xyft_predict.main - DEBUG - mingci [8]: 4
+2019-07-06 22:59:44,872 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'6', u'7', u'10', u'9', u'4', u'8', u'2', u'']
+2019-07-06 22:59:44,872 - xyft_predict.main - DEBUG - mingci [9]: 7
+2019-07-06 22:59:44,874 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'2', u'4', u'5', u'9', u'7', u'6', u'3', u'']
+2019-07-06 22:59:44,875 - xyft_predict.main - DEBUG - mingci [10]: 9
+2019-07-06 22:59:44,875 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'4', u'9', u'8', u'10', u'2', u'3', u'6', u'']
+2019-07-06 22:59:44,875 - xyft_predict.main - DEBUG - ------all_count: 80  ----target_count: 8 
+2019-07-06 22:59:44,878 - xyft_predict.main - DEBUG - target_count: 0.100000
+2019-07-06 22:59:44,940 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-06 22:59:44,941 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-06 22:59:45,053 - xyft_predict.main - INFO - save predict_lottery_id : 20190706120
+2019-07-06 22:59:45,055 - xyft_predict.main - INFO - save purchase_number_list : 5|3|9|8|4|1|7|,8|6|9|1|5|7|4|,3|10|8|5|7|9|2|,6|2|1|10|4|7|5|,2|1|8|10|6|3|4|,1|8|6|7|3|10|5|,10|5|7|2|8|6|4|,4|7|10|9|6|8|2|,7|4|5|9|2|6|3|,9|4|8|10|2|3|6|
+2019-07-06 22:59:45,056 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-06 22:59:45,058 - xyft_predict.main - DEBUG - purchase_number_list len: 80
+2019-07-06 22:59:45,058 - xyft_predict.main - INFO - next_xiazhu_all total : -80
+2019-07-06 22:59:45,061 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-06 23:03:12,609 - xyft_predict.main - INFO - cs11234 not start
+2019-07-06 23:03:14,563 - xyft_predict.main - DEBUG - thread is not alive start!!!
+2019-07-06 23:03:14,565 - xyft_predict.thread - INFO - current_date:20190706 23:03:14
+2019-07-06 23:03:14,566 - xyft_predict.thread - INFO - start purchase
+2019-07-06 23:03:24,569 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 23:05:12,387 - xyft_predict.main - INFO - cs11234 not start
+2019-07-06 23:05:13,875 - xyft_predict.main - DEBUG - thread is not alive start!!!
+2019-07-06 23:08:03,881 - xyft_predict.thread - INFO - current_date:20190706 23:08:03
+2019-07-06 23:08:03,881 - xyft_predict.thread - INFO - start purchase
+2019-07-06 23:08:13,884 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 23:08:23,299 - xyft_predict.main - DEBUG - lottery_id: 20190706120
+2019-07-06 23:08:23,301 - xyft_predict.main - INFO - lottery_num: 03,08,02,06,04,09,01,05,07,10
+2019-07-06 23:08:23,302 - xyft_predict.main - DEBUG - mingci [1]: 3
+2019-07-06 23:08:23,302 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'5', u'3', u'9', u'8', u'4', u'1', u'7', u'']
+2019-07-06 23:08:23,303 - xyft_predict.main - DEBUG - mingci [2]: 8
+2019-07-06 23:08:23,305 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'8', u'6', u'9', u'1', u'5', u'7', u'4', u'']
+2019-07-06 23:08:23,305 - xyft_predict.main - DEBUG - mingci [3]: 2
+2019-07-06 23:08:23,306 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'3', u'10', u'8', u'5', u'7', u'9', u'2', u'']
+2019-07-06 23:08:23,308 - xyft_predict.main - DEBUG - mingci [4]: 6
+2019-07-06 23:08:23,309 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'6', u'2', u'1', u'10', u'4', u'7', u'5', u'']
+2019-07-06 23:08:23,311 - xyft_predict.main - DEBUG - mingci [5]: 4
+2019-07-06 23:08:23,312 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'2', u'1', u'8', u'10', u'6', u'3', u'4', u'']
+2019-07-06 23:08:23,312 - xyft_predict.main - DEBUG - mingci [6]: 9
+2019-07-06 23:08:23,313 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'1', u'8', u'6', u'7', u'3', u'10', u'5', u'']
+2019-07-06 23:08:23,315 - xyft_predict.main - DEBUG - mingci [7]: 1
+2019-07-06 23:08:23,322 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'10', u'5', u'7', u'2', u'8', u'6', u'4', u'']
+2019-07-06 23:08:23,323 - xyft_predict.main - DEBUG - mingci [8]: 5
+2019-07-06 23:08:23,325 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'4', u'7', u'10', u'9', u'6', u'8', u'2', u'']
+2019-07-06 23:08:23,325 - xyft_predict.main - DEBUG - mingci [9]: 7
+2019-07-06 23:08:23,326 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'7', u'4', u'5', u'9', u'2', u'6', u'3', u'']
+2019-07-06 23:08:23,328 - xyft_predict.main - DEBUG - mingci [10]: 10
+2019-07-06 23:08:23,328 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'9', u'4', u'8', u'10', u'2', u'3', u'6', u'']
+2019-07-06 23:08:23,329 - xyft_predict.main - DEBUG - ------all_count: 80  ----target_count: 7 
+2019-07-06 23:08:23,332 - xyft_predict.main - DEBUG - target_count: 0.087500
+2019-07-06 23:08:23,431 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-06 23:08:23,431 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-06 23:08:23,565 - xyft_predict.main - INFO - save predict_lottery_id : 20190706002
+2019-07-06 23:08:23,565 - xyft_predict.main - INFO - save purchase_number_list : 2|4|9|8|5|3|1,6|7|10|8|2|9|3,10|3|9|4|2|5|6,5|4|3|1|8|7|6,3|9|1|8|4|10|6,1|8|10|2|6|9|3,8|5|7|3|9|6|10,7|1|10|2|6|3|4,4|10|5|6|3|7|9,9|6|2|4|7|5|8
+2019-07-06 23:08:23,568 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-06 23:08:23,569 - xyft_predict.main - DEBUG - purchase_number_list len: 70
+2019-07-06 23:08:23,573 - xyft_predict.main - INFO - next_xiazhu_all total : -70
+2019-07-06 23:08:23,575 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-06 23:11:57,394 - xyft_predict.main - INFO - cs11234 not start
+2019-07-06 23:11:58,858 - xyft_predict.main - DEBUG - thread is not alive start!!!
+2019-07-06 23:13:08,862 - xyft_predict.thread - INFO - current_date:20190706 23:13:08
+2019-07-06 23:13:08,862 - xyft_predict.thread - INFO - start purchase
+2019-07-06 23:13:18,864 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 23:13:39,332 - xyft_predict.main - DEBUG - lottery_id: 20190706120
+2019-07-06 23:13:39,334 - xyft_predict.main - INFO - lottery_num: 03,08,02,06,04,09,01,05,07,10
+2019-07-06 23:13:39,335 - xyft_predict.main - DEBUG - mingci [1]: 3
+2019-07-06 23:13:39,336 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'5', u'3', u'9', u'8', u'4', u'1', u'7', u'']
+2019-07-06 23:13:39,338 - xyft_predict.main - DEBUG - mingci [2]: 8
+2019-07-06 23:13:39,338 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'8', u'6', u'9', u'1', u'5', u'7', u'4', u'']
+2019-07-06 23:13:39,339 - xyft_predict.main - DEBUG - mingci [3]: 2
+2019-07-06 23:13:39,341 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'3', u'10', u'8', u'5', u'7', u'9', u'2', u'']
+2019-07-06 23:13:39,342 - xyft_predict.main - DEBUG - mingci [4]: 6
+2019-07-06 23:13:39,342 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'6', u'2', u'1', u'10', u'4', u'7', u'5', u'']
+2019-07-06 23:13:39,344 - xyft_predict.main - DEBUG - mingci [5]: 4
+2019-07-06 23:13:39,345 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'2', u'1', u'8', u'10', u'6', u'3', u'4', u'']
+2019-07-06 23:13:39,345 - xyft_predict.main - DEBUG - mingci [6]: 9
+2019-07-06 23:13:39,345 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'1', u'8', u'6', u'7', u'3', u'10', u'5', u'']
+2019-07-06 23:13:39,346 - xyft_predict.main - DEBUG - mingci [7]: 1
+2019-07-06 23:13:39,348 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'10', u'5', u'7', u'2', u'8', u'6', u'4', u'']
+2019-07-06 23:13:39,348 - xyft_predict.main - DEBUG - mingci [8]: 5
+2019-07-06 23:13:39,349 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'4', u'7', u'10', u'9', u'6', u'8', u'2', u'']
+2019-07-06 23:13:39,351 - xyft_predict.main - DEBUG - mingci [9]: 7
+2019-07-06 23:13:39,351 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'7', u'4', u'5', u'9', u'2', u'6', u'3', u'']
+2019-07-06 23:13:39,352 - xyft_predict.main - DEBUG - mingci [10]: 10
+2019-07-06 23:13:39,358 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'9', u'4', u'8', u'10', u'2', u'3', u'6', u'']
+2019-07-06 23:13:39,358 - xyft_predict.main - DEBUG - ------all_count: 80  ----target_count: 7 
+2019-07-06 23:13:39,361 - xyft_predict.main - DEBUG - target_count: 0.087500
+2019-07-06 23:13:39,480 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-06 23:13:39,480 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-06 23:13:39,628 - xyft_predict.main - INFO - save predict_lottery_id : 20190706122
+2019-07-06 23:13:39,630 - xyft_predict.main - INFO - save purchase_number_list : 4|3|5|7|10|6|8,3|8|7|1|5|9|2,7|2|3|5|8|4|6,8|6|9|2|4|1|5,1|4|2|5|9|6|8,5|9|1|3|7|10|8,9|1|10|3|4|2|7,6|5|4|1|9|7|3,10|7|2|6|4|9|5,2|10|9|4|3|7|6
+2019-07-06 23:13:39,632 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-06 23:13:39,632 - xyft_predict.main - DEBUG - purchase_number_list len: 70
+2019-07-06 23:13:39,634 - xyft_predict.main - INFO - next_xiazhu_all total : -70
+2019-07-06 23:13:39,634 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-06 23:17:25,971 - xyft_predict.main - INFO - cs11234 not start
+2019-07-06 23:17:27,611 - xyft_predict.main - DEBUG - thread is not alive start!!!
+2019-07-06 23:18:07,614 - xyft_predict.thread - INFO - current_date:20190706 23:18:07
+2019-07-06 23:18:07,614 - xyft_predict.thread - INFO - start purchase
+2019-07-06 23:18:17,617 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 23:18:26,410 - xyft_predict.main - DEBUG - lottery_id: 20190706122
+2019-07-06 23:18:26,411 - xyft_predict.main - INFO - lottery_num: 07,09,01,06,10,04,05,03,02,08
+2019-07-06 23:18:26,411 - xyft_predict.main - DEBUG - mingci [1]: 7
+2019-07-06 23:18:26,413 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'4', u'3', u'5', u'7', u'10', u'6', u'8']
+2019-07-06 23:18:26,414 - xyft_predict.main - DEBUG - mingci [2]: 9
+2019-07-06 23:18:26,414 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'3', u'8', u'7', u'1', u'5', u'9', u'2']
+2019-07-06 23:18:26,415 - xyft_predict.main - DEBUG - mingci [3]: 1
+2019-07-06 23:18:26,417 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'7', u'2', u'3', u'5', u'8', u'4', u'6']
+2019-07-06 23:18:26,417 - xyft_predict.main - DEBUG - mingci [4]: 6
+2019-07-06 23:18:26,418 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'8', u'6', u'9', u'2', u'4', u'1', u'5']
+2019-07-06 23:18:26,418 - xyft_predict.main - DEBUG - mingci [5]: 10
+2019-07-06 23:18:26,421 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'1', u'4', u'2', u'5', u'9', u'6', u'8']
+2019-07-06 23:18:26,423 - xyft_predict.main - DEBUG - mingci [6]: 4
+2019-07-06 23:18:26,424 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'5', u'9', u'1', u'3', u'7', u'10', u'8']
+2019-07-06 23:18:26,424 - xyft_predict.main - DEBUG - mingci [7]: 5
+2019-07-06 23:18:26,424 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'9', u'1', u'10', u'3', u'4', u'2', u'7']
+2019-07-06 23:18:26,434 - xyft_predict.main - DEBUG - mingci [8]: 3
+2019-07-06 23:18:26,434 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'6', u'5', u'4', u'1', u'9', u'7', u'3']
+2019-07-06 23:18:26,436 - xyft_predict.main - DEBUG - mingci [9]: 2
+2019-07-06 23:18:26,437 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'10', u'7', u'2', u'6', u'4', u'9', u'5']
+2019-07-06 23:18:26,437 - xyft_predict.main - DEBUG - mingci [10]: 8
+2019-07-06 23:18:26,438 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'2', u'10', u'9', u'4', u'3', u'7', u'6']
+2019-07-06 23:18:26,438 - xyft_predict.main - DEBUG - ------all_count: 70  ----target_count: 5 
+2019-07-06 23:18:26,440 - xyft_predict.main - DEBUG - target_count: 0.071429
+2019-07-06 23:18:26,552 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-06 23:18:26,552 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-06 23:18:26,565 - xyft_predict.main - INFO - save predict_lottery_id : 20190706123
+2019-07-06 23:18:26,575 - xyft_predict.main - INFO - save purchase_number_list : 7|4|3|5|10|6|8,9|3|8|7|1|5|2,1|7|2|3|5|8|4,6|8|9|2|4|1|5,10|4|2|5|9|6|8,4|5|9|1|3|7|10,5|9|1|10|3|4|2,3|6|5|4|1|9|7,2|10|7|6|4|9|5,8|2|10|9|4|3|7
+2019-07-06 23:18:26,576 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-06 23:18:26,578 - xyft_predict.main - DEBUG - purchase_number_list len: 70
+2019-07-06 23:18:26,578 - xyft_predict.main - INFO - next_xiazhu_all total : -70
+2019-07-06 23:18:26,578 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-06 23:28:37,299 - xyft_predict.main - INFO - cs11234 not start
+2019-07-06 23:28:39,006 - xyft_predict.main - DEBUG - thread is not alive start!!!
+2019-07-06 23:28:39,006 - xyft_predict.thread - INFO - current_date:20190706 23:28:39
+2019-07-06 23:28:39,007 - xyft_predict.thread - INFO - start purchase
+2019-07-06 23:28:49,009 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 23:28:57,980 - xyft_predict.main - DEBUG - lottery_id: 20190706123
+2019-07-06 23:28:57,983 - xyft_predict.main - INFO - lottery_num: 04,09,01,07,06,03,05,10,02,08
+2019-07-06 23:28:57,983 - xyft_predict.main - DEBUG - mingci [1]: 4
+2019-07-06 23:28:57,983 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'7', u'4', u'3', u'5', u'10', u'6', u'8']
+2019-07-06 23:28:57,983 - xyft_predict.main - DEBUG - mingci [2]: 9
+2019-07-06 23:28:57,986 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'9', u'3', u'8', u'7', u'1', u'5', u'2']
+2019-07-06 23:28:57,986 - xyft_predict.main - DEBUG - mingci [3]: 1
+2019-07-06 23:28:57,987 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'1', u'7', u'2', u'3', u'5', u'8', u'4']
+2019-07-06 23:28:57,987 - xyft_predict.main - DEBUG - mingci [4]: 7
+2019-07-06 23:28:57,989 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'6', u'8', u'9', u'2', u'4', u'1', u'5']
+2019-07-06 23:28:57,990 - xyft_predict.main - DEBUG - mingci [5]: 6
+2019-07-06 23:28:57,990 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'10', u'4', u'2', u'5', u'9', u'6', u'8']
+2019-07-06 23:28:57,990 - xyft_predict.main - DEBUG - mingci [6]: 3
+2019-07-06 23:28:57,992 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'4', u'5', u'9', u'1', u'3', u'7', u'10']
+2019-07-06 23:28:57,992 - xyft_predict.main - DEBUG - mingci [7]: 5
+2019-07-06 23:28:57,993 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'5', u'9', u'1', u'10', u'3', u'4', u'2']
+2019-07-06 23:28:57,993 - xyft_predict.main - DEBUG - mingci [8]: 10
+2019-07-06 23:28:57,997 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'3', u'6', u'5', u'4', u'1', u'9', u'7']
+2019-07-06 23:28:58,000 - xyft_predict.main - DEBUG - mingci [9]: 2
+2019-07-06 23:28:58,000 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'2', u'10', u'7', u'6', u'4', u'9', u'5']
+2019-07-06 23:28:58,000 - xyft_predict.main - DEBUG - mingci [10]: 8
+2019-07-06 23:28:58,002 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'8', u'2', u'10', u'9', u'4', u'3', u'7']
+2019-07-06 23:28:58,003 - xyft_predict.main - DEBUG - ------all_count: 70  ----target_count: 8 
+2019-07-06 23:28:58,005 - xyft_predict.main - DEBUG - target_count: 0.114286
+2019-07-06 23:28:58,055 - xyft_predict.main - INFO - last_purchase_hit: True
+2019-07-06 23:28:58,056 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-06 23:28:58,066 - xyft_predict.main - INFO - save predict_lottery_id : 20190706125
+2019-07-06 23:28:58,068 - xyft_predict.main - INFO - save purchase_number_list : 9|4|7|3|5|10|6,5|9|3|8|7|1|2,8|1|7|2|3|5|4,1|7|6|8|9|2|4,6|10|1|4|2|5|9,4|3|5|9|1|7|10,10|5|9|1|3|4|2,7|10|3|6|5|4|1,3|2|10|7|6|4|9,2|8|10|9|4|1|3
+2019-07-06 23:28:58,069 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-06 23:28:58,069 - xyft_predict.main - DEBUG - purchase_number_list len: 70
+2019-07-06 23:28:58,071 - xyft_predict.main - INFO - next_xiazhu_all total : -70
+2019-07-06 23:28:58,071 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-06 23:33:01,145 - xyft_predict.thread - INFO - current_date:20190706 23:33:01
+2019-07-06 23:33:01,145 - xyft_predict.thread - INFO - start purchase
+2019-07-06 23:33:11,148 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 23:33:21,398 - xyft_predict.main - DEBUG - lottery_id: 20190706125
+2019-07-06 23:33:21,398 - xyft_predict.main - INFO - lottery_num: 10,03,01,04,05,08,09,06,02,07
+2019-07-06 23:33:21,401 - xyft_predict.main - DEBUG - mingci [1]: 10
+2019-07-06 23:33:21,401 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'9', u'4', u'7', u'3', u'5', u'10', u'6']
+2019-07-06 23:33:21,401 - xyft_predict.main - DEBUG - mingci [2]: 3
+2019-07-06 23:33:21,404 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'5', u'9', u'3', u'8', u'7', u'1', u'2']
+2019-07-06 23:33:21,404 - xyft_predict.main - DEBUG - mingci [3]: 1
+2019-07-06 23:33:21,405 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'8', u'1', u'7', u'2', u'3', u'5', u'4']
+2019-07-06 23:33:21,407 - xyft_predict.main - DEBUG - mingci [4]: 4
+2019-07-06 23:33:21,417 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'1', u'7', u'6', u'8', u'9', u'2', u'4']
+2019-07-06 23:33:21,421 - xyft_predict.main - DEBUG - mingci [5]: 5
+2019-07-06 23:33:21,423 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'6', u'10', u'1', u'4', u'2', u'5', u'9']
+2019-07-06 23:33:21,423 - xyft_predict.main - DEBUG - mingci [6]: 8
+2019-07-06 23:33:21,424 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'4', u'3', u'5', u'9', u'1', u'7', u'10']
+2019-07-06 23:33:21,426 - xyft_predict.main - DEBUG - mingci [7]: 9
+2019-07-06 23:33:21,427 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'10', u'5', u'9', u'1', u'3', u'4', u'2']
+2019-07-06 23:33:21,427 - xyft_predict.main - DEBUG - mingci [8]: 6
+2019-07-06 23:33:21,427 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'7', u'10', u'3', u'6', u'5', u'4', u'1']
+2019-07-06 23:33:21,428 - xyft_predict.main - DEBUG - mingci [9]: 2
+2019-07-06 23:33:21,430 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'3', u'2', u'10', u'7', u'6', u'4', u'9']
+2019-07-06 23:33:21,430 - xyft_predict.main - DEBUG - mingci [10]: 7
+2019-07-06 23:33:21,430 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'2', u'8', u'10', u'9', u'4', u'1', u'3']
+2019-07-06 23:33:21,431 - xyft_predict.main - DEBUG - ------all_count: 70  ----target_count: 8 
+2019-07-06 23:33:21,431 - xyft_predict.main - DEBUG - target_count: 0.114286
+2019-07-06 23:33:21,529 - xyft_predict.main - INFO - last_purchase_hit: True
+2019-07-06 23:33:21,529 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-06 23:33:21,542 - xyft_predict.main - INFO - save predict_lottery_id : 20190706126
+2019-07-06 23:33:21,543 - xyft_predict.main - INFO - save purchase_number_list : 10|9|4|7|3|5|6,3|5|9|8|7|1|2,1|8|7|2|3|5|4,4|1|7|6|8|9|2,5|6|10|1|4|2|9,8|4|3|5|9|1|7,9|10|5|1|3|4|2,6|7|10|3|5|4|1,2|3|10|7|6|4|9,7|2|8|10|9|4|1
+2019-07-06 23:33:21,545 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-06 23:33:21,546 - xyft_predict.main - DEBUG - purchase_number_list len: 70
+2019-07-06 23:33:21,546 - xyft_predict.main - INFO - next_xiazhu_all total : -70
+2019-07-06 23:33:21,548 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-06 23:38:04,621 - xyft_predict.thread - INFO - current_date:20190706 23:38:04
+2019-07-06 23:38:04,621 - xyft_predict.thread - INFO - start purchase
+2019-07-06 23:38:14,622 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 23:39:39,217 - xyft_predict.main - INFO - cs11234 not start
+2019-07-06 23:39:40,740 - xyft_predict.main - DEBUG - thread is not alive start!!!
+2019-07-06 23:39:40,742 - xyft_predict.thread - INFO - current_date:20190706 23:39:40
+2019-07-06 23:39:40,743 - xyft_predict.thread - INFO - start purchase
+2019-07-06 23:39:50,743 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 23:40:02,525 - xyft_predict.main - DEBUG - lottery_id: 20190706126
+2019-07-06 23:40:02,526 - xyft_predict.main - INFO - lottery_num: 03,07,10,02,09,04,05,06,01,08
+2019-07-06 23:40:02,526 - xyft_predict.main - DEBUG - mingci [1]: 3
+2019-07-06 23:40:02,528 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'10', u'9', u'4', u'7', u'3', u'5', u'6']
+2019-07-06 23:40:02,529 - xyft_predict.main - DEBUG - mingci [2]: 7
+2019-07-06 23:40:02,529 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'3', u'5', u'9', u'8', u'7', u'1', u'2']
+2019-07-06 23:40:02,529 - xyft_predict.main - DEBUG - mingci [3]: 10
+2019-07-06 23:40:02,530 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'1', u'8', u'7', u'2', u'3', u'5', u'4']
+2019-07-06 23:40:02,532 - xyft_predict.main - DEBUG - mingci [4]: 2
+2019-07-06 23:40:02,532 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'4', u'1', u'7', u'6', u'8', u'9', u'2']
+2019-07-06 23:40:02,532 - xyft_predict.main - DEBUG - mingci [5]: 9
+2019-07-06 23:40:02,533 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'5', u'6', u'10', u'1', u'4', u'2', u'9']
+2019-07-06 23:40:02,533 - xyft_predict.main - DEBUG - mingci [6]: 4
+2019-07-06 23:40:02,536 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'8', u'4', u'3', u'5', u'9', u'1', u'7']
+2019-07-06 23:40:02,536 - xyft_predict.main - DEBUG - mingci [7]: 5
+2019-07-06 23:40:02,538 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'9', u'10', u'5', u'1', u'3', u'4', u'2']
+2019-07-06 23:40:02,539 - xyft_predict.main - DEBUG - mingci [8]: 6
+2019-07-06 23:40:02,539 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'6', u'7', u'10', u'3', u'5', u'4', u'1']
+2019-07-06 23:40:02,539 - xyft_predict.main - DEBUG - mingci [9]: 1
+2019-07-06 23:40:02,540 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'2', u'3', u'10', u'7', u'6', u'4', u'9']
+2019-07-06 23:40:02,540 - xyft_predict.main - DEBUG - mingci [10]: 8
+2019-07-06 23:40:02,542 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'7', u'2', u'8', u'10', u'9', u'4', u'1']
+2019-07-06 23:40:02,542 - xyft_predict.main - DEBUG - ------all_count: 70  ----target_count: 8 
+2019-07-06 23:40:02,543 - xyft_predict.main - DEBUG - target_count: 0.114286
+2019-07-06 23:40:02,638 - xyft_predict.main - INFO - last_purchase_hit: True
+2019-07-06 23:40:02,638 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-06 23:40:02,661 - xyft_predict.main - INFO - save predict_lottery_id : 20190706128
+2019-07-06 23:40:02,661 - xyft_predict.main - INFO - save purchase_number_list : 8|3|10|9|4|7|5,5|7|3|9|8|1|2,7|10|1|8|2|3|5,3|2|4|1|7|6|8,2|9|5|6|10|1|4,9|4|8|3|5|1|7,10|5|9|1|3|4|2,6|7|10|3|5|4|1,1|2|3|10|7|6|4,4|8|7|2|10|9|1
+2019-07-06 23:40:02,663 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-06 23:40:02,663 - xyft_predict.main - DEBUG - purchase_number_list len: 70
+2019-07-06 23:40:02,664 - xyft_predict.main - INFO - next_xiazhu_all total : -70
+2019-07-06 23:40:02,664 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-06 23:43:05,730 - xyft_predict.thread - INFO - current_date:20190706 23:43:05
+2019-07-06 23:43:05,730 - xyft_predict.thread - INFO - start purchase
+2019-07-06 23:43:15,732 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 23:43:25,344 - xyft_predict.main - DEBUG - lottery_id: 20190706128
+2019-07-06 23:43:25,345 - xyft_predict.main - INFO - lottery_num: 0
+2019-07-06 23:43:25,348 - xyft_predict.main - ERROR - pay interface lottery id request faild. continue....
+2019-07-06 23:43:45,351 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 23:43:54,729 - xyft_predict.main - DEBUG - lottery_id: 20190706128
+2019-07-06 23:43:54,730 - xyft_predict.main - INFO - lottery_num: 0
+2019-07-06 23:43:54,730 - xyft_predict.main - ERROR - pay interface lottery id request faild. continue....
+2019-07-06 23:44:14,733 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 23:44:24,246 - xyft_predict.main - DEBUG - lottery_id: 20190706128
+2019-07-06 23:44:24,246 - xyft_predict.main - INFO - lottery_num: 0
+2019-07-06 23:44:24,249 - xyft_predict.main - ERROR - pay interface lottery id request faild. continue....
+2019-07-06 23:44:44,250 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 23:45:01,871 - xyft_predict.spider_pk10 - ERROR - spider pay interface faild! please exit process......  over purchase!!!
+2019-07-06 23:45:16,871 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 23:45:26,306 - xyft_predict.main - DEBUG - lottery_id: 20190706128
+2019-07-06 23:45:26,308 - xyft_predict.main - INFO - lottery_num: 06,04,10,08,02,07,01,09,03,05
+2019-07-06 23:45:26,309 - xyft_predict.main - DEBUG - mingci [1]: 6
+2019-07-06 23:45:26,309 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'8', u'3', u'10', u'9', u'4', u'7', u'5']
+2019-07-06 23:45:26,312 - xyft_predict.main - DEBUG - mingci [2]: 4
+2019-07-06 23:45:26,312 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'5', u'7', u'3', u'9', u'8', u'1', u'2']
+2019-07-06 23:45:26,313 - xyft_predict.main - DEBUG - mingci [3]: 10
+2019-07-06 23:45:26,313 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'7', u'10', u'1', u'8', u'2', u'3', u'5']
+2019-07-06 23:45:26,315 - xyft_predict.main - DEBUG - mingci [4]: 8
+2019-07-06 23:45:26,315 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'3', u'2', u'4', u'1', u'7', u'6', u'8']
+2019-07-06 23:45:26,316 - xyft_predict.main - DEBUG - mingci [5]: 2
+2019-07-06 23:45:26,318 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'2', u'9', u'5', u'6', u'10', u'1', u'4']
+2019-07-06 23:45:26,319 - xyft_predict.main - DEBUG - mingci [6]: 7
+2019-07-06 23:45:26,319 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'9', u'4', u'8', u'3', u'5', u'1', u'7']
+2019-07-06 23:45:26,321 - xyft_predict.main - DEBUG - mingci [7]: 1
+2019-07-06 23:45:26,321 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'10', u'5', u'9', u'1', u'3', u'4', u'2']
+2019-07-06 23:45:26,322 - xyft_predict.main - DEBUG - mingci [8]: 9
+2019-07-06 23:45:26,322 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'6', u'7', u'10', u'3', u'5', u'4', u'1']
+2019-07-06 23:45:26,322 - xyft_predict.main - DEBUG - mingci [9]: 3
+2019-07-06 23:45:26,323 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'1', u'2', u'3', u'10', u'7', u'6', u'4']
+2019-07-06 23:45:26,325 - xyft_predict.main - DEBUG - mingci [10]: 5
+2019-07-06 23:45:26,325 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'4', u'8', u'7', u'2', u'10', u'9', u'1']
+2019-07-06 23:45:26,325 - xyft_predict.main - DEBUG - ------all_count: 70  ----target_count: 6 
+2019-07-06 23:45:26,326 - xyft_predict.main - DEBUG - target_count: 0.085714
+2019-07-06 23:45:26,437 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-06 23:45:26,438 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-06 23:45:26,466 - xyft_predict.main - INFO - save predict_lottery_id : 20190706129
+2019-07-06 23:45:26,467 - xyft_predict.main - INFO - save purchase_number_list : 6|8|3|10|9|4|7,4|5|7|3|9|8|1,10|7|1|8|2|3|5,8|3|2|4|1|7|6,2|9|5|6|10|1|4,7|9|4|8|3|5|1,1|10|5|9|3|4|2,9|6|7|10|3|5|4,3|1|2|10|7|6|4,5|4|8|7|2|10|9
+2019-07-06 23:45:26,467 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-06 23:45:26,469 - xyft_predict.main - DEBUG - purchase_number_list len: 70
+2019-07-06 23:45:26,469 - xyft_predict.main - INFO - next_xiazhu_all total : -70
+2019-07-06 23:45:26,470 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-06 23:48:09,561 - xyft_predict.thread - INFO - current_date:20190706 23:48:09
+2019-07-06 23:48:09,561 - xyft_predict.thread - INFO - start purchase
+2019-07-06 23:48:19,562 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 23:48:36,795 - xyft_predict.spider_pk10 - ERROR - spider pay interface faild! please exit process......  over purchase!!!
+2019-07-06 23:48:51,796 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 23:49:04,071 - xyft_predict.main - DEBUG - lottery_id: 20190706129
+2019-07-06 23:49:04,072 - xyft_predict.main - INFO - lottery_num: 0
+2019-07-06 23:49:04,072 - xyft_predict.main - ERROR - pay interface lottery id request faild. continue....
+2019-07-06 23:49:24,075 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 23:49:40,020 - xyft_predict.spider_pk10 - ERROR - spider pay interface faild! please exit process......  over purchase!!!
+2019-07-06 23:49:55,022 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 23:50:04,647 - xyft_predict.main - DEBUG - lottery_id: 20190706129
+2019-07-06 23:50:04,648 - xyft_predict.main - INFO - lottery_num: 06,09,01,05,10,07,02,03,04,08
+2019-07-06 23:50:04,648 - xyft_predict.main - DEBUG - mingci [1]: 6
+2019-07-06 23:50:04,650 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'6', u'8', u'3', u'10', u'9', u'4', u'7']
+2019-07-06 23:50:04,651 - xyft_predict.main - DEBUG - mingci [2]: 9
+2019-07-06 23:50:04,651 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'4', u'5', u'7', u'3', u'9', u'8', u'1']
+2019-07-06 23:50:04,651 - xyft_predict.main - DEBUG - mingci [3]: 1
+2019-07-06 23:50:04,651 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'10', u'7', u'1', u'8', u'2', u'3', u'5']
+2019-07-06 23:50:04,653 - xyft_predict.main - DEBUG - mingci [4]: 5
+2019-07-06 23:50:04,654 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'8', u'3', u'2', u'4', u'1', u'7', u'6']
+2019-07-06 23:50:04,654 - xyft_predict.main - DEBUG - mingci [5]: 10
+2019-07-06 23:50:04,654 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'2', u'9', u'5', u'6', u'10', u'1', u'4']
+2019-07-06 23:50:04,655 - xyft_predict.main - DEBUG - mingci [6]: 7
+2019-07-06 23:50:04,657 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'7', u'9', u'4', u'8', u'3', u'5', u'1']
+2019-07-06 23:50:04,658 - xyft_predict.main - DEBUG - mingci [7]: 2
+2019-07-06 23:50:04,658 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'1', u'10', u'5', u'9', u'3', u'4', u'2']
+2019-07-06 23:50:04,660 - xyft_predict.main - DEBUG - mingci [8]: 3
+2019-07-06 23:50:04,661 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'9', u'6', u'7', u'10', u'3', u'5', u'4']
+2019-07-06 23:50:04,661 - xyft_predict.main - DEBUG - mingci [9]: 4
+2019-07-06 23:50:04,661 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'3', u'1', u'2', u'10', u'7', u'6', u'4']
+2019-07-06 23:50:04,663 - xyft_predict.main - DEBUG - mingci [10]: 8
+2019-07-06 23:50:04,664 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'5', u'4', u'8', u'7', u'2', u'10', u'9']
+2019-07-06 23:50:04,664 - xyft_predict.main - DEBUG - ------all_count: 70  ----target_count: 9 
+2019-07-06 23:50:04,664 - xyft_predict.main - DEBUG - target_count: 0.128571
+2019-07-06 23:50:04,812 - xyft_predict.main - INFO - last_purchase_hit: True
+2019-07-06 23:50:04,813 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-06 23:50:04,828 - xyft_predict.main - INFO - save predict_lottery_id : 20190706130
+2019-07-06 23:50:04,829 - xyft_predict.main - INFO - save purchase_number_list : 6|8|3|10|9|4|7,9|4|5|7|3|8|1,1|10|7|8|2|3|5,5|8|3|2|4|1|7,10|2|9|5|6|1|4,7|9|4|8|3|5|1,2|1|10|5|9|3|4,3|9|6|7|10|5|4,4|3|1|2|10|7|6,8|5|4|7|2|10|9
+2019-07-06 23:50:04,831 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-06 23:50:04,832 - xyft_predict.main - DEBUG - purchase_number_list len: 70
+2019-07-06 23:50:04,845 - xyft_predict.main - INFO - next_xiazhu_all total : -70
+2019-07-06 23:50:04,845 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-06 23:53:07,931 - xyft_predict.thread - INFO - current_date:20190706 23:53:07
+2019-07-06 23:53:07,931 - xyft_predict.thread - INFO - start purchase
+2019-07-06 23:53:17,934 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 23:53:36,815 - xyft_predict.spider_pk10 - ERROR - spider pay interface faild! please exit process......  over purchase!!!
+2019-07-06 23:53:51,816 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 23:54:03,701 - xyft_predict.main - DEBUG - lottery_id: 20190706130
+2019-07-06 23:54:03,701 - xyft_predict.main - INFO - lottery_num: 0
+2019-07-06 23:54:03,706 - xyft_predict.main - ERROR - pay interface lottery id request faild. continue....
+2019-07-06 23:54:23,707 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 23:54:39,911 - xyft_predict.spider_pk10 - ERROR - spider pay interface faild! please exit process......  over purchase!!!
+2019-07-06 23:54:54,913 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 23:55:04,187 - xyft_predict.main - DEBUG - lottery_id: 20190706130
+2019-07-06 23:55:04,187 - xyft_predict.main - INFO - lottery_num: 08,01,09,07,03,02,06,04,10,05
+2019-07-06 23:55:04,188 - xyft_predict.main - DEBUG - mingci [1]: 8
+2019-07-06 23:55:04,188 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'6', u'8', u'3', u'10', u'9', u'4', u'7']
+2019-07-06 23:55:04,190 - xyft_predict.main - DEBUG - mingci [2]: 1
+2019-07-06 23:55:04,190 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'9', u'4', u'5', u'7', u'3', u'8', u'1']
+2019-07-06 23:55:04,191 - xyft_predict.main - DEBUG - mingci [3]: 9
+2019-07-06 23:55:04,191 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'1', u'10', u'7', u'8', u'2', u'3', u'5']
+2019-07-06 23:55:04,193 - xyft_predict.main - DEBUG - mingci [4]: 7
+2019-07-06 23:55:04,194 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'5', u'8', u'3', u'2', u'4', u'1', u'7']
+2019-07-06 23:55:04,194 - xyft_predict.main - DEBUG - mingci [5]: 3
+2019-07-06 23:55:04,197 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'10', u'2', u'9', u'5', u'6', u'1', u'4']
+2019-07-06 23:55:04,197 - xyft_predict.main - DEBUG - mingci [6]: 2
+2019-07-06 23:55:04,197 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'7', u'9', u'4', u'8', u'3', u'5', u'1']
+2019-07-06 23:55:04,198 - xyft_predict.main - DEBUG - mingci [7]: 6
+2019-07-06 23:55:04,198 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'2', u'1', u'10', u'5', u'9', u'3', u'4']
+2019-07-06 23:55:04,200 - xyft_predict.main - DEBUG - mingci [8]: 4
+2019-07-06 23:55:04,200 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'3', u'9', u'6', u'7', u'10', u'5', u'4']
+2019-07-06 23:55:04,201 - xyft_predict.main - DEBUG - mingci [9]: 10
+2019-07-06 23:55:04,203 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'4', u'3', u'1', u'2', u'10', u'7', u'6']
+2019-07-06 23:55:04,203 - xyft_predict.main - DEBUG - mingci [10]: 5
+2019-07-06 23:55:04,203 - xyft_predict.main - DEBUG - purchase_number_list[i]: [u'8', u'5', u'4', u'7', u'2', u'10', u'9']
+2019-07-06 23:55:04,204 - xyft_predict.main - DEBUG - ------all_count: 70  ----target_count: 6 
+2019-07-06 23:55:04,206 - xyft_predict.main - DEBUG - target_count: 0.085714
+2019-07-06 23:55:04,352 - xyft_predict.main - INFO - last_purchase_hit: False
+2019-07-06 23:55:04,352 - xyft_predict.main - INFO - xiazhu_nums: 0
+2019-07-06 23:55:04,364 - xyft_predict.main - INFO - save predict_lottery_id : 20190706131
+2019-07-06 23:55:04,365 - xyft_predict.main - INFO - save purchase_number_list : 8|6|3|10|9|4|7,1|9|4|5|7|3|8,9|1|10|7|8|2|3,7|5|8|3|2|4|1,3|10|2|9|5|6|1,2|7|9|4|8|3|5,6|2|1|10|5|9|3,4|3|9|6|7|10|5,10|4|3|1|2|7|6,5|8|4|7|2|10|9
+2019-07-06 23:55:04,367 - xyft_predict.main - INFO - gain_money_total total : 0
+2019-07-06 23:55:04,377 - xyft_predict.main - DEBUG - purchase_number_list len: 70
+2019-07-06 23:55:04,378 - xyft_predict.main - INFO - next_xiazhu_all total : -70
+2019-07-06 23:55:04,378 - xyft_predict.main - INFO - result xiazhu : 1
+2019-07-06 23:58:07,441 - xyft_predict.thread - INFO - current_date:20190706 23:58:07
+2019-07-06 23:58:07,443 - xyft_predict.thread - INFO - start purchase
+2019-07-06 23:58:17,444 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 23:58:27,581 - xyft_predict.main - DEBUG - lottery_id: 20190706131
+2019-07-06 23:58:27,582 - xyft_predict.main - INFO - lottery_num: 0
+2019-07-06 23:58:27,582 - xyft_predict.main - ERROR - pay interface lottery id request faild. continue....
+2019-07-06 23:58:47,585 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 23:58:57,282 - xyft_predict.main - DEBUG - lottery_id: 20190706131
+2019-07-06 23:58:57,283 - xyft_predict.main - INFO - lottery_num: 0
+2019-07-06 23:58:57,283 - xyft_predict.main - ERROR - pay interface lottery id request faild. continue....
+2019-07-06 23:59:17,285 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-06 23:59:27,209 - xyft_predict.main - DEBUG - lottery_id: 20190706131
+2019-07-06 23:59:27,210 - xyft_predict.main - INFO - lottery_num: 0
+2019-07-06 23:59:27,210 - xyft_predict.main - ERROR - pay interface lottery id request faild. continue....
+2019-07-06 23:59:47,213 - xyft_predict.spider_pk10 - INFO - url:https://api.api861861.com/pks/getPksHistoryList.do?date=2019-07-06&lotCode=10057
+2019-07-07 00:00:01,927 - xyft_predict.main - DEBUG - predicts is null
+2019-07-07 00:00:01,927 - xyft_predict.main - DEBUG - lottery_id: 0
+2019-07-07 00:00:01,928 - xyft_predict.main - DEBUG - no predict record in history
